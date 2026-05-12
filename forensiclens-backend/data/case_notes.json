@@ -4,5 +4,11 @@
     "source": "allegation_qa",
     "question": "What is the potential fraud type?",
     "answer": "The potential fraud type appears to be a billing scheme, involving allegations of inflated invoices and charges for services not rendered by the contractor, Oddity. There is also a suspicion of potential kickbacks to an internal employee for approving these excessive charges."
+  },
+  {
+    "timestamp": "2026-05-12T09:51:48.394316+00:00",
+    "source": "allegation_qa",
+    "question": "Who are the key parties?",
+    "answer": "The key parties identified are Sarah Miller, the Accounting Manager, Robin Flowers, the Head of Finance, and William Taylor, the Maintenance Manager. Oddity, the piping contractor, is also a central party in the allegations of inflated invoices."
   }
 ]

@@ -91,7 +91,7 @@ function EvidenceWorkspace() {
   const [loadingScan, setLoadingScan] = useState(false);
   const [showFileViewer, setShowFileViewer] = useState(false);
   const [fileViewerContent, setFileViewerContent] = useState("");
-  const [fileViewerTitle, setFileViewerTitle] = useState("");
+  const [fileViewerDetails, setFileViewerDetails] = useState<any>(null);
 
   useEffect(() => {
     if (tab === "Evidence Scan" && !scanData) {
@@ -155,13 +155,13 @@ function EvidenceWorkspace() {
     }
   };
 
-  const handleOpenFile = async (evidenceId: string, fileName: string) => {
-    setFileViewerTitle(fileName);
+  const handleOpenFile = async (details: any) => {
+    setFileViewerDetails(details);
     setFileViewerContent("Loading file content..."); // Placeholder
     setShowFileViewer(true);
 
     try {
-      const res = await fetch(`${API}/evidence/file/${evidenceId}`); // Assuming this endpoint exists
+      const res = await fetch(`${API}/evidence/file/${details.id}`); // Assuming this endpoint exists
       if (!res.ok) {
         throw new Error("Failed to fetch file content");
       }
@@ -289,7 +289,7 @@ function EvidenceWorkspace() {
                     <Td><Badge tone={rowStatus === "Duplicate Review" ? "warning" : "neutral"}>{rowStatus}</Badge></Td>
                     <Td>
                       <div className="flex flex-wrap gap-1"> 
-                      <Btn variant="ghost" onClick={() => handleOpenFile(id, fileName)}>Open</Btn>
+                      <Btn variant="ghost" onClick={() => handleOpenFile({ id, fileName, type, parties, relevance, linkedAp, rowStatus })}>Open</Btn>
                       <Btn variant="ghost">Link</Btn>
                       <Btn variant="ghost">Mark Relevant</Btn>
                       </div>
@@ -434,18 +434,35 @@ function EvidenceWorkspace() {
       )}
 
       {showFileViewer && (
-        <div className="fixed inset-0 z-50 flex items-center justify-center bg-black bg-opacity-50 p-4">
-          <div className="bg-card rounded-lg shadow-lg w-full max-w-3xl h-3/4 flex flex-col">
-            <div className="flex justify-between items-center border-b border-border p-4">
-              <h3 className="text-lg font-semibold">{fileViewerTitle}</h3>
-              <Btn variant="ghost" onClick={() => setShowFileViewer(false)}>Close</Btn>
+        <div
+          className="fixed inset-0 z-[100] flex justify-end bg-black/40" // Align to right, remove vertical centering
+          onClick={() => setShowFileViewer(false)}
+        >
+          <div
+            className="bg-card border border-border rounded-l-xl shadow-2xl w-full max-w-md h-full flex flex-col overflow-hidden animate-in fade-in slide-in-from-right duration-200" // Smaller max-width, full height, slide-in animation
+            onClick={(e) => e.stopPropagation()}
+          >
+            <div className="flex justify-between items-center border-b border-border p-4 bg-muted/30">
+              <div>
+                <h3 className="text-lg font-bold text-foreground">{fileViewerDetails?.fileName}</h3>
+                <p className="text-xs text-muted-foreground flex gap-2 mt-1 uppercase tracking-wider">
+                   <span>ID: {fileViewerDetails?.id}</span>
+                   <span>&bull;</span>
+                   <span>Type: {fileViewerDetails?.type}</span>
+                </p>
+              </div>
+              <Btn variant="ghost" onClick={() => setShowFileViewer(false)} size="sm">Close</Btn>
             </div>
-            <div className="flex-1 p-4 overflow-auto text-sm text-muted-foreground">
-              {fileViewerContent === "Loading file content..." ? (
-                <div className="flex items-center justify-center h-full"><Loader2 className="h-6 w-6 animate-spin text-accent" /></div>
-              ) : (
-                <pre className="whitespace-pre-wrap">{fileViewerContent}</pre>
-              )}
+            
+            <div className="flex-1 overflow-hidden">
+               {/* Main Content Area */}
+               <div className="p-6 h-full overflow-auto bg-background">
+                  {fileViewerContent === "Loading file content..." ? (
+                    <div className="flex items-center justify-center h-full"><Loader2 className="h-8 w-8 animate-spin text-accent" /></div>
+                  ) : (
+                    <pre className="text-sm leading-relaxed whitespace-pre-wrap font-sans text-foreground">{fileViewerContent}</pre>
+                  )}
+               </div>
             </div>
           </div>
         </div>
