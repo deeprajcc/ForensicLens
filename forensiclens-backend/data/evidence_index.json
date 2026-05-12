@@ -1,0 +1,1673 @@
+[
+  {
+    "evidence_id": "EV-001",
+    "file_name": "chain1.txt",
+    "evidence_type": "Chain Email",
+    "relevance_label": "Medium",
+    "linked_allegation_points": [],
+    "status": "Needs Review",
+    "characters": 1375,
+    "content_preview": "From: Michael@Oddityhubx.com\r To: William.Taylor@flangecorex.com \r Sent: 27 January 2025, 08:45\r Subject: Site Access Timing for Feb\r \r Hi Will,\r \r Quick one — are we still good for site access the week of the 5th? Our team is finalizing logistics, and I’d like to confirm before we lock in equipment..."
+  },
+  {
+    "evidence_id": "EV-002",
+    "file_name": "chain2.txt",
+    "evidence_type": "Chain Email",
+    "relevance_label": "Medium",
+    "linked_allegation_points": [],
+    "status": "Needs Review",
+    "characters": 1354,
+    "content_preview": "From: Michael@Oddityhubx.com\r To: William.Taylor@flangecorex.com\r Sent: 31 January 2025, 10:17\r Subject: Follow-Up on Agreement Terms\r \r Hi Will,\r \r Appreciate the time on the call yesterday. I’ve pulled together a revised structure based on your feedback — same monthly rate, but with a three-month ..."
+  },
+  {
+    "evidence_id": "EV-003",
+    "file_name": "chain3.txt",
+    "evidence_type": "Chain Email",
+    "relevance_label": "Medium",
+    "linked_allegation_points": [
+      "AP-002",
+      "AP-011"
+    ],
+    "status": "Needs Review",
+    "characters": 2378,
+    "content_preview": "From: Michael@Oddityhubx.com\r To: William.Taylor@flangecorex.com\r CC: Sophie.Lane@Oddityhubx.com\r Sent: 05 May 2025, 09:18\r Subject: Workshop Planning – Collaboration Next Month\r \r Hi Will,\r \r Hope you’re well! Sophie and I were chatting about running that joint workshop we mentioned last time. We t..."
+  },
+  {
+    "evidence_id": "EV-004",
+    "file_name": "chain4.txt",
+    "evidence_type": "Chain Email",
+    "relevance_label": "Medium",
+    "linked_allegation_points": [
+      "AP-002",
+      "AP-004",
+      "AP-011"
+    ],
+    "status": "Needs Review",
+    "characters": 2094,
+    "content_preview": "Email Chain – Vendor Selection for Equipment\r From: Emma.Jones@Oddityhubx.com\r To: William.Taylor@flangecorex.com\r CC: Michael@Oddityhubx.com\r Sent: 12 May 2025, 14:03\r Subject: Vendor Proposals – Review & Next Steps\r \r Hi Will,\r \r Hope you’re doing well. We’ve received the proposals from the three ..."
+  },
+  {
+    "evidence_id": "EV-005",
+    "file_name": "chain5.txt",
+    "evidence_type": "Chain Email",
+    "relevance_label": "Medium",
+    "linked_allegation_points": [
+      "AP-002",
+      "AP-011"
+    ],
+    "status": "Needs Review",
+    "characters": 2151,
+    "content_preview": "From: Lena.Simpson@Oddityhubx.com\r To: William.Taylor@flangecorex.com\r CC: Michael@Oddityhubx.com\r Sent: 20 May 2025, 09:25\r Subject: Scheduling Training Sessions for New Software\r \r Hi Will,\r \r Hope all is well. We’re rolling out the new project management software next month, and I’m coordinating ..."
+  },
+  {
+    "evidence_id": "EV-006",
+    "file_name": "chain6.txt",
+    "evidence_type": "Chain Email",
+    "relevance_label": "Medium",
+    "linked_allegation_points": [],
+    "status": "Needs Review",
+    "characters": 2273,
+    "content_preview": "From: Rachel.Morris@Oddityhubx.com\r To: William.Taylor@flangecorex.com\r CC: Michael@Oddityhubx.com\r Sent: 15 June 2025, 09:12\r Subject: Office Move – Coordination and Timeline\r \r Hi Will,\r \r I wanted to touch base regarding our planned office relocation at Oddity next quarter. We’re aiming to move b..."
+  },
+  {
+    "evidence_id": "EV-007",
+    "file_name": "chain7.txt",
+    "evidence_type": "Chain Email",
+    "relevance_label": "High",
+    "linked_allegation_points": [
+      "AP-002",
+      "AP-007",
+      "AP-011"
+    ],
+    "status": "Needs Review",
+    "characters": 2364,
+    "content_preview": "From: Sarah.Miller@flangecorex.com\r To: Jack.Reynolds@flangecorex.com\r Sent: 03 July 2025, 09:16\r Subject: Timesheet Template – Which One??\r \r Hi Jack,\r \r Quick one – has the timesheet format changed again? I opened the version in the shared drive this morning and it's asking for codes I’ve literall..."
+  },
+  {
+    "evidence_id": "EV-008",
+    "file_name": "chain8.txt",
+    "evidence_type": "Chain Email",
+    "relevance_label": "High",
+    "linked_allegation_points": [
+      "AP-001",
+      "AP-002",
+      "AP-003",
+      "AP-004",
+      "AP-007",
+      "AP-008",
+      "AP-009",
+      "AP-011"
+    ],
+    "status": "Needs Review",
+    "characters": 2139,
+    "content_preview": "From: William.Taylor@flangecorex.com\r To: Michael@Oddityhubx.com\r Sent: 04 July 2025, 12:05\r Subject: New Invoicing Process\r \r Hi Mike,\r \r We’ve made a few changes to how we process external invoices — starting this month, everything needs to be submitted via the new portal, with line item breakdown..."
+  },
+  {
+    "evidence_id": "EV-009",
+    "file_name": "email1.txt",
+    "evidence_type": "Email",
+    "relevance_label": "Medium",
+    "linked_allegation_points": [],
+    "status": "Needs Review",
+    "characters": 782,
+    "content_preview": "From: William.Taylor@flangecorex.com\r To: Sophie.Lang@qelvirox.com\r CC:\r BCC:\r Sent: 17 January 2025, 14:26\r Subject: Site Survey Timing & Coordination\r \r Message:\r Hi Sophie,\r \r Thanks for sending over the initial notes from your team. I’ve spoken with Michael at Oddity, and we’re now aiming to hav..."
+  },
+  {
+    "evidence_id": "EV-010",
+    "file_name": "email10.txt",
+    "evidence_type": "Email",
+    "relevance_label": "Medium",
+    "linked_allegation_points": [
+      "AP-002",
+      "AP-011"
+    ],
+    "status": "Needs Review",
+    "characters": 361,
+    "content_preview": "From: Emma.Jones@Oddityhubx.com\r To: William.Taylor@flangecorex.com\r Sent: 18 May 2025, 13:12\r Subject: Procurement Update – Vendor Contracts\r \r Hi Will,\r \r We’re finalizing contracts with the selected vendors this week. I’ll share the finalized documents for your review by Friday. Please let me kno..."
+  },
+  {
+    "evidence_id": "EV-011",
+    "file_name": "email11.txt",
+    "evidence_type": "Email",
+    "relevance_label": "Low",
+    "linked_allegation_points": [],
+    "status": "Needs Review",
+    "characters": 348,
+    "content_preview": "From: Rachel.Morris@Oddityhubx.com\r To: Michael@Oddityhubx.com\r Sent: 17 June 2025, 15:07\r Subject: Office Move Budget Review\r \r Hi Mike,\r \r I’ve completed the preliminary budget estimates for the office relocation. Can we schedule some time early next week to review and adjust as needed before pres..."
+  },
+  {
+    "evidence_id": "EV-012",
+    "file_name": "email12.txt",
+    "evidence_type": "Email",
+    "relevance_label": "Medium",
+    "linked_allegation_points": [
+      "AP-002",
+      "AP-011"
+    ],
+    "status": "Needs Review",
+    "characters": 302,
+    "content_preview": "From: William.Taylor@flangecorex.com\r To: Michael@Oddityhubx.com\r Sent: 22 May 2025, 09:45\r Subject: Welding Gear Update\r \r Hi Mike,\r \r The new welding gear is landing on the 30th. I’ll make sure we’re ready for installation and testing. Give me a shout if you need anything before then.\r \r Best,\r Wi..."
+  },
+  {
+    "evidence_id": "EV-013",
+    "file_name": "email13.txt",
+    "evidence_type": "Email",
+    "relevance_label": "Medium",
+    "linked_allegation_points": [
+      "AP-002",
+      "AP-011"
+    ],
+    "status": "Needs Review",
+    "characters": 313,
+    "content_preview": "From: Michael@Oddityhubx.com\r To: William.Taylor@flangecorex.com\r Sent: 28 May 2025, 11:12\r Subject: Lunch Plans?\r \r Hey Will,\r \r Any chance you’re up for grabbing lunch this week? I’ve been meaning to try that new place near the office — heard good things!\r \r Let me know what day works for you.\r \r ..."
+  },
+  {
+    "evidence_id": "EV-014",
+    "file_name": "email14.txt",
+    "evidence_type": "Email",
+    "relevance_label": "Medium",
+    "linked_allegation_points": [
+      "AP-002",
+      "AP-011"
+    ],
+    "status": "Needs Review",
+    "characters": 281,
+    "content_preview": "From: William.Taylor@flangecorex.com\r To: Michael@Oddityhubx.com\r Sent: 28 May 2025, 11:45\r Subject: RE: Lunch Plans?\r \r Hey Mike,\r \r Sounds great! Thursday works best for me. That new spot you mentioned — is it the one with the wood-fired pizzas?\r \r Looking forward to it.\r \r Will..."
+  },
+  {
+    "evidence_id": "EV-015",
+    "file_name": "email15.txt",
+    "evidence_type": "Email",
+    "relevance_label": "Low",
+    "linked_allegation_points": [],
+    "status": "Needs Review",
+    "characters": 238,
+    "content_preview": "From: Emma.Jones@Oddityhubx.com\r To: Michael@Oddityhubx.com\r Sent: 05 June 2025, 15:23\r Subject: Coffee Break?\r \r Hey Mike,\r \r Need a quick break? I’m heading downstairs to grab a coffee in 10 minutes if you want to join.\r \r Cheers,\r Emma..."
+  },
+  {
+    "evidence_id": "EV-016",
+    "file_name": "email16.txt",
+    "evidence_type": "Email",
+    "relevance_label": "Low",
+    "linked_allegation_points": [],
+    "status": "Needs Review",
+    "characters": 212,
+    "content_preview": "From: Michael@Oddityhubx.com\r To: Emma.Jones@Oddityhubx.comS\r Sent: 05 June 2025, 15:25\r Subject: RE: Coffee Break?\r \r Hey Emma,\r \r Perfect timing — I could definitely use a caffeine boost. I’ll be there!\r \r Mike..."
+  },
+  {
+    "evidence_id": "EV-017",
+    "file_name": "email17.txt",
+    "evidence_type": "Email",
+    "relevance_label": "Medium",
+    "linked_allegation_points": [
+      "AP-002",
+      "AP-011"
+    ],
+    "status": "Needs Review",
+    "characters": 311,
+    "content_preview": "From: Lena.Simpson@Oddityhubx.com\r To: William.Taylor@flangecorex.com\r Sent: 12 June 2025, 08:17\r Subject: Weekend Plans?\r \r Morning Will,\r \r Got anything fun planned this weekend? I’m thinking about checking out that new hiking trail near the river.\r \r If you’re up for it, maybe a group hike?\r \r Ch..."
+  },
+  {
+    "evidence_id": "EV-018",
+    "file_name": "email18.txt",
+    "evidence_type": "Email",
+    "relevance_label": "Medium",
+    "linked_allegation_points": [],
+    "status": "Needs Review",
+    "characters": 245,
+    "content_preview": "From: William.Taylor@flangecorex.com\r To: Lena.Simpson@Oddityhubx.com\r Sent: 12 June 2025, 08:45\r Subject: RE: Weekend Plans?\r \r Morning Lena,\r \r Sounds tempting! I haven’t done a proper hike in ages. Count me in — just let me know when.\r \r Will..."
+  },
+  {
+    "evidence_id": "EV-019",
+    "file_name": "email19.txt",
+    "evidence_type": "Email",
+    "relevance_label": "Medium",
+    "linked_allegation_points": [],
+    "status": "Needs Review",
+    "characters": 343,
+    "content_preview": "From: William.Taylor@flangecorex.com\r To: Michael@Oddityhubx.com\r Sent: 14 June 2025, 09:02\r Subject: RE: Project Timeline\r \r Mike,\r \r I’m still waiting on that updated timeline you promised last week. Are you hiding it from me, or did the dog eat your email again?\r \r Seriously though, it’s importan..."
+  },
+  {
+    "evidence_id": "EV-020",
+    "file_name": "email2.txt",
+    "evidence_type": "Email",
+    "relevance_label": "Medium",
+    "linked_allegation_points": [],
+    "status": "Needs Review",
+    "characters": 691,
+    "content_preview": "From: Michael@Oddityhubx.com\r To: Danielle.Chan@qintrex.com\r CC:\r BCC:\r Sent: 22 January 2025, 09:03\r Subject: Integration Follow-Up\r \r Message:\r Hi Danielle,\r \r Just following up on the integration call last week. William and I had a chance to review the API documentation you sent through, and it l..."
+  },
+  {
+    "evidence_id": "EV-021",
+    "file_name": "email20.txt",
+    "evidence_type": "Email",
+    "relevance_label": "Medium",
+    "linked_allegation_points": [],
+    "status": "Needs Review",
+    "characters": 327,
+    "content_preview": "From: Michael@Oddityhubx.com\r To: William.Taylor@flangecorex.com\r Sent: 14 June 2025, 09:15\r Subject: RE: Project Timeline\r \r Will,\r \r If my dog starts eating emails, I’ll be sure to let you know — but I’m pretty sure it’s you who keeps losing the drafts! Timeline is attached; no dog involved.\r \r Tr..."
+  },
+  {
+    "evidence_id": "EV-022",
+    "file_name": "email21.txt",
+    "evidence_type": "Email",
+    "relevance_label": "Medium",
+    "linked_allegation_points": [],
+    "status": "Needs Review",
+    "characters": 385,
+    "content_preview": "From: Lena.Simpson@Oddityhubx.com\r To: William.Taylor@flangecorex.com\r Sent: 21 June 2025, 14:30\r Subject: RE: Training Attendance\r \r Will,\r \r I noticed three no-shows for the last training session — is your team secretly trying to sabotage me?\r \r If so, tell them it’s working, but I’m onto them. Ne..."
+  },
+  {
+    "evidence_id": "EV-023",
+    "file_name": "email22.txt",
+    "evidence_type": "Email",
+    "relevance_label": "Medium",
+    "linked_allegation_points": [
+      "AP-002",
+      "AP-011"
+    ],
+    "status": "Needs Review",
+    "characters": 336,
+    "content_preview": "From: William.Taylor@flangecorex.com\r To: Lena.Simpson@Oddityhubx.com\r Sent: 21 June 2025, 14:45\r Subject: RE: Training Attendance\r \r Lena,\r \r If they get nicknames, you better watch out — I might start calling you “The Attendance Enforcer.”\r \r But seriously, some of them had client meetings. Maybe ..."
+  },
+  {
+    "evidence_id": "EV-024",
+    "file_name": "email23.txt",
+    "evidence_type": "Email",
+    "relevance_label": "Medium",
+    "linked_allegation_points": [
+      "AP-002",
+      "AP-011"
+    ],
+    "status": "Needs Review",
+    "characters": 346,
+    "content_preview": "From: Michael@Oddityhubx.com\r To: William.Taylor@flangecorex.com\r Sent: 30 June 2025, 11:10\r Subject: RE: Equipment Delivery Delay\r \r Will,\r \r So the equipment delivery is delayed again — should we start sending carrier pigeons? Or maybe just good old-fashioned emails?\r \r Let me know if you want me ..."
+  },
+  {
+    "evidence_id": "EV-025",
+    "file_name": "email24.txt",
+    "evidence_type": "Email",
+    "relevance_label": "Medium",
+    "linked_allegation_points": [],
+    "status": "Needs Review",
+    "characters": 362,
+    "content_preview": "From: William.Taylor@flangecorex.com\r To: Michael@Oddityhubx.com\r Sent: 30 June 2025, 11:23\r Subject: RE: Equipment Delivery Delay\r \r Mike,\r \r Carrier pigeons would probably be faster at this rate. Just make sure your pigeons don’t get distracted by the new bakery down the street.\r \r I’ll chase up t..."
+  },
+  {
+    "evidence_id": "EV-026",
+    "file_name": "email25.txt",
+    "evidence_type": "Email",
+    "relevance_label": "Medium",
+    "linked_allegation_points": [
+      "AP-002",
+      "AP-011"
+    ],
+    "status": "Needs Review",
+    "characters": 442,
+    "content_preview": "From: Michael@Oddityhubx.com\r To: William.Taylor@flangecorex.com\r Sent: 12 May 2025, 10:15\r Subject: Office furniture upgrade ideas\r \r Hey Will,\r \r We’re looking into upgrading the office desks and chairs soon. Found a few vendors that do some pretty decent ergonomic stuff. Before I dive deeper, wan..."
+  },
+  {
+    "evidence_id": "EV-027",
+    "file_name": "email26.txt",
+    "evidence_type": "Email",
+    "relevance_label": "High",
+    "linked_allegation_points": [
+      "AP-002",
+      "AP-011"
+    ],
+    "status": "Needs Review",
+    "characters": 531,
+    "content_preview": "From: William.Taylor@flangecorex.com\r To: Michael@Oddityhubx.com\r Sent: 12 May 2025, 11:05\r Subject: RE: Office furniture upgrade ideas\r \r Hey Mike,\r \r Good shout on the upgrades — some of those desks are basically antiques at this point. Adjustable desks would be great, and chairs that don’t make y..."
+  },
+  {
+    "evidence_id": "EV-028",
+    "file_name": "email27.txt",
+    "evidence_type": "Email",
+    "relevance_label": "High",
+    "linked_allegation_points": [
+      "AP-002",
+      "AP-011"
+    ],
+    "status": "Needs Review",
+    "characters": 465,
+    "content_preview": "From: Sarah.Miller@flangecorex.com\r To: Michael@Oddityhubx.com, William.Taylor@flangecorex.com\r Sent: 13 May 2025, 09:40\r Subject: RE: Office furniture upgrade ideas\r \r Hey guys,\r \r Thanks for thinking of me! Adjustable desks and comfy chairs are a must. Also, if we could look at some noise-cancelli..."
+  },
+  {
+    "evidence_id": "EV-029",
+    "file_name": "email28.txt",
+    "evidence_type": "Email",
+    "relevance_label": "High",
+    "linked_allegation_points": [
+      "AP-002",
+      "AP-011"
+    ],
+    "status": "Needs Review",
+    "characters": 378,
+    "content_preview": "From: Michael@Oddityhubx.com\r To: William.Taylor@flangecorex.com, Sarah.Miller@flangecorex.com\r Sent: 14 May 2025, 16:00\r Subject: RE: Office furniture upgrade ideas\r \r Thanks for the tips, both of you. I’ll gather a few quotes and get them over to you early next week. Definitely adding headphones a..."
+  },
+  {
+    "evidence_id": "EV-030",
+    "file_name": "email29.txt",
+    "evidence_type": "Email",
+    "relevance_label": "Medium",
+    "linked_allegation_points": [],
+    "status": "Needs Review",
+    "characters": 440,
+    "content_preview": "From: William.Taylor@flangecorex.com\r To: Michael@Oddityhubx.com\r CC: Lena.Simpson@Oddityhubx.com\r Sent: 20 June 2025, 09:05\r Subject: RE: Equipment Delivery Delay\r \r Mike,\r \r Honestly, the constant delays are starting to make me question whether your team can keep this project on track. We’re not t..."
+  },
+  {
+    "evidence_id": "EV-031",
+    "file_name": "email3.txt",
+    "evidence_type": "Email",
+    "relevance_label": "Medium",
+    "linked_allegation_points": [
+      "AP-004"
+    ],
+    "status": "Needs Review",
+    "characters": 632,
+    "content_preview": "From: William.Taylor@flangecorex.com\r To: Michael@Oddityhubx.com\r CC:\r BCC:\r Sent: 24 January 2025, 16:42\r Subject: RE: Pricing Discussion – Updated Figures\r \r Message:\r Hi Mike,\r \r Thanks for taking the time to walk me through the revised pricing. I’ve now reviewed it with procurement and, assuming..."
+  },
+  {
+    "evidence_id": "EV-032",
+    "file_name": "email30.txt",
+    "evidence_type": "Email",
+    "relevance_label": "Medium",
+    "linked_allegation_points": [
+      "AP-002",
+      "AP-011"
+    ],
+    "status": "Needs Review",
+    "characters": 415,
+    "content_preview": "From: Michael@Oddityhubx.com\r To: William.Taylor@flangecorex.com\r CC: Lena.Simpson@Oddityhubx.com\r Sent: 20 June 2025, 09:25\r Subject: RE: Equipment Delivery Delay\r \r Will,\r \r I get the frustration, but throwing blame around isn’t going to help. We’ve been transparent about supplier issues and weath..."
+  },
+  {
+    "evidence_id": "EV-033",
+    "file_name": "email31.txt",
+    "evidence_type": "Email",
+    "relevance_label": "Medium",
+    "linked_allegation_points": [
+      "AP-002",
+      "AP-011"
+    ],
+    "status": "Needs Review",
+    "characters": 417,
+    "content_preview": "From: Lena.Simpson@Oddityhubx.com\r To: William.Taylor@flangecorex.com, Michael@Oddityhubx.com\r Sent: 20 June 2025, 09:40\r Subject: RE: Equipment Delivery Delay\r \r Hey both,\r \r Can we all just take a breath here? Will, I know the delays are frustrating, but Mike’s team is doing what they can. Mike, m..."
+  },
+  {
+    "evidence_id": "EV-034",
+    "file_name": "email32.txt",
+    "evidence_type": "Email",
+    "relevance_label": "Medium",
+    "linked_allegation_points": [],
+    "status": "Needs Review",
+    "characters": 507,
+    "content_preview": "From: William.Taylor@flangecorex.com\r To: Michael@Oddityhubx.com, Lena.Simpson@Oddityhubx.com\r Sent: 20 June 2025, 10:05\r Subject: RE: Equipment Delivery Delay\r \r Lena,\r \r I’m happy to get updates but I’m tired of hearing “stuff out of our control.” We’re paying a lot and it feels like your side doe..."
+  },
+  {
+    "evidence_id": "EV-035",
+    "file_name": "email33.txt",
+    "evidence_type": "Email",
+    "relevance_label": "Medium",
+    "linked_allegation_points": [
+      "AP-002",
+      "AP-011"
+    ],
+    "status": "Needs Review",
+    "characters": 472,
+    "content_preview": "From: Jack.Reynolds@flangecorex.com\r To: William.Taylor@flangecorex.com, Michael@Oddityhubx.com, Lena.Simpson@Oddityhubx.com\r Sent: 20 June 2025, 10:30\r Subject: RE: Equipment Delivery Delay\r \r All,\r \r Jumping in here — I’ve been coordinating logistics and the hold-up with the supplier has been a re..."
+  },
+  {
+    "evidence_id": "EV-036",
+    "file_name": "email34.txt",
+    "evidence_type": "Email",
+    "relevance_label": "Medium",
+    "linked_allegation_points": [],
+    "status": "Needs Review",
+    "characters": 514,
+    "content_preview": "From: Michael@Oddityhubx.com\r To: William.Taylor@flangecorex.com, Lena.Simpson@Oddityhubx.com, Jack.Reynolds@flangecorex.com\r Sent: 20 June 2025, 11:00\r Subject: RE: Equipment Delivery Delay\r \r Jack,\r \r Appreciate the input, but it’s not as simple as swapping suppliers overnight. Contracts and certi..."
+  },
+  {
+    "evidence_id": "EV-037",
+    "file_name": "email35.txt",
+    "evidence_type": "Email",
+    "relevance_label": "Low",
+    "linked_allegation_points": [],
+    "status": "Needs Review",
+    "characters": 456,
+    "content_preview": "From: Lena.Simpson@Oddityhubx.com\r To: AllStaff@Oddityhubx.com\r Sent: 24 June 2025, 08:41\r Subject: Office Move – Urgent Notice\r \r Hi everyone,\r \r Apparently Facilities has decided to start moving desks today, not Thursday like we were told. If you're missing your chair or monitor, it’s not a prank...."
+  },
+  {
+    "evidence_id": "EV-038",
+    "file_name": "email36.txt",
+    "evidence_type": "Email",
+    "relevance_label": "Medium",
+    "linked_allegation_points": [],
+    "status": "Needs Review",
+    "characters": 447,
+    "content_preview": "From: Sarah.Miller@flangecorex.com\r To: William.Taylor@flangecorex.com\r CC: Jack.Reynolds@flangecorex.com\r Sent: 26 June 2025, 13:14\r Subject: Did someone take my lunch (again)?\r \r Will,\r \r Not to be dramatic, but someone definitely took my clearly labelled salad from the fridge. Again. This is the ..."
+  },
+  {
+    "evidence_id": "EV-039",
+    "file_name": "email37.txt",
+    "evidence_type": "Email",
+    "relevance_label": "Low",
+    "linked_allegation_points": [],
+    "status": "Needs Review",
+    "characters": 321,
+    "content_preview": "From: Jack.Reynolds@flangecorex.com\r To: AllStaff@flangecorex.com\r Sent: 27 June 2025, 16:22\r Subject: Printer Jam Etiquette\r \r Dear everyone,\r \r If you jam the printer, please don’t just walk away and pretend it’s someone else’s problem. We are not wild animals.\r \r Fix it or tell someone. That is a..."
+  },
+  {
+    "evidence_id": "EV-040",
+    "file_name": "email38.txt",
+    "evidence_type": "Email",
+    "relevance_label": "Low",
+    "linked_allegation_points": [],
+    "status": "Needs Review",
+    "characters": 354,
+    "content_preview": "From: Michael@Oddityhubx.com\r To: Lena.Simpson@Oddityhubx.com\r Sent: 28 June 2025, 10:18\r Subject: Re: Paul’s Birthday Cake\r \r Lena,\r \r I didn’t “accidentally” take the last slice of Paul’s cake. It was 5:45, the man had left, and no one else was around.\r \r Also, who gets fruit filling in chocolate ..."
+  },
+  {
+    "evidence_id": "EV-041",
+    "file_name": "email39.txt",
+    "evidence_type": "Email",
+    "relevance_label": "Medium",
+    "linked_allegation_points": [],
+    "status": "Needs Review",
+    "characters": 358,
+    "content_preview": "From: William.Taylor@flangecorex.com\r To: Sarah.Miller@flangecorex.com\r Sent: 28 June 2025, 14:55\r Subject: Re: Meeting Room Booking\r \r Sarah,\r \r You booked the big room again for a 2-person check-in? Come on. The rest of us are huddled in corners whispering.\r \r I will trade you one unused salad (fr..."
+  },
+  {
+    "evidence_id": "EV-042",
+    "file_name": "email4.txt",
+    "evidence_type": "Email",
+    "relevance_label": "High",
+    "linked_allegation_points": [
+      "AP-001",
+      "AP-003",
+      "AP-004",
+      "AP-007",
+      "AP-008",
+      "AP-009",
+      "AP-011"
+    ],
+    "status": "Needs Review",
+    "characters": 661,
+    "content_preview": "From: Michael@Oddityhubx.com\r To: William.Taylor@flangecorex.com\r Sent: 10 April 2025, 14:22\r Subject: Revised Scope – April Works\r \r Hi Will,\r \r Following our discussion last week, I’ve attached the revised scope of works for April. We've scaled back trenching by 15% as per your suggestion, and mov..."
+  },
+  {
+    "evidence_id": "EV-043",
+    "file_name": "email40.txt",
+    "evidence_type": "Email",
+    "relevance_label": "Medium",
+    "linked_allegation_points": [
+      "AP-007"
+    ],
+    "status": "Needs Review",
+    "characters": 374,
+    "content_preview": "From: Sarah.Miller@flangecorex.com\r To: Jack.Reynolds@flangecorex.com\r Sent: 01 July 2025, 09:13\r Subject: My timesheet hates me\r \r Hi Jack,\r \r Can you double-check why my timesheet keeps rejecting last Friday? It says “invalid hours,” but I only logged 9.5 — which, frankly, felt generous considerin..."
+  },
+  {
+    "evidence_id": "EV-044",
+    "file_name": "email41.txt",
+    "evidence_type": "Email",
+    "relevance_label": "High",
+    "linked_allegation_points": [
+      "AP-001",
+      "AP-003",
+      "AP-004",
+      "AP-007",
+      "AP-008",
+      "AP-009",
+      "AP-011"
+    ],
+    "status": "Needs Review",
+    "characters": 346,
+    "content_preview": "From: Michael@Oddityhubx.com\r To: William.Taylor@flangecorex.com\r Sent: 01 July 2025, 10:48\r Subject: April Invoice – Actually Attached This Time\r \r Hey Will,\r \r I just realised I sent you yesterday’s invoice email without the invoice. Very on-brand for a Monday, even if it was a Tuesday.\r \r Attache..."
+  },
+  {
+    "evidence_id": "EV-045",
+    "file_name": "email42.txt",
+    "evidence_type": "Email",
+    "relevance_label": "High",
+    "linked_allegation_points": [
+      "AP-001",
+      "AP-003",
+      "AP-004",
+      "AP-007",
+      "AP-008",
+      "AP-009",
+      "AP-011"
+    ],
+    "status": "Needs Review",
+    "characters": 392,
+    "content_preview": "From: William.Taylor@flangecorex.com\r To: Michael@Oddityhubx.com\r Sent: 01 July 2025, 11:03\r Subject: Re: April Invoice – Actually Attached This Time\r \r Mike,\r \r Ah yes — the classic “ghost invoice” technique. Keep it up and I might start approving them just out of curiosity.\r \r Got it now. Looks fi..."
+  },
+  {
+    "evidence_id": "EV-046",
+    "file_name": "email43.txt",
+    "evidence_type": "Email",
+    "relevance_label": "Medium",
+    "linked_allegation_points": [
+      "AP-002",
+      "AP-007",
+      "AP-011"
+    ],
+    "status": "Needs Review",
+    "characters": 436,
+    "content_preview": "From: Lena.Simpson@Oddityhubx.com\r To: Michael@Oddityhubx.com\r Sent: 02 July 2025, 08:32\r Subject: Timesheet portal = mystery box\r \r Mike,\r \r Is it just me or has the new timesheet system made everything slightly worse? I now have to click through five tabs just to add one entry. And I’m pretty sure..."
+  },
+  {
+    "evidence_id": "EV-047",
+    "file_name": "email44.txt",
+    "evidence_type": "Email",
+    "relevance_label": "Medium",
+    "linked_allegation_points": [],
+    "status": "Needs Review",
+    "characters": 280,
+    "content_preview": "From: Jack.Reynolds@flangecorex.com\r To: Sarah.Miller@flangecorex.com\r Sent: 02 July 2025, 09:17\r Subject: Re: My timesheet hates me\r \r Sarah,\r \r You're not alone. Mine logged me in at 2am Saturday and submitted a blank form with the note “Feeling Lucky.”\r \r I miss Excel.\r \r Jack..."
+  },
+  {
+    "evidence_id": "EV-048",
+    "file_name": "email45.txt",
+    "evidence_type": "Email",
+    "relevance_label": "High",
+    "linked_allegation_points": [
+      "AP-001",
+      "AP-003",
+      "AP-004",
+      "AP-007",
+      "AP-008",
+      "AP-009",
+      "AP-011"
+    ],
+    "status": "Needs Review",
+    "characters": 610,
+    "content_preview": "From: Sarah.Miller@flangecorex.com\r To: William.Taylor@flangecorex.com\r Sent: 11 July 2025, 09:42\r Subject: Oddity April Invoice – Where’s the Breakdown?\r \r Morning Will,\r \r I just pulled the April invoice from Oddity again and it’s still showing a lump sum without any itemized breakdown. Finance ha..."
+  },
+  {
+    "evidence_id": "EV-049",
+    "file_name": "email46.txt",
+    "evidence_type": "Email",
+    "relevance_label": "High",
+    "linked_allegation_points": [
+      "AP-001",
+      "AP-003",
+      "AP-004",
+      "AP-007",
+      "AP-008",
+      "AP-009",
+      "AP-011"
+    ],
+    "status": "Needs Review",
+    "characters": 522,
+    "content_preview": "From: Michael@Oddityhubx.com\r To: Lena.Simpson@Oddityhubx.com\r Sent: 11 July 2025, 10:56\r Subject: April Invoice – Double Check Totals?\r \r Hi Lena,\r \r Can you just give the April invoice another once-over before I send it to Flange? I think I copied over the March figures by mistake (again). If Will..."
+  },
+  {
+    "evidence_id": "EV-050",
+    "file_name": "email47.txt",
+    "evidence_type": "Email",
+    "relevance_label": "High",
+    "linked_allegation_points": [
+      "AP-001",
+      "AP-003",
+      "AP-004",
+      "AP-007",
+      "AP-008",
+      "AP-009",
+      "AP-011"
+    ],
+    "status": "Needs Review",
+    "characters": 375,
+    "content_preview": "From: William.Taylor@flangecorex.com\r To: Michael@Oddityhubx.com\r Sent: 12 July 2025, 12:02\r Subject: Re: July Invoice\r \r Hi Mike,\r \r Invoice came through fine — thanks. Only one query: there’s a £14,200 charge listed as “urgent prep – unplanned.”\r \r What exactly was unplanned? Just need to know how..."
+  },
+  {
+    "evidence_id": "EV-051",
+    "file_name": "email48.txt",
+    "evidence_type": "Email",
+    "relevance_label": "High",
+    "linked_allegation_points": [
+      "AP-001",
+      "AP-003",
+      "AP-004",
+      "AP-007",
+      "AP-008",
+      "AP-009",
+      "AP-011"
+    ],
+    "status": "Needs Review",
+    "characters": 544,
+    "content_preview": "From: Michael@Oddityhubx.com\r To: William.Taylor@flangecorex.com\r Sent: 15 July 2025, 09:37\r Subject: I Did Say We’d Need Extra Cable\r \r Hey Will,\r \r Just a heads-up — the July invoice includes a bump for additional cabling. Before Procurement comes breathing down your neck, let me remind you that w..."
+  },
+  {
+    "evidence_id": "EV-052",
+    "file_name": "email49.txt",
+    "evidence_type": "Email",
+    "relevance_label": "High",
+    "linked_allegation_points": [
+      "AP-001",
+      "AP-003",
+      "AP-004",
+      "AP-007",
+      "AP-008",
+      "AP-009",
+      "AP-011"
+    ],
+    "status": "Needs Review",
+    "characters": 495,
+    "content_preview": "From: Jack.Reynolds@flangecorex.com\r To: Sarah.Miller@flangecorex.com\r Sent: 16 July 2025, 10:01\r Subject: I Miss When Invoices Were Just Paper and Rage\r \r Morning,\r \r I know I’m getting old, but did this latest Oddity invoice really come as a PDF inside a Word doc, zipped in a Google Drive link? Wh..."
+  },
+  {
+    "evidence_id": "EV-053",
+    "file_name": "email5.txt",
+    "evidence_type": "Email",
+    "relevance_label": "High",
+    "linked_allegation_points": [
+      "AP-001",
+      "AP-002",
+      "AP-003",
+      "AP-004",
+      "AP-007",
+      "AP-008",
+      "AP-009",
+      "AP-011"
+    ],
+    "status": "Needs Review",
+    "characters": 496,
+    "content_preview": "From: William.Taylor@flangecorex.com\r To: Michael@Oddityhubx.com\r Sent: 18 April 2025, 09:41\r Subject: RE: Payment Confirmation – March Invoice\r \r Hi Mike,\r \r Just a quick note to confirm that Accounts has processed the March payment — it should land in your account by end of day Monday. Let me know..."
+  },
+  {
+    "evidence_id": "EV-054",
+    "file_name": "email50.txt",
+    "evidence_type": "Email",
+    "relevance_label": "High",
+    "linked_allegation_points": [
+      "AP-001",
+      "AP-003",
+      "AP-004",
+      "AP-007",
+      "AP-008",
+      "AP-009",
+      "AP-011"
+    ],
+    "status": "Needs Review",
+    "characters": 351,
+    "content_preview": "From: Lena.Simpson@Oddityhubx.com\r To: Michael@Oddityhubx.com\r Sent: 16 July 2025, 11:44\r Subject: Wrong Month… Again\r \r Mike,\r \r I don’t want to be the calendar police, but you’ve labeled the July invoice “June Final-Final (ACTUAL)” and the footer still says Q2.\r \r I’m fixing it now before Sarah st..."
+  },
+  {
+    "evidence_id": "EV-055",
+    "file_name": "email6.txt",
+    "evidence_type": "Email",
+    "relevance_label": "Medium",
+    "linked_allegation_points": [
+      "AP-002",
+      "AP-007",
+      "AP-011"
+    ],
+    "status": "Needs Review",
+    "characters": 599,
+    "content_preview": "From: Michael@Oddityhubx.com\r To: William.Taylor@flangecorex.com\r Sent: 23 April 2025, 11:12\r Subject: Clarification on Site Drawings\r \r Hi Will,\r \r Our engineering team had a quick question on the drainage layout in the latest set of site drawings your team provided. Specifically, Sheet C3-12 seems..."
+  },
+  {
+    "evidence_id": "EV-056",
+    "file_name": "email7.txt",
+    "evidence_type": "Email",
+    "relevance_label": "Medium",
+    "linked_allegation_points": [],
+    "status": "Needs Review",
+    "characters": 417,
+    "content_preview": "From: Michael@Oddityhubx.com\r To: William.Taylor@flangecorex.com\r Sent: 25 April 2025, 10:17\r Subject: Kit Drop-Off – All Good?\r \r Hey Will,\r \r Just checking in — did the kit arrive okay this morning? The courier said they dropped it at the east gate just after 8.\r \r Let me know if there’s anything ..."
+  },
+  {
+    "evidence_id": "EV-057",
+    "file_name": "email8.txt",
+    "evidence_type": "Email",
+    "relevance_label": "Medium",
+    "linked_allegation_points": [],
+    "status": "Needs Review",
+    "characters": 417,
+    "content_preview": "From: Michael@Oddityhubx.com\r To: William.Taylor@flangecorex.com\r Sent: 25 April 2025, 10:17\r Subject: Kit Drop-Off – All Good?\r \r Hey Will,\r \r Just checking in — did the kit arrive okay this morning? The courier said they dropped it at the east gate just after 8.\r \r Let me know if there’s anything ..."
+  },
+  {
+    "evidence_id": "EV-058",
+    "file_name": "email9.txt",
+    "evidence_type": "Email",
+    "relevance_label": "Medium",
+    "linked_allegation_points": [],
+    "status": "Needs Review",
+    "characters": 505,
+    "content_preview": "From: Michael@Oddityhubx.com\r To: William.Taylor@flangecorex.com\r Sent: 26 April 2025, 08:04\r Subject: Weather’s Causing a Bit of a Wobble\r \r Morning Will,\r \r Just a heads-up — the forecast for Tuesday is looking a bit dicey. Not a total washout, but enough to possibly delay setup if it sticks.\r \r W..."
+  },
+  {
+    "evidence_id": "EV-059",
+    "file_name": "Example_Email_1a.txt",
+    "evidence_type": "Email",
+    "relevance_label": "Medium",
+    "linked_allegation_points": [],
+    "status": "Needs Review",
+    "characters": 613,
+    "content_preview": "From: Michael@Oddityhubx.com\r \r To: William.Taylor@flangecorex.com\r \r CC:\r \r BCC:\r \r Sent: 06 January 2025, 11:35\r \r Subject: Project Update & Catch Up?\r \r Message:\r Hi Will,\r Hope you're doing well. Long time no see!\r Thanks for bringing my team onto this project - it'll be great working together a..."
+  },
+  {
+    "evidence_id": "EV-060",
+    "file_name": "Example_Email_1b.txt",
+    "evidence_type": "Email",
+    "relevance_label": "Medium",
+    "linked_allegation_points": [],
+    "status": "Needs Review",
+    "characters": 1252,
+    "content_preview": "From: William.Taylor@flangecorex.com\r \r To: Michael@Oddityhubx.com\r \r CC:\r \r BCC:\r \r Sent: 06 January 2025, 11:59\r \r Subject: RE: Project Update & Catch Up?\r \r Message:\r Hey Mike,\r Good to hear from you! Things are pretty hectic over here, but all good.\r Thanks for the update. The weather is definit..."
+  },
+  {
+    "evidence_id": "EV-061",
+    "file_name": "Example_Email_2a.txt",
+    "evidence_type": "Email",
+    "relevance_label": "Medium",
+    "linked_allegation_points": [
+      "AP-004"
+    ],
+    "status": "Needs Review",
+    "characters": 475,
+    "content_preview": "From: Michael@Oddityhubx.com\r \r To: William.Taylor@flangecorex.com\r \r CC:\r \r BCC:\r \r Sent: 13 January 2025, 09:31\r \r Subject: Oddity – Flange Deal\r \r Message:\r Hi Will,\r Good to see you the other day. I understand that you are still unsure about whether to go ahead with our agreement. \r Can we have ..."
+  },
+  {
+    "evidence_id": "EV-062",
+    "file_name": "Example_Email_2b.txt",
+    "evidence_type": "Email",
+    "relevance_label": "High",
+    "linked_allegation_points": [
+      "AP-001",
+      "AP-003",
+      "AP-004",
+      "AP-007",
+      "AP-008",
+      "AP-009",
+      "AP-011"
+    ],
+    "status": "Needs Review",
+    "characters": 1177,
+    "content_preview": "From: William.Taylor@flangecorex.com\r \r To: Michael@Oddityhubx.com\r \r CC:\r \r BCC:\r \r Sent: 13 January 2025, 11:27\r \r Subject: RE: Oddity-Flange Deal\r \r Message:\r Mike,\r I am a little uncomfortable with the amount on the invoice and I’m worried about what will happen if it gets flagged by the system...."
+  },
+  {
+    "evidence_id": "EV-063",
+    "file_name": "Example_Email_3a.txt",
+    "evidence_type": "Email",
+    "relevance_label": "High",
+    "linked_allegation_points": [
+      "AP-001",
+      "AP-003",
+      "AP-004",
+      "AP-007",
+      "AP-008",
+      "AP-009",
+      "AP-011"
+    ],
+    "status": "Needs Review",
+    "characters": 282,
+    "content_preview": "From: Michael@Oddityhubx.com\r \r To: William.Taylor@flangecorex.com\r \r CC:\r \r BCC:\r \r Sent: 03 April 2025, 15:45\r \r Subject: March Invoice\r \r Message:\r Will,\r Here is the first invoice for March works, which comes to £331,136.75. All you need to do is approve and I'll do the rest.\r ..."
+  },
+  {
+    "evidence_id": "EV-064",
+    "file_name": "Example_Email_3b.txt",
+    "evidence_type": "Email",
+    "relevance_label": "High",
+    "linked_allegation_points": [
+      "AP-001",
+      "AP-003",
+      "AP-004",
+      "AP-007",
+      "AP-008",
+      "AP-009",
+      "AP-011"
+    ],
+    "status": "Needs Review",
+    "characters": 600,
+    "content_preview": "From: William.Taylor@flangecorex.com\r \r To: Michael@Oddityhubx.com\r \r CC:\r \r BCC:\r \r Sent: 03 April 2025, 16:09\r \r Subject: RE: March Invoice\r \r Message:\r Approved. Make sure you send all further invoices directly to me first - safer that way. I can then approve them and send them on to our Accounts..."
+  },
+  {
+    "evidence_id": "EV-065",
+    "file_name": "Example_Email_4a.txt",
+    "evidence_type": "Email",
+    "relevance_label": "High",
+    "linked_allegation_points": [
+      "AP-001",
+      "AP-002",
+      "AP-003",
+      "AP-004",
+      "AP-007",
+      "AP-008",
+      "AP-009",
+      "AP-011"
+    ],
+    "status": "Needs Review",
+    "characters": 186,
+    "content_preview": "From: Michael@Oddityhubx.com\r \r To: William.Taylor@flangecorex.com\r \r CC:\r \r BCC:\r \r Sent: 01 May 2025, 15:45\r \r Subject: April Invoice\r \r Message:\r April invoice comes to £258,601.08.\r ..."
+  },
+  {
+    "evidence_id": "EV-066",
+    "file_name": "Example_Email_4b.txt",
+    "evidence_type": "Email",
+    "relevance_label": "High",
+    "linked_allegation_points": [
+      "AP-001",
+      "AP-002",
+      "AP-003",
+      "AP-004",
+      "AP-007",
+      "AP-008",
+      "AP-009",
+      "AP-011"
+    ],
+    "status": "Needs Review",
+    "characters": 354,
+    "content_preview": "From: Michael@Oddityhubx.com\r \r To: William.Taylor@flangecorex.com\r \r CC:\r \r BCC:\r \r Sent: 01 May 2025, 15:53\r \r Subject: RE: April Invoice\r \r Message:\r Approved.\r \r \r From: Michael@Oddityhubx.com\r \r To: William.Taylor@flangecorex.com\r \r CC:\r \r BCC:\r \r Sent: 01 May 2025, 15:45\r \r Subject: April Invo..."
+  },
+  {
+    "evidence_id": "EV-067",
+    "file_name": "Example_Email_5a.txt",
+    "evidence_type": "Email",
+    "relevance_label": "High",
+    "linked_allegation_points": [
+      "AP-001",
+      "AP-002",
+      "AP-003",
+      "AP-004",
+      "AP-005",
+      "AP-007",
+      "AP-008",
+      "AP-009",
+      "AP-011"
+    ],
+    "status": "Needs Review",
+    "characters": 1005,
+    "content_preview": "From: Sarah.Miller@flangecorex.com\r \r To: William.Taylor@flangecorex.com\r \r CC:\r \r BCC:\r \r Sent: 05 May 2025, 13:48\r \r Subject: Oddity Invoice Query\r \r Message:\r \r Hi Will,\r \r Hope you had a good weekend!\r \r I'm writing to you regarding the invoices we've been receiving from Oddity. I've noticed tha..."
+  },
+  {
+    "evidence_id": "EV-068",
+    "file_name": "Example_Email_5b.txt",
+    "evidence_type": "Email",
+    "relevance_label": "High",
+    "linked_allegation_points": [
+      "AP-001",
+      "AP-002",
+      "AP-003",
+      "AP-004",
+      "AP-005",
+      "AP-007",
+      "AP-008",
+      "AP-009",
+      "AP-011"
+    ],
+    "status": "Needs Review",
+    "characters": 1777,
+    "content_preview": "From: Sarah.Miller@flangecorex.com\r \r To: William.Taylor@flangecorex.com\r \r CC:\r \r BCC:\r \r Sent: 05 May 2025, 15:46\r \r Subject: RE: Oddity Invoice Query\r \r Message:\r \r Hi Sarah,\r \r I'm a little surprised by your email - I have approved these invoices based on my understanding of the project's requir..."
+  },
+  {
+    "evidence_id": "EV-069",
+    "file_name": "Example_Email_6a.txt",
+    "evidence_type": "Email",
+    "relevance_label": "High",
+    "linked_allegation_points": [
+      "AP-001",
+      "AP-002",
+      "AP-003",
+      "AP-004",
+      "AP-007",
+      "AP-008",
+      "AP-009",
+      "AP-011"
+    ],
+    "status": "Needs Review",
+    "characters": 284,
+    "content_preview": "From: Michael@Oddityhubx.com\r \r To: William.Taylor@flangecorex.com\r \r CC:\r \r BCC:\r \r Sent: 02 June 2025, 15:45\r \r Subject: May Invoice\r \r Message:\r Will,\r Good to chat earlier – as discussed, the May invoice will come to £254,310. If you’re happy, I will send this on to Accounts.\r \r ..."
+  },
+  {
+    "evidence_id": "EV-070",
+    "file_name": "Example_Email_6b.txt",
+    "evidence_type": "Email",
+    "relevance_label": "High",
+    "linked_allegation_points": [
+      "AP-001",
+      "AP-002",
+      "AP-003",
+      "AP-004",
+      "AP-007",
+      "AP-008",
+      "AP-009",
+      "AP-011"
+    ],
+    "status": "Needs Review",
+    "characters": 512,
+    "content_preview": "From: William.Taylor@@flangecorex.com\r \r To: Michael@Oddityhubx.com\r \r CC:\r \r BCC:\r \r Sent: 02 June 2025, 16:09\r \r Subject: RE: May Invoice\r \r Message:\r Approved - I will send to Sarah given what happened last time.\r  \r \r \r \r From: Michael@Oddityhubx.com\r \r To: William.Taylor@flangecorex.com\r \r CC:\r..."
+  },
+  {
+    "evidence_id": "EV-071",
+    "file_name": "Example_Email_7.txt",
+    "evidence_type": "Email",
+    "relevance_label": "High",
+    "linked_allegation_points": [
+      "AP-001",
+      "AP-002",
+      "AP-003",
+      "AP-004",
+      "AP-005",
+      "AP-006",
+      "AP-007",
+      "AP-008",
+      "AP-009",
+      "AP-011"
+    ],
+    "status": "Needs Review",
+    "characters": 1254,
+    "content_preview": "From: Sarah.Miller@flangecorex.com\r \r To: Robin.Flowers@flangecorex.com\r \r CC:\r \r BCC:\r \r Sent: 05 June 2025, 14:33\r \r Subject: Something's up with Oddity's timesheets\r \r Message:\r Hi Robin,\r I've noticed something a bit odd with the timesheets from Oddity and their invoices. For a few months now, t..."
+  },
+  {
+    "evidence_id": "EV-072",
+    "file_name": "._chain1.txt",
+    "evidence_type": "Chain Email",
+    "relevance_label": "Low",
+    "linked_allegation_points": [],
+    "status": "Needs Review",
+    "characters": 641,
+    "content_preview": "\u0000\u0005\u0016\u0007\u0000\u0002\u0000\u0000Mac OS X        \u0000\u0002\u0000\u0000\u0000\t\u0000\u0000\u00002\u0000\u0000\u0002O\u0000\u0000\u0000\u0002\u0000\u0000\u0002�\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000ATTR\u0000\u0000\u0000\u0000\u0000\u0000\u0002�\u0000\u0000\u0000�\u0000\u0000\u0001�\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0003\u0000\u0000\u0000�\u0000\u0000\u0000H\u0000\u0000\u000fcom.apple.macl\u0000\u0000\u0000\u0000\u0000\u0001,\u0000\u0000\u0001=\u0000\u0000%com.apple.metadata:kMDItemWhereFroms\u0000\u0000\u0000\u0002i\u0000\u0000\u0000\u0018\u0000\u0000\u0015com.apple.quarantine\u0000\u0000��F�\u001b��B\u0018�����#.^\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000..."
+  },
+  {
+    "evidence_id": "EV-073",
+    "file_name": "._chain2.txt",
+    "evidence_type": "Chain Email",
+    "relevance_label": "Low",
+    "linked_allegation_points": [],
+    "status": "Needs Review",
+    "characters": 641,
+    "content_preview": "\u0000\u0005\u0016\u0007\u0000\u0002\u0000\u0000Mac OS X        \u0000\u0002\u0000\u0000\u0000\t\u0000\u0000\u00002\u0000\u0000\u0002O\u0000\u0000\u0000\u0002\u0000\u0000\u0002�\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000ATTR\u0000\u0000\u0000\u0000\u0000\u0000\u0002�\u0000\u0000\u0000�\u0000\u0000\u0001�\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0003\u0000\u0000\u0000�\u0000\u0000\u0000H\u0000\u0000\u000fcom.apple.macl\u0000\u0000\u0000\u0000\u0000\u0001,\u0000\u0000\u0001=\u0000\u0000%com.apple.metadata:kMDItemWhereFroms\u0000\u0000\u0000\u0002i\u0000\u0000\u0000\u0018\u0000\u0000\u0015com.apple.quarantine\u0000\u0000��F�\u001b��B\u0018�����#.^\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000..."
+  },
+  {
+    "evidence_id": "EV-074",
+    "file_name": "._chain3.txt",
+    "evidence_type": "Chain Email",
+    "relevance_label": "Low",
+    "linked_allegation_points": [],
+    "status": "Needs Review",
+    "characters": 641,
+    "content_preview": "\u0000\u0005\u0016\u0007\u0000\u0002\u0000\u0000Mac OS X        \u0000\u0002\u0000\u0000\u0000\t\u0000\u0000\u00002\u0000\u0000\u0002O\u0000\u0000\u0000\u0002\u0000\u0000\u0002�\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000ATTR\u0000\u0000\u0000\u0000\u0000\u0000\u0002�\u0000\u0000\u0000�\u0000\u0000\u0001�\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0003\u0000\u0000\u0000�\u0000\u0000\u0000H\u0000\u0000\u000fcom.apple.macl\u0000\u0000\u0000\u0000\u0000\u0001,\u0000\u0000\u0001=\u0000\u0000%com.apple.metadata:kMDItemWhereFroms\u0000\u0000\u0000\u0002i\u0000\u0000\u0000\u0018\u0000\u0000\u0015com.apple.quarantine\u0000\u0000��F�\u001b��B\u0018�����#.^\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000..."
+  },
+  {
+    "evidence_id": "EV-075",
+    "file_name": "._chain4.txt",
+    "evidence_type": "Chain Email",
+    "relevance_label": "Low",
+    "linked_allegation_points": [],
+    "status": "Needs Review",
+    "characters": 641,
+    "content_preview": "\u0000\u0005\u0016\u0007\u0000\u0002\u0000\u0000Mac OS X        \u0000\u0002\u0000\u0000\u0000\t\u0000\u0000\u00002\u0000\u0000\u0002O\u0000\u0000\u0000\u0002\u0000\u0000\u0002�\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000ATTR\u0000\u0000\u0000\u0000\u0000\u0000\u0002�\u0000\u0000\u0000�\u0000\u0000\u0001�\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0003\u0000\u0000\u0000�\u0000\u0000\u0000H\u0000\u0000\u000fcom.apple.macl\u0000\u0000\u0000\u0000\u0000\u0001,\u0000\u0000\u0001=\u0000\u0000%com.apple.metadata:kMDItemWhereFroms\u0000\u0000\u0000\u0002i\u0000\u0000\u0000\u0018\u0000\u0000\u0015com.apple.quarantine\u0000\u0000��F�\u001b��B\u0018�����#.^\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000..."
+  },
+  {
+    "evidence_id": "EV-076",
+    "file_name": "._chain5.txt",
+    "evidence_type": "Chain Email",
+    "relevance_label": "Low",
+    "linked_allegation_points": [],
+    "status": "Needs Review",
+    "characters": 641,
+    "content_preview": "\u0000\u0005\u0016\u0007\u0000\u0002\u0000\u0000Mac OS X        \u0000\u0002\u0000\u0000\u0000\t\u0000\u0000\u00002\u0000\u0000\u0002O\u0000\u0000\u0000\u0002\u0000\u0000\u0002�\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000ATTR\u0000\u0000\u0000\u0000\u0000\u0000\u0002�\u0000\u0000\u0000�\u0000\u0000\u0001�\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0003\u0000\u0000\u0000�\u0000\u0000\u0000H\u0000\u0000\u000fcom.apple.macl\u0000\u0000\u0000\u0000\u0000\u0001,\u0000\u0000\u0001=\u0000\u0000%com.apple.metadata:kMDItemWhereFroms\u0000\u0000\u0000\u0002i\u0000\u0000\u0000\u0018\u0000\u0000\u0015com.apple.quarantine\u0000\u0000��F�\u001b��B\u0018�����#.^\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000..."
+  },
+  {
+    "evidence_id": "EV-077",
+    "file_name": "._chain6.txt",
+    "evidence_type": "Chain Email",
+    "relevance_label": "Low",
+    "linked_allegation_points": [],
+    "status": "Needs Review",
+    "characters": 641,
+    "content_preview": "\u0000\u0005\u0016\u0007\u0000\u0002\u0000\u0000Mac OS X        \u0000\u0002\u0000\u0000\u0000\t\u0000\u0000\u00002\u0000\u0000\u0002O\u0000\u0000\u0000\u0002\u0000\u0000\u0002�\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000ATTR\u0000\u0000\u0000\u0000\u0000\u0000\u0002�\u0000\u0000\u0000�\u0000\u0000\u0001�\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0003\u0000\u0000\u0000�\u0000\u0000\u0000H\u0000\u0000\u000fcom.apple.macl\u0000\u0000\u0000\u0000\u0000\u0001,\u0000\u0000\u0001=\u0000\u0000%com.apple.metadata:kMDItemWhereFroms\u0000\u0000\u0000\u0002i\u0000\u0000\u0000\u0018\u0000\u0000\u0015com.apple.quarantine\u0000\u0000��F�\u001b��B\u0018�����#.^\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000..."
+  },
+  {
+    "evidence_id": "EV-078",
+    "file_name": "._chain7.txt",
+    "evidence_type": "Chain Email",
+    "relevance_label": "Low",
+    "linked_allegation_points": [],
+    "status": "Needs Review",
+    "characters": 641,
+    "content_preview": "\u0000\u0005\u0016\u0007\u0000\u0002\u0000\u0000Mac OS X        \u0000\u0002\u0000\u0000\u0000\t\u0000\u0000\u00002\u0000\u0000\u0002O\u0000\u0000\u0000\u0002\u0000\u0000\u0002�\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000ATTR\u0000\u0000\u0000\u0000\u0000\u0000\u0002�\u0000\u0000\u0000�\u0000\u0000\u0001�\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0003\u0000\u0000\u0000�\u0000\u0000\u0000H\u0000\u0000\u000fcom.apple.macl\u0000\u0000\u0000\u0000\u0000\u0001,\u0000\u0000\u0001=\u0000\u0000%com.apple.metadata:kMDItemWhereFroms\u0000\u0000\u0000\u0002i\u0000\u0000\u0000\u0018\u0000\u0000\u0015com.apple.quarantine\u0000\u0000��F�\u001b��B\u0018�����#.^\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000..."
+  },
+  {
+    "evidence_id": "EV-079",
+    "file_name": "._chain8.txt",
+    "evidence_type": "Chain Email",
+    "relevance_label": "Low",
+    "linked_allegation_points": [],
+    "status": "Needs Review",
+    "characters": 641,
+    "content_preview": "\u0000\u0005\u0016\u0007\u0000\u0002\u0000\u0000Mac OS X        \u0000\u0002\u0000\u0000\u0000\t\u0000\u0000\u00002\u0000\u0000\u0002O\u0000\u0000\u0000\u0002\u0000\u0000\u0002�\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000ATTR\u0000\u0000\u0000\u0000\u0000\u0000\u0002�\u0000\u0000\u0000�\u0000\u0000\u0001�\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0003\u0000\u0000\u0000�\u0000\u0000\u0000H\u0000\u0000\u000fcom.apple.macl\u0000\u0000\u0000\u0000\u0000\u0001,\u0000\u0000\u0001=\u0000\u0000%com.apple.metadata:kMDItemWhereFroms\u0000\u0000\u0000\u0002i\u0000\u0000\u0000\u0018\u0000\u0000\u0015com.apple.quarantine\u0000\u0000��F�\u001b��B\u0018�����#.^\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000..."
+  },
+  {
+    "evidence_id": "EV-080",
+    "file_name": "._email1.txt",
+    "evidence_type": "Email",
+    "relevance_label": "Low",
+    "linked_allegation_points": [],
+    "status": "Needs Review",
+    "characters": 641,
+    "content_preview": "\u0000\u0005\u0016\u0007\u0000\u0002\u0000\u0000Mac OS X        \u0000\u0002\u0000\u0000\u0000\t\u0000\u0000\u00002\u0000\u0000\u0002O\u0000\u0000\u0000\u0002\u0000\u0000\u0002�\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000ATTR\u0000\u0000\u0000\u0000\u0000\u0000\u0002�\u0000\u0000\u0000�\u0000\u0000\u0001�\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0003\u0000\u0000\u0000�\u0000\u0000\u0000H\u0000\u0000\u000fcom.apple.macl\u0000\u0000\u0000\u0000\u0000\u0001,\u0000\u0000\u0001=\u0000\u0000%com.apple.metadata:kMDItemWhereFroms\u0000\u0000\u0000\u0002i\u0000\u0000\u0000\u0018\u0000\u0000\u0015com.apple.quarantine\u0000\u0000��F�\u001b��B\u0018�����#.^\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000..."
+  },
+  {
+    "evidence_id": "EV-081",
+    "file_name": "._email10.txt",
+    "evidence_type": "Email",
+    "relevance_label": "Low",
+    "linked_allegation_points": [],
+    "status": "Needs Review",
+    "characters": 642,
+    "content_preview": "\u0000\u0005\u0016\u0007\u0000\u0002\u0000\u0000Mac OS X        \u0000\u0002\u0000\u0000\u0000\t\u0000\u0000\u00002\u0000\u0000\u0002P\u0000\u0000\u0000\u0002\u0000\u0000\u0002�\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000ATTR\u0000\u0000\u0000\u0000\u0000\u0000\u0002�\u0000\u0000\u0000�\u0000\u0000\u0001�\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0003\u0000\u0000\u0000�\u0000\u0000\u0000H\u0000\u0000\u000fcom.apple.macl\u0000\u0000\u0000\u0000\u0000\u0001,\u0000\u0000\u0001>\u0000\u0000%com.apple.metadata:kMDItemWhereFroms\u0000\u0000\u0000\u0002j\u0000\u0000\u0000\u0018\u0000\u0000\u0015com.apple.quarantine\u0000\u0000��F�\u001b��B\u0018�����#.^\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000..."
+  },
+  {
+    "evidence_id": "EV-082",
+    "file_name": "._email11.txt",
+    "evidence_type": "Email",
+    "relevance_label": "Low",
+    "linked_allegation_points": [],
+    "status": "Needs Review",
+    "characters": 642,
+    "content_preview": "\u0000\u0005\u0016\u0007\u0000\u0002\u0000\u0000Mac OS X        \u0000\u0002\u0000\u0000\u0000\t\u0000\u0000\u00002\u0000\u0000\u0002P\u0000\u0000\u0000\u0002\u0000\u0000\u0002�\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000ATTR\u0000\u0000\u0000\u0000\u0000\u0000\u0002�\u0000\u0000\u0000�\u0000\u0000\u0001�\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0003\u0000\u0000\u0000�\u0000\u0000\u0000H\u0000\u0000\u000fcom.apple.macl\u0000\u0000\u0000\u0000\u0000\u0001,\u0000\u0000\u0001>\u0000\u0000%com.apple.metadata:kMDItemWhereFroms\u0000\u0000\u0000\u0002j\u0000\u0000\u0000\u0018\u0000\u0000\u0015com.apple.quarantine\u0000\u0000��F�\u001b��B\u0018�����#.^\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000..."
+  },
+  {
+    "evidence_id": "EV-083",
+    "file_name": "._email12.txt",
+    "evidence_type": "Email",
+    "relevance_label": "Low",
+    "linked_allegation_points": [],
+    "status": "Needs Review",
+    "characters": 642,
+    "content_preview": "\u0000\u0005\u0016\u0007\u0000\u0002\u0000\u0000Mac OS X        \u0000\u0002\u0000\u0000\u0000\t\u0000\u0000\u00002\u0000\u0000\u0002P\u0000\u0000\u0000\u0002\u0000\u0000\u0002�\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000ATTR\u0000\u0000\u0000\u0000\u0000\u0000\u0002�\u0000\u0000\u0000�\u0000\u0000\u0001�\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0003\u0000\u0000\u0000�\u0000\u0000\u0000H\u0000\u0000\u000fcom.apple.macl\u0000\u0000\u0000\u0000\u0000\u0001,\u0000\u0000\u0001>\u0000\u0000%com.apple.metadata:kMDItemWhereFroms\u0000\u0000\u0000\u0002j\u0000\u0000\u0000\u0018\u0000\u0000\u0015com.apple.quarantine\u0000\u0000��F�\u001b��B\u0018�����#.^\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000..."
+  },
+  {
+    "evidence_id": "EV-084",
+    "file_name": "._email13.txt",
+    "evidence_type": "Email",
+    "relevance_label": "Low",
+    "linked_allegation_points": [],
+    "status": "Needs Review",
+    "characters": 642,
+    "content_preview": "\u0000\u0005\u0016\u0007\u0000\u0002\u0000\u0000Mac OS X        \u0000\u0002\u0000\u0000\u0000\t\u0000\u0000\u00002\u0000\u0000\u0002P\u0000\u0000\u0000\u0002\u0000\u0000\u0002�\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000ATTR\u0000\u0000\u0000\u0000\u0000\u0000\u0002�\u0000\u0000\u0000�\u0000\u0000\u0001�\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0003\u0000\u0000\u0000�\u0000\u0000\u0000H\u0000\u0000\u000fcom.apple.macl\u0000\u0000\u0000\u0000\u0000\u0001,\u0000\u0000\u0001>\u0000\u0000%com.apple.metadata:kMDItemWhereFroms\u0000\u0000\u0000\u0002j\u0000\u0000\u0000\u0018\u0000\u0000\u0015com.apple.quarantine\u0000\u0000��F�\u001b��B\u0018�����#.^\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000..."
+  },
+  {
+    "evidence_id": "EV-085",
+    "file_name": "._email14.txt",
+    "evidence_type": "Email",
+    "relevance_label": "Low",
+    "linked_allegation_points": [],
+    "status": "Needs Review",
+    "characters": 642,
+    "content_preview": "\u0000\u0005\u0016\u0007\u0000\u0002\u0000\u0000Mac OS X        \u0000\u0002\u0000\u0000\u0000\t\u0000\u0000\u00002\u0000\u0000\u0002P\u0000\u0000\u0000\u0002\u0000\u0000\u0002�\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000ATTR\u0000\u0000\u0000\u0000\u0000\u0000\u0002�\u0000\u0000\u0000�\u0000\u0000\u0001�\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0003\u0000\u0000\u0000�\u0000\u0000\u0000H\u0000\u0000\u000fcom.apple.macl\u0000\u0000\u0000\u0000\u0000\u0001,\u0000\u0000\u0001>\u0000\u0000%com.apple.metadata:kMDItemWhereFroms\u0000\u0000\u0000\u0002j\u0000\u0000\u0000\u0018\u0000\u0000\u0015com.apple.quarantine\u0000\u0000��F�\u001b��B\u0018�����#.^\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000..."
+  },
+  {
+    "evidence_id": "EV-086",
+    "file_name": "._email15.txt",
+    "evidence_type": "Email",
+    "relevance_label": "Low",
+    "linked_allegation_points": [],
+    "status": "Needs Review",
+    "characters": 642,
+    "content_preview": "\u0000\u0005\u0016\u0007\u0000\u0002\u0000\u0000Mac OS X        \u0000\u0002\u0000\u0000\u0000\t\u0000\u0000\u00002\u0000\u0000\u0002P\u0000\u0000\u0000\u0002\u0000\u0000\u0002�\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000ATTR\u0000\u0000\u0000\u0000\u0000\u0000\u0002�\u0000\u0000\u0000�\u0000\u0000\u0001�\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0003\u0000\u0000\u0000�\u0000\u0000\u0000H\u0000\u0000\u000fcom.apple.macl\u0000\u0000\u0000\u0000\u0000\u0001,\u0000\u0000\u0001>\u0000\u0000%com.apple.metadata:kMDItemWhereFroms\u0000\u0000\u0000\u0002j\u0000\u0000\u0000\u0018\u0000\u0000\u0015com.apple.quarantine\u0000\u0000��F�\u001b��B\u0018�����#.^\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000..."
+  },
+  {
+    "evidence_id": "EV-087",
+    "file_name": "._email16.txt",
+    "evidence_type": "Email",
+    "relevance_label": "Low",
+    "linked_allegation_points": [],
+    "status": "Needs Review",
+    "characters": 642,
+    "content_preview": "\u0000\u0005\u0016\u0007\u0000\u0002\u0000\u0000Mac OS X        \u0000\u0002\u0000\u0000\u0000\t\u0000\u0000\u00002\u0000\u0000\u0002P\u0000\u0000\u0000\u0002\u0000\u0000\u0002�\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000ATTR\u0000\u0000\u0000\u0000\u0000\u0000\u0002�\u0000\u0000\u0000�\u0000\u0000\u0001�\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0003\u0000\u0000\u0000�\u0000\u0000\u0000H\u0000\u0000\u000fcom.apple.macl\u0000\u0000\u0000\u0000\u0000\u0001,\u0000\u0000\u0001>\u0000\u0000%com.apple.metadata:kMDItemWhereFroms\u0000\u0000\u0000\u0002j\u0000\u0000\u0000\u0018\u0000\u0000\u0015com.apple.quarantine\u0000\u0000��F�\u001b��B\u0018�����#.^\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000..."
+  },
+  {
+    "evidence_id": "EV-088",
+    "file_name": "._email17.txt",
+    "evidence_type": "Email",
+    "relevance_label": "Low",
+    "linked_allegation_points": [],
+    "status": "Needs Review",
+    "characters": 642,
+    "content_preview": "\u0000\u0005\u0016\u0007\u0000\u0002\u0000\u0000Mac OS X        \u0000\u0002\u0000\u0000\u0000\t\u0000\u0000\u00002\u0000\u0000\u0002P\u0000\u0000\u0000\u0002\u0000\u0000\u0002�\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000ATTR\u0000\u0000\u0000\u0000\u0000\u0000\u0002�\u0000\u0000\u0000�\u0000\u0000\u0001�\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0003\u0000\u0000\u0000�\u0000\u0000\u0000H\u0000\u0000\u000fcom.apple.macl\u0000\u0000\u0000\u0000\u0000\u0001,\u0000\u0000\u0001>\u0000\u0000%com.apple.metadata:kMDItemWhereFroms\u0000\u0000\u0000\u0002j\u0000\u0000\u0000\u0018\u0000\u0000\u0015com.apple.quarantine\u0000\u0000��F�\u001b��B\u0018�����#.^\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000..."
+  },
+  {
+    "evidence_id": "EV-089",
+    "file_name": "._email18.txt",
+    "evidence_type": "Email",
+    "relevance_label": "Low",
+    "linked_allegation_points": [],
+    "status": "Needs Review",
+    "characters": 642,
+    "content_preview": "\u0000\u0005\u0016\u0007\u0000\u0002\u0000\u0000Mac OS X        \u0000\u0002\u0000\u0000\u0000\t\u0000\u0000\u00002\u0000\u0000\u0002P\u0000\u0000\u0000\u0002\u0000\u0000\u0002�\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000ATTR\u0000\u0000\u0000\u0000\u0000\u0000\u0002�\u0000\u0000\u0000�\u0000\u0000\u0001�\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0003\u0000\u0000\u0000�\u0000\u0000\u0000H\u0000\u0000\u000fcom.apple.macl\u0000\u0000\u0000\u0000\u0000\u0001,\u0000\u0000\u0001>\u0000\u0000%com.apple.metadata:kMDItemWhereFroms\u0000\u0000\u0000\u0002j\u0000\u0000\u0000\u0018\u0000\u0000\u0015com.apple.quarantine\u0000\u0000��F�\u001b��B\u0018�����#.^\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000..."
+  },
+  {
+    "evidence_id": "EV-090",
+    "file_name": "._email19.txt",
+    "evidence_type": "Email",
+    "relevance_label": "Low",
+    "linked_allegation_points": [],
+    "status": "Needs Review",
+    "characters": 642,
+    "content_preview": "\u0000\u0005\u0016\u0007\u0000\u0002\u0000\u0000Mac OS X        \u0000\u0002\u0000\u0000\u0000\t\u0000\u0000\u00002\u0000\u0000\u0002P\u0000\u0000\u0000\u0002\u0000\u0000\u0002�\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000ATTR\u0000\u0000\u0000\u0000\u0000\u0000\u0002�\u0000\u0000\u0000�\u0000\u0000\u0001�\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0003\u0000\u0000\u0000�\u0000\u0000\u0000H\u0000\u0000\u000fcom.apple.macl\u0000\u0000\u0000\u0000\u0000\u0001,\u0000\u0000\u0001>\u0000\u0000%com.apple.metadata:kMDItemWhereFroms\u0000\u0000\u0000\u0002j\u0000\u0000\u0000\u0018\u0000\u0000\u0015com.apple.quarantine\u0000\u0000��F�\u001b��B\u0018�����#.^\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000..."
+  },
+  {
+    "evidence_id": "EV-091",
+    "file_name": "._email2.txt",
+    "evidence_type": "Email",
+    "relevance_label": "Low",
+    "linked_allegation_points": [],
+    "status": "Needs Review",
+    "characters": 641,
+    "content_preview": "\u0000\u0005\u0016\u0007\u0000\u0002\u0000\u0000Mac OS X        \u0000\u0002\u0000\u0000\u0000\t\u0000\u0000\u00002\u0000\u0000\u0002O\u0000\u0000\u0000\u0002\u0000\u0000\u0002�\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000ATTR\u0000\u0000\u0000\u0000\u0000\u0000\u0002�\u0000\u0000\u0000�\u0000\u0000\u0001�\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0003\u0000\u0000\u0000�\u0000\u0000\u0000H\u0000\u0000\u000fcom.apple.macl\u0000\u0000\u0000\u0000\u0000\u0001,\u0000\u0000\u0001=\u0000\u0000%com.apple.metadata:kMDItemWhereFroms\u0000\u0000\u0000\u0002i\u0000\u0000\u0000\u0018\u0000\u0000\u0015com.apple.quarantine\u0000\u0000��F�\u001b��B\u0018�����#.^\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000..."
+  },
+  {
+    "evidence_id": "EV-092",
+    "file_name": "._email20.txt",
+    "evidence_type": "Email",
+    "relevance_label": "Low",
+    "linked_allegation_points": [],
+    "status": "Needs Review",
+    "characters": 642,
+    "content_preview": "\u0000\u0005\u0016\u0007\u0000\u0002\u0000\u0000Mac OS X        \u0000\u0002\u0000\u0000\u0000\t\u0000\u0000\u00002\u0000\u0000\u0002P\u0000\u0000\u0000\u0002\u0000\u0000\u0002�\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000ATTR\u0000\u0000\u0000\u0000\u0000\u0000\u0002�\u0000\u0000\u0000�\u0000\u0000\u0001�\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0003\u0000\u0000\u0000�\u0000\u0000\u0000H\u0000\u0000\u000fcom.apple.macl\u0000\u0000\u0000\u0000\u0000\u0001,\u0000\u0000\u0001>\u0000\u0000%com.apple.metadata:kMDItemWhereFroms\u0000\u0000\u0000\u0002j\u0000\u0000\u0000\u0018\u0000\u0000\u0015com.apple.quarantine\u0000\u0000��F�\u001b��B\u0018�����#.^\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000..."
+  },
+  {
+    "evidence_id": "EV-093",
+    "file_name": "._email21.txt",
+    "evidence_type": "Email",
+    "relevance_label": "Low",
+    "linked_allegation_points": [],
+    "status": "Needs Review",
+    "characters": 642,
+    "content_preview": "\u0000\u0005\u0016\u0007\u0000\u0002\u0000\u0000Mac OS X        \u0000\u0002\u0000\u0000\u0000\t\u0000\u0000\u00002\u0000\u0000\u0002P\u0000\u0000\u0000\u0002\u0000\u0000\u0002�\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000ATTR\u0000\u0000\u0000\u0000\u0000\u0000\u0002�\u0000\u0000\u0000�\u0000\u0000\u0001�\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0003\u0000\u0000\u0000�\u0000\u0000\u0000H\u0000\u0000\u000fcom.apple.macl\u0000\u0000\u0000\u0000\u0000\u0001,\u0000\u0000\u0001>\u0000\u0000%com.apple.metadata:kMDItemWhereFroms\u0000\u0000\u0000\u0002j\u0000\u0000\u0000\u0018\u0000\u0000\u0015com.apple.quarantine\u0000\u0000��F�\u001b��B\u0018�����#.^\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000..."
+  },
+  {
+    "evidence_id": "EV-094",
+    "file_name": "._email22.txt",
+    "evidence_type": "Email",
+    "relevance_label": "Low",
+    "linked_allegation_points": [],
+    "status": "Needs Review",
+    "characters": 642,
+    "content_preview": "\u0000\u0005\u0016\u0007\u0000\u0002\u0000\u0000Mac OS X        \u0000\u0002\u0000\u0000\u0000\t\u0000\u0000\u00002\u0000\u0000\u0002P\u0000\u0000\u0000\u0002\u0000\u0000\u0002�\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000ATTR\u0000\u0000\u0000\u0000\u0000\u0000\u0002�\u0000\u0000\u0000�\u0000\u0000\u0001�\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0003\u0000\u0000\u0000�\u0000\u0000\u0000H\u0000\u0000\u000fcom.apple.macl\u0000\u0000\u0000\u0000\u0000\u0001,\u0000\u0000\u0001>\u0000\u0000%com.apple.metadata:kMDItemWhereFroms\u0000\u0000\u0000\u0002j\u0000\u0000\u0000\u0018\u0000\u0000\u0015com.apple.quarantine\u0000\u0000��F�\u001b��B\u0018�����#.^\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000..."
+  },
+  {
+    "evidence_id": "EV-095",
+    "file_name": "._email23.txt",
+    "evidence_type": "Email",
+    "relevance_label": "Low",
+    "linked_allegation_points": [],
+    "status": "Needs Review",
+    "characters": 642,
+    "content_preview": "\u0000\u0005\u0016\u0007\u0000\u0002\u0000\u0000Mac OS X        \u0000\u0002\u0000\u0000\u0000\t\u0000\u0000\u00002\u0000\u0000\u0002P\u0000\u0000\u0000\u0002\u0000\u0000\u0002�\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000ATTR\u0000\u0000\u0000\u0000\u0000\u0000\u0002�\u0000\u0000\u0000�\u0000\u0000\u0001�\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0003\u0000\u0000\u0000�\u0000\u0000\u0000H\u0000\u0000\u000fcom.apple.macl\u0000\u0000\u0000\u0000\u0000\u0001,\u0000\u0000\u0001>\u0000\u0000%com.apple.metadata:kMDItemWhereFroms\u0000\u0000\u0000\u0002j\u0000\u0000\u0000\u0018\u0000\u0000\u0015com.apple.quarantine\u0000\u0000��F�\u001b��B\u0018�����#.^\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000..."
+  },
+  {
+    "evidence_id": "EV-096",
+    "file_name": "._email24.txt",
+    "evidence_type": "Email",
+    "relevance_label": "Low",
+    "linked_allegation_points": [],
+    "status": "Needs Review",
+    "characters": 642,
+    "content_preview": "\u0000\u0005\u0016\u0007\u0000\u0002\u0000\u0000Mac OS X        \u0000\u0002\u0000\u0000\u0000\t\u0000\u0000\u00002\u0000\u0000\u0002P\u0000\u0000\u0000\u0002\u0000\u0000\u0002�\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000ATTR\u0000\u0000\u0000\u0000\u0000\u0000\u0002�\u0000\u0000\u0000�\u0000\u0000\u0001�\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0003\u0000\u0000\u0000�\u0000\u0000\u0000H\u0000\u0000\u000fcom.apple.macl\u0000\u0000\u0000\u0000\u0000\u0001,\u0000\u0000\u0001>\u0000\u0000%com.apple.metadata:kMDItemWhereFroms\u0000\u0000\u0000\u0002j\u0000\u0000\u0000\u0018\u0000\u0000\u0015com.apple.quarantine\u0000\u0000��F�\u001b��B\u0018�����#.^\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000..."
+  },
+  {
+    "evidence_id": "EV-097",
+    "file_name": "._email25.txt",
+    "evidence_type": "Email",
+    "relevance_label": "Low",
+    "linked_allegation_points": [],
+    "status": "Needs Review",
+    "characters": 642,
+    "content_preview": "\u0000\u0005\u0016\u0007\u0000\u0002\u0000\u0000Mac OS X        \u0000\u0002\u0000\u0000\u0000\t\u0000\u0000\u00002\u0000\u0000\u0002P\u0000\u0000\u0000\u0002\u0000\u0000\u0002�\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000ATTR\u0000\u0000\u0000\u0000\u0000\u0000\u0002�\u0000\u0000\u0000�\u0000\u0000\u0001�\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0003\u0000\u0000\u0000�\u0000\u0000\u0000H\u0000\u0000\u000fcom.apple.macl\u0000\u0000\u0000\u0000\u0000\u0001,\u0000\u0000\u0001>\u0000\u0000%com.apple.metadata:kMDItemWhereFroms\u0000\u0000\u0000\u0002j\u0000\u0000\u0000\u0018\u0000\u0000\u0015com.apple.quarantine\u0000\u0000��F�\u001b��B\u0018�����#.^\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000..."
+  },
+  {
+    "evidence_id": "EV-098",
+    "file_name": "._email26.txt",
+    "evidence_type": "Email",
+    "relevance_label": "Low",
+    "linked_allegation_points": [],
+    "status": "Needs Review",
+    "characters": 642,
+    "content_preview": "\u0000\u0005\u0016\u0007\u0000\u0002\u0000\u0000Mac OS X        \u0000\u0002\u0000\u0000\u0000\t\u0000\u0000\u00002\u0000\u0000\u0002P\u0000\u0000\u0000\u0002\u0000\u0000\u0002�\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000ATTR\u0000\u0000\u0000\u0000\u0000\u0000\u0002�\u0000\u0000\u0000�\u0000\u0000\u0001�\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0003\u0000\u0000\u0000�\u0000\u0000\u0000H\u0000\u0000\u000fcom.apple.macl\u0000\u0000\u0000\u0000\u0000\u0001,\u0000\u0000\u0001>\u0000\u0000%com.apple.metadata:kMDItemWhereFroms\u0000\u0000\u0000\u0002j\u0000\u0000\u0000\u0018\u0000\u0000\u0015com.apple.quarantine\u0000\u0000��F�\u001b��B\u0018�����#.^\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000..."
+  },
+  {
+    "evidence_id": "EV-099",
+    "file_name": "._email27.txt",
+    "evidence_type": "Email",
+    "relevance_label": "Low",
+    "linked_allegation_points": [],
+    "status": "Needs Review",
+    "characters": 642,
+    "content_preview": "\u0000\u0005\u0016\u0007\u0000\u0002\u0000\u0000Mac OS X        \u0000\u0002\u0000\u0000\u0000\t\u0000\u0000\u00002\u0000\u0000\u0002P\u0000\u0000\u0000\u0002\u0000\u0000\u0002�\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000ATTR\u0000\u0000\u0000\u0000\u0000\u0000\u0002�\u0000\u0000\u0000�\u0000\u0000\u0001�\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0003\u0000\u0000\u0000�\u0000\u0000\u0000H\u0000\u0000\u000fcom.apple.macl\u0000\u0000\u0000\u0000\u0000\u0001,\u0000\u0000\u0001>\u0000\u0000%com.apple.metadata:kMDItemWhereFroms\u0000\u0000\u0000\u0002j\u0000\u0000\u0000\u0018\u0000\u0000\u0015com.apple.quarantine\u0000\u0000��F�\u001b��B\u0018�����#.^\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000..."
+  },
+  {
+    "evidence_id": "EV-100",
+    "file_name": "._email28.txt",
+    "evidence_type": "Email",
+    "relevance_label": "Low",
+    "linked_allegation_points": [],
+    "status": "Needs Review",
+    "characters": 642,
+    "content_preview": "\u0000\u0005\u0016\u0007\u0000\u0002\u0000\u0000Mac OS X        \u0000\u0002\u0000\u0000\u0000\t\u0000\u0000\u00002\u0000\u0000\u0002P\u0000\u0000\u0000\u0002\u0000\u0000\u0002�\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000ATTR\u0000\u0000\u0000\u0000\u0000\u0000\u0002�\u0000\u0000\u0000�\u0000\u0000\u0001�\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0003\u0000\u0000\u0000�\u0000\u0000\u0000H\u0000\u0000\u000fcom.apple.macl\u0000\u0000\u0000\u0000\u0000\u0001,\u0000\u0000\u0001>\u0000\u0000%com.apple.metadata:kMDItemWhereFroms\u0000\u0000\u0000\u0002j\u0000\u0000\u0000\u0018\u0000\u0000\u0015com.apple.quarantine\u0000\u0000��F�\u001b��B\u0018�����#.^\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000..."
+  },
+  {
+    "evidence_id": "EV-101",
+    "file_name": "._email29.txt",
+    "evidence_type": "Email",
+    "relevance_label": "Low",
+    "linked_allegation_points": [],
+    "status": "Needs Review",
+    "characters": 642,
+    "content_preview": "\u0000\u0005\u0016\u0007\u0000\u0002\u0000\u0000Mac OS X        \u0000\u0002\u0000\u0000\u0000\t\u0000\u0000\u00002\u0000\u0000\u0002P\u0000\u0000\u0000\u0002\u0000\u0000\u0002�\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000ATTR\u0000\u0000\u0000\u0000\u0000\u0000\u0002�\u0000\u0000\u0000�\u0000\u0000\u0001�\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0003\u0000\u0000\u0000�\u0000\u0000\u0000H\u0000\u0000\u000fcom.apple.macl\u0000\u0000\u0000\u0000\u0000\u0001,\u0000\u0000\u0001>\u0000\u0000%com.apple.metadata:kMDItemWhereFroms\u0000\u0000\u0000\u0002j\u0000\u0000\u0000\u0018\u0000\u0000\u0015com.apple.quarantine\u0000\u0000��F�\u001b��B\u0018�����#.^\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000..."
+  },
+  {
+    "evidence_id": "EV-102",
+    "file_name": "._email3.txt",
+    "evidence_type": "Email",
+    "relevance_label": "Low",
+    "linked_allegation_points": [],
+    "status": "Needs Review",
+    "characters": 641,
+    "content_preview": "\u0000\u0005\u0016\u0007\u0000\u0002\u0000\u0000Mac OS X        \u0000\u0002\u0000\u0000\u0000\t\u0000\u0000\u00002\u0000\u0000\u0002O\u0000\u0000\u0000\u0002\u0000\u0000\u0002�\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000ATTR\u0000\u0000\u0000\u0000\u0000\u0000\u0002�\u0000\u0000\u0000�\u0000\u0000\u0001�\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0003\u0000\u0000\u0000�\u0000\u0000\u0000H\u0000\u0000\u000fcom.apple.macl\u0000\u0000\u0000\u0000\u0000\u0001,\u0000\u0000\u0001=\u0000\u0000%com.apple.metadata:kMDItemWhereFroms\u0000\u0000\u0000\u0002i\u0000\u0000\u0000\u0018\u0000\u0000\u0015com.apple.quarantine\u0000\u0000��F�\u001b��B\u0018�����#.^\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000..."
+  },
+  {
+    "evidence_id": "EV-103",
+    "file_name": "._email30.txt",
+    "evidence_type": "Email",
+    "relevance_label": "Low",
+    "linked_allegation_points": [],
+    "status": "Needs Review",
+    "characters": 642,
+    "content_preview": "\u0000\u0005\u0016\u0007\u0000\u0002\u0000\u0000Mac OS X        \u0000\u0002\u0000\u0000\u0000\t\u0000\u0000\u00002\u0000\u0000\u0002P\u0000\u0000\u0000\u0002\u0000\u0000\u0002�\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000ATTR\u0000\u0000\u0000\u0000\u0000\u0000\u0002�\u0000\u0000\u0000�\u0000\u0000\u0001�\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0003\u0000\u0000\u0000�\u0000\u0000\u0000H\u0000\u0000\u000fcom.apple.macl\u0000\u0000\u0000\u0000\u0000\u0001,\u0000\u0000\u0001>\u0000\u0000%com.apple.metadata:kMDItemWhereFroms\u0000\u0000\u0000\u0002j\u0000\u0000\u0000\u0018\u0000\u0000\u0015com.apple.quarantine\u0000\u0000��F�\u001b��B\u0018�����#.^\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000..."
+  },
+  {
+    "evidence_id": "EV-104",
+    "file_name": "._email31.txt",
+    "evidence_type": "Email",
+    "relevance_label": "Low",
+    "linked_allegation_points": [],
+    "status": "Needs Review",
+    "characters": 642,
+    "content_preview": "\u0000\u0005\u0016\u0007\u0000\u0002\u0000\u0000Mac OS X        \u0000\u0002\u0000\u0000\u0000\t\u0000\u0000\u00002\u0000\u0000\u0002P\u0000\u0000\u0000\u0002\u0000\u0000\u0002�\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000ATTR\u0000\u0000\u0000\u0000\u0000\u0000\u0002�\u0000\u0000\u0000�\u0000\u0000\u0001�\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0003\u0000\u0000\u0000�\u0000\u0000\u0000H\u0000\u0000\u000fcom.apple.macl\u0000\u0000\u0000\u0000\u0000\u0001,\u0000\u0000\u0001>\u0000\u0000%com.apple.metadata:kMDItemWhereFroms\u0000\u0000\u0000\u0002j\u0000\u0000\u0000\u0018\u0000\u0000\u0015com.apple.quarantine\u0000\u0000��F�\u001b��B\u0018�����#.^\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000..."
+  },
+  {
+    "evidence_id": "EV-105",
+    "file_name": "._email32.txt",
+    "evidence_type": "Email",
+    "relevance_label": "Low",
+    "linked_allegation_points": [],
+    "status": "Needs Review",
+    "characters": 642,
+    "content_preview": "\u0000\u0005\u0016\u0007\u0000\u0002\u0000\u0000Mac OS X        \u0000\u0002\u0000\u0000\u0000\t\u0000\u0000\u00002\u0000\u0000\u0002P\u0000\u0000\u0000\u0002\u0000\u0000\u0002�\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000ATTR\u0000\u0000\u0000\u0000\u0000\u0000\u0002�\u0000\u0000\u0000�\u0000\u0000\u0001�\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0003\u0000\u0000\u0000�\u0000\u0000\u0000H\u0000\u0000\u000fcom.apple.macl\u0000\u0000\u0000\u0000\u0000\u0001,\u0000\u0000\u0001>\u0000\u0000%com.apple.metadata:kMDItemWhereFroms\u0000\u0000\u0000\u0002j\u0000\u0000\u0000\u0018\u0000\u0000\u0015com.apple.quarantine\u0000\u0000��F�\u001b��B\u0018�����#.^\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000..."
+  },
+  {
+    "evidence_id": "EV-106",
+    "file_name": "._email33.txt",
+    "evidence_type": "Email",
+    "relevance_label": "Low",
+    "linked_allegation_points": [],
+    "status": "Needs Review",
+    "characters": 642,
+    "content_preview": "\u0000\u0005\u0016\u0007\u0000\u0002\u0000\u0000Mac OS X        \u0000\u0002\u0000\u0000\u0000\t\u0000\u0000\u00002\u0000\u0000\u0002P\u0000\u0000\u0000\u0002\u0000\u0000\u0002�\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000ATTR\u0000\u0000\u0000\u0000\u0000\u0000\u0002�\u0000\u0000\u0000�\u0000\u0000\u0001�\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0003\u0000\u0000\u0000�\u0000\u0000\u0000H\u0000\u0000\u000fcom.apple.macl\u0000\u0000\u0000\u0000\u0000\u0001,\u0000\u0000\u0001>\u0000\u0000%com.apple.metadata:kMDItemWhereFroms\u0000\u0000\u0000\u0002j\u0000\u0000\u0000\u0018\u0000\u0000\u0015com.apple.quarantine\u0000\u0000��F�\u001b��B\u0018�����#.^\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000..."
+  },
+  {
+    "evidence_id": "EV-107",
+    "file_name": "._email34.txt",
+    "evidence_type": "Email",
+    "relevance_label": "Low",
+    "linked_allegation_points": [],
+    "status": "Needs Review",
+    "characters": 642,
+    "content_preview": "\u0000\u0005\u0016\u0007\u0000\u0002\u0000\u0000Mac OS X        \u0000\u0002\u0000\u0000\u0000\t\u0000\u0000\u00002\u0000\u0000\u0002P\u0000\u0000\u0000\u0002\u0000\u0000\u0002�\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000ATTR\u0000\u0000\u0000\u0000\u0000\u0000\u0002�\u0000\u0000\u0000�\u0000\u0000\u0001�\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0003\u0000\u0000\u0000�\u0000\u0000\u0000H\u0000\u0000\u000fcom.apple.macl\u0000\u0000\u0000\u0000\u0000\u0001,\u0000\u0000\u0001>\u0000\u0000%com.apple.metadata:kMDItemWhereFroms\u0000\u0000\u0000\u0002j\u0000\u0000\u0000\u0018\u0000\u0000\u0015com.apple.quarantine\u0000\u0000��F�\u001b��B\u0018�����#.^\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000..."
+  },
+  {
+    "evidence_id": "EV-108",
+    "file_name": "._email35.txt",
+    "evidence_type": "Email",
+    "relevance_label": "Low",
+    "linked_allegation_points": [],
+    "status": "Needs Review",
+    "characters": 642,
+    "content_preview": "\u0000\u0005\u0016\u0007\u0000\u0002\u0000\u0000Mac OS X        \u0000\u0002\u0000\u0000\u0000\t\u0000\u0000\u00002\u0000\u0000\u0002P\u0000\u0000\u0000\u0002\u0000\u0000\u0002�\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000ATTR\u0000\u0000\u0000\u0000\u0000\u0000\u0002�\u0000\u0000\u0000�\u0000\u0000\u0001�\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0003\u0000\u0000\u0000�\u0000\u0000\u0000H\u0000\u0000\u000fcom.apple.macl\u0000\u0000\u0000\u0000\u0000\u0001,\u0000\u0000\u0001>\u0000\u0000%com.apple.metadata:kMDItemWhereFroms\u0000\u0000\u0000\u0002j\u0000\u0000\u0000\u0018\u0000\u0000\u0015com.apple.quarantine\u0000\u0000��F�\u001b��B\u0018�����#.^\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000..."
+  },
+  {
+    "evidence_id": "EV-109",
+    "file_name": "._email36.txt",
+    "evidence_type": "Email",
+    "relevance_label": "Low",
+    "linked_allegation_points": [],
+    "status": "Needs Review",
+    "characters": 642,
+    "content_preview": "\u0000\u0005\u0016\u0007\u0000\u0002\u0000\u0000Mac OS X        \u0000\u0002\u0000\u0000\u0000\t\u0000\u0000\u00002\u0000\u0000\u0002P\u0000\u0000\u0000\u0002\u0000\u0000\u0002�\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000ATTR\u0000\u0000\u0000\u0000\u0000\u0000\u0002�\u0000\u0000\u0000�\u0000\u0000\u0001�\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0003\u0000\u0000\u0000�\u0000\u0000\u0000H\u0000\u0000\u000fcom.apple.macl\u0000\u0000\u0000\u0000\u0000\u0001,\u0000\u0000\u0001>\u0000\u0000%com.apple.metadata:kMDItemWhereFroms\u0000\u0000\u0000\u0002j\u0000\u0000\u0000\u0018\u0000\u0000\u0015com.apple.quarantine\u0000\u0000��F�\u001b��B\u0018�����#.^\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000..."
+  },
+  {
+    "evidence_id": "EV-110",
+    "file_name": "._email37.txt",
+    "evidence_type": "Email",
+    "relevance_label": "Low",
+    "linked_allegation_points": [],
+    "status": "Needs Review",
+    "characters": 642,
+    "content_preview": "\u0000\u0005\u0016\u0007\u0000\u0002\u0000\u0000Mac OS X        \u0000\u0002\u0000\u0000\u0000\t\u0000\u0000\u00002\u0000\u0000\u0002P\u0000\u0000\u0000\u0002\u0000\u0000\u0002�\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000ATTR\u0000\u0000\u0000\u0000\u0000\u0000\u0002�\u0000\u0000\u0000�\u0000\u0000\u0001�\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0003\u0000\u0000\u0000�\u0000\u0000\u0000H\u0000\u0000\u000fcom.apple.macl\u0000\u0000\u0000\u0000\u0000\u0001,\u0000\u0000\u0001>\u0000\u0000%com.apple.metadata:kMDItemWhereFroms\u0000\u0000\u0000\u0002j\u0000\u0000\u0000\u0018\u0000\u0000\u0015com.apple.quarantine\u0000\u0000��F�\u001b��B\u0018�����#.^\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000..."
+  },
+  {
+    "evidence_id": "EV-111",
+    "file_name": "._email38.txt",
+    "evidence_type": "Email",
+    "relevance_label": "Low",
+    "linked_allegation_points": [],
+    "status": "Needs Review",
+    "characters": 642,
+    "content_preview": "\u0000\u0005\u0016\u0007\u0000\u0002\u0000\u0000Mac OS X        \u0000\u0002\u0000\u0000\u0000\t\u0000\u0000\u00002\u0000\u0000\u0002P\u0000\u0000\u0000\u0002\u0000\u0000\u0002�\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000ATTR\u0000\u0000\u0000\u0000\u0000\u0000\u0002�\u0000\u0000\u0000�\u0000\u0000\u0001�\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0003\u0000\u0000\u0000�\u0000\u0000\u0000H\u0000\u0000\u000fcom.apple.macl\u0000\u0000\u0000\u0000\u0000\u0001,\u0000\u0000\u0001>\u0000\u0000%com.apple.metadata:kMDItemWhereFroms\u0000\u0000\u0000\u0002j\u0000\u0000\u0000\u0018\u0000\u0000\u0015com.apple.quarantine\u0000\u0000��F�\u001b��B\u0018�����#.^\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000..."
+  },
+  {
+    "evidence_id": "EV-112",
+    "file_name": "._email39.txt",
+    "evidence_type": "Email",
+    "relevance_label": "Low",
+    "linked_allegation_points": [],
+    "status": "Needs Review",
+    "characters": 642,
+    "content_preview": "\u0000\u0005\u0016\u0007\u0000\u0002\u0000\u0000Mac OS X        \u0000\u0002\u0000\u0000\u0000\t\u0000\u0000\u00002\u0000\u0000\u0002P\u0000\u0000\u0000\u0002\u0000\u0000\u0002�\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000ATTR\u0000\u0000\u0000\u0000\u0000\u0000\u0002�\u0000\u0000\u0000�\u0000\u0000\u0001�\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0003\u0000\u0000\u0000�\u0000\u0000\u0000H\u0000\u0000\u000fcom.apple.macl\u0000\u0000\u0000\u0000\u0000\u0001,\u0000\u0000\u0001>\u0000\u0000%com.apple.metadata:kMDItemWhereFroms\u0000\u0000\u0000\u0002j\u0000\u0000\u0000\u0018\u0000\u0000\u0015com.apple.quarantine\u0000\u0000��F�\u001b��B\u0018�����#.^\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000..."
+  },
+  {
+    "evidence_id": "EV-113",
+    "file_name": "._email4.txt",
+    "evidence_type": "Email",
+    "relevance_label": "Low",
+    "linked_allegation_points": [],
+    "status": "Needs Review",
+    "characters": 641,
+    "content_preview": "\u0000\u0005\u0016\u0007\u0000\u0002\u0000\u0000Mac OS X        \u0000\u0002\u0000\u0000\u0000\t\u0000\u0000\u00002\u0000\u0000\u0002O\u0000\u0000\u0000\u0002\u0000\u0000\u0002�\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000ATTR\u0000\u0000\u0000\u0000\u0000\u0000\u0002�\u0000\u0000\u0000�\u0000\u0000\u0001�\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0003\u0000\u0000\u0000�\u0000\u0000\u0000H\u0000\u0000\u000fcom.apple.macl\u0000\u0000\u0000\u0000\u0000\u0001,\u0000\u0000\u0001=\u0000\u0000%com.apple.metadata:kMDItemWhereFroms\u0000\u0000\u0000\u0002i\u0000\u0000\u0000\u0018\u0000\u0000\u0015com.apple.quarantine\u0000\u0000��F�\u001b��B\u0018�����#.^\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000..."
+  },
+  {
+    "evidence_id": "EV-114",
+    "file_name": "._email40.txt",
+    "evidence_type": "Email",
+    "relevance_label": "Low",
+    "linked_allegation_points": [],
+    "status": "Needs Review",
+    "characters": 642,
+    "content_preview": "\u0000\u0005\u0016\u0007\u0000\u0002\u0000\u0000Mac OS X        \u0000\u0002\u0000\u0000\u0000\t\u0000\u0000\u00002\u0000\u0000\u0002P\u0000\u0000\u0000\u0002\u0000\u0000\u0002�\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000ATTR\u0000\u0000\u0000\u0000\u0000\u0000\u0002�\u0000\u0000\u0000�\u0000\u0000\u0001�\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0003\u0000\u0000\u0000�\u0000\u0000\u0000H\u0000\u0000\u000fcom.apple.macl\u0000\u0000\u0000\u0000\u0000\u0001,\u0000\u0000\u0001>\u0000\u0000%com.apple.metadata:kMDItemWhereFroms\u0000\u0000\u0000\u0002j\u0000\u0000\u0000\u0018\u0000\u0000\u0015com.apple.quarantine\u0000\u0000��F�\u001b��B\u0018�����#.^\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000..."
+  },
+  {
+    "evidence_id": "EV-115",
+    "file_name": "._email41.txt",
+    "evidence_type": "Email",
+    "relevance_label": "Low",
+    "linked_allegation_points": [],
+    "status": "Needs Review",
+    "characters": 642,
+    "content_preview": "\u0000\u0005\u0016\u0007\u0000\u0002\u0000\u0000Mac OS X        \u0000\u0002\u0000\u0000\u0000\t\u0000\u0000\u00002\u0000\u0000\u0002P\u0000\u0000\u0000\u0002\u0000\u0000\u0002�\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000ATTR\u0000\u0000\u0000\u0000\u0000\u0000\u0002�\u0000\u0000\u0000�\u0000\u0000\u0001�\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0003\u0000\u0000\u0000�\u0000\u0000\u0000H\u0000\u0000\u000fcom.apple.macl\u0000\u0000\u0000\u0000\u0000\u0001,\u0000\u0000\u0001>\u0000\u0000%com.apple.metadata:kMDItemWhereFroms\u0000\u0000\u0000\u0002j\u0000\u0000\u0000\u0018\u0000\u0000\u0015com.apple.quarantine\u0000\u0000��F�\u001b��B\u0018�����#.^\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000..."
+  },
+  {
+    "evidence_id": "EV-116",
+    "file_name": "._email42.txt",
+    "evidence_type": "Email",
+    "relevance_label": "Low",
+    "linked_allegation_points": [],
+    "status": "Needs Review",
+    "characters": 642,
+    "content_preview": "\u0000\u0005\u0016\u0007\u0000\u0002\u0000\u0000Mac OS X        \u0000\u0002\u0000\u0000\u0000\t\u0000\u0000\u00002\u0000\u0000\u0002P\u0000\u0000\u0000\u0002\u0000\u0000\u0002�\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000ATTR\u0000\u0000\u0000\u0000\u0000\u0000\u0002�\u0000\u0000\u0000�\u0000\u0000\u0001�\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0003\u0000\u0000\u0000�\u0000\u0000\u0000H\u0000\u0000\u000fcom.apple.macl\u0000\u0000\u0000\u0000\u0000\u0001,\u0000\u0000\u0001>\u0000\u0000%com.apple.metadata:kMDItemWhereFroms\u0000\u0000\u0000\u0002j\u0000\u0000\u0000\u0018\u0000\u0000\u0015com.apple.quarantine\u0000\u0000��F�\u001b��B\u0018�����#.^\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000..."
+  },
+  {
+    "evidence_id": "EV-117",
+    "file_name": "._email43.txt",
+    "evidence_type": "Email",
+    "relevance_label": "Low",
+    "linked_allegation_points": [],
+    "status": "Needs Review",
+    "characters": 642,
+    "content_preview": "\u0000\u0005\u0016\u0007\u0000\u0002\u0000\u0000Mac OS X        \u0000\u0002\u0000\u0000\u0000\t\u0000\u0000\u00002\u0000\u0000\u0002P\u0000\u0000\u0000\u0002\u0000\u0000\u0002�\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000ATTR\u0000\u0000\u0000\u0000\u0000\u0000\u0002�\u0000\u0000\u0000�\u0000\u0000\u0001�\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0003\u0000\u0000\u0000�\u0000\u0000\u0000H\u0000\u0000\u000fcom.apple.macl\u0000\u0000\u0000\u0000\u0000\u0001,\u0000\u0000\u0001>\u0000\u0000%com.apple.metadata:kMDItemWhereFroms\u0000\u0000\u0000\u0002j\u0000\u0000\u0000\u0018\u0000\u0000\u0015com.apple.quarantine\u0000\u0000��F�\u001b��B\u0018�����#.^\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000..."
+  },
+  {
+    "evidence_id": "EV-118",
+    "file_name": "._email44.txt",
+    "evidence_type": "Email",
+    "relevance_label": "Low",
+    "linked_allegation_points": [],
+    "status": "Needs Review",
+    "characters": 642,
+    "content_preview": "\u0000\u0005\u0016\u0007\u0000\u0002\u0000\u0000Mac OS X        \u0000\u0002\u0000\u0000\u0000\t\u0000\u0000\u00002\u0000\u0000\u0002P\u0000\u0000\u0000\u0002\u0000\u0000\u0002�\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000ATTR\u0000\u0000\u0000\u0000\u0000\u0000\u0002�\u0000\u0000\u0000�\u0000\u0000\u0001�\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0003\u0000\u0000\u0000�\u0000\u0000\u0000H\u0000\u0000\u000fcom.apple.macl\u0000\u0000\u0000\u0000\u0000\u0001,\u0000\u0000\u0001>\u0000\u0000%com.apple.metadata:kMDItemWhereFroms\u0000\u0000\u0000\u0002j\u0000\u0000\u0000\u0018\u0000\u0000\u0015com.apple.quarantine\u0000\u0000��F�\u001b��B\u0018�����#.^\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000..."
+  },
+  {
+    "evidence_id": "EV-119",
+    "file_name": "._email45.txt",
+    "evidence_type": "Email",
+    "relevance_label": "Low",
+    "linked_allegation_points": [],
+    "status": "Needs Review",
+    "characters": 642,
+    "content_preview": "\u0000\u0005\u0016\u0007\u0000\u0002\u0000\u0000Mac OS X        \u0000\u0002\u0000\u0000\u0000\t\u0000\u0000\u00002\u0000\u0000\u0002P\u0000\u0000\u0000\u0002\u0000\u0000\u0002�\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000ATTR\u0000\u0000\u0000\u0000\u0000\u0000\u0002�\u0000\u0000\u0000�\u0000\u0000\u0001�\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0003\u0000\u0000\u0000�\u0000\u0000\u0000H\u0000\u0000\u000fcom.apple.macl\u0000\u0000\u0000\u0000\u0000\u0001,\u0000\u0000\u0001>\u0000\u0000%com.apple.metadata:kMDItemWhereFroms\u0000\u0000\u0000\u0002j\u0000\u0000\u0000\u0018\u0000\u0000\u0015com.apple.quarantine\u0000\u0000��F�\u001b��B\u0018�����#.^\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000..."
+  },
+  {
+    "evidence_id": "EV-120",
+    "file_name": "._email46.txt",
+    "evidence_type": "Email",
+    "relevance_label": "Low",
+    "linked_allegation_points": [],
+    "status": "Needs Review",
+    "characters": 642,
+    "content_preview": "\u0000\u0005\u0016\u0007\u0000\u0002\u0000\u0000Mac OS X        \u0000\u0002\u0000\u0000\u0000\t\u0000\u0000\u00002\u0000\u0000\u0002P\u0000\u0000\u0000\u0002\u0000\u0000\u0002�\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000ATTR\u0000\u0000\u0000\u0000\u0000\u0000\u0002�\u0000\u0000\u0000�\u0000\u0000\u0001�\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0003\u0000\u0000\u0000�\u0000\u0000\u0000H\u0000\u0000\u000fcom.apple.macl\u0000\u0000\u0000\u0000\u0000\u0001,\u0000\u0000\u0001>\u0000\u0000%com.apple.metadata:kMDItemWhereFroms\u0000\u0000\u0000\u0002j\u0000\u0000\u0000\u0018\u0000\u0000\u0015com.apple.quarantine\u0000\u0000��F�\u001b��B\u0018�����#.^\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000..."
+  },
+  {
+    "evidence_id": "EV-121",
+    "file_name": "._email47.txt",
+    "evidence_type": "Email",
+    "relevance_label": "Low",
+    "linked_allegation_points": [],
+    "status": "Needs Review",
+    "characters": 642,
+    "content_preview": "\u0000\u0005\u0016\u0007\u0000\u0002\u0000\u0000Mac OS X        \u0000\u0002\u0000\u0000\u0000\t\u0000\u0000\u00002\u0000\u0000\u0002P\u0000\u0000\u0000\u0002\u0000\u0000\u0002�\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000ATTR\u0000\u0000\u0000\u0000\u0000\u0000\u0002�\u0000\u0000\u0000�\u0000\u0000\u0001�\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0003\u0000\u0000\u0000�\u0000\u0000\u0000H\u0000\u0000\u000fcom.apple.macl\u0000\u0000\u0000\u0000\u0000\u0001,\u0000\u0000\u0001>\u0000\u0000%com.apple.metadata:kMDItemWhereFroms\u0000\u0000\u0000\u0002j\u0000\u0000\u0000\u0018\u0000\u0000\u0015com.apple.quarantine\u0000\u0000��F�\u001b��B\u0018�����#.^\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000..."
+  },
+  {
+    "evidence_id": "EV-122",
+    "file_name": "._email48.txt",
+    "evidence_type": "Email",
+    "relevance_label": "Low",
+    "linked_allegation_points": [],
+    "status": "Needs Review",
+    "characters": 642,
+    "content_preview": "\u0000\u0005\u0016\u0007\u0000\u0002\u0000\u0000Mac OS X        \u0000\u0002\u0000\u0000\u0000\t\u0000\u0000\u00002\u0000\u0000\u0002P\u0000\u0000\u0000\u0002\u0000\u0000\u0002�\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000ATTR\u0000\u0000\u0000\u0000\u0000\u0000\u0002�\u0000\u0000\u0000�\u0000\u0000\u0001�\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0003\u0000\u0000\u0000�\u0000\u0000\u0000H\u0000\u0000\u000fcom.apple.macl\u0000\u0000\u0000\u0000\u0000\u0001,\u0000\u0000\u0001>\u0000\u0000%com.apple.metadata:kMDItemWhereFroms\u0000\u0000\u0000\u0002j\u0000\u0000\u0000\u0018\u0000\u0000\u0015com.apple.quarantine\u0000\u0000��F�\u001b��B\u0018�����#.^\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000..."
+  },
+  {
+    "evidence_id": "EV-123",
+    "file_name": "._email49.txt",
+    "evidence_type": "Email",
+    "relevance_label": "Low",
+    "linked_allegation_points": [],
+    "status": "Needs Review",
+    "characters": 642,
+    "content_preview": "\u0000\u0005\u0016\u0007\u0000\u0002\u0000\u0000Mac OS X        \u0000\u0002\u0000\u0000\u0000\t\u0000\u0000\u00002\u0000\u0000\u0002P\u0000\u0000\u0000\u0002\u0000\u0000\u0002�\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000ATTR\u0000\u0000\u0000\u0000\u0000\u0000\u0002�\u0000\u0000\u0000�\u0000\u0000\u0001�\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0003\u0000\u0000\u0000�\u0000\u0000\u0000H\u0000\u0000\u000fcom.apple.macl\u0000\u0000\u0000\u0000\u0000\u0001,\u0000\u0000\u0001>\u0000\u0000%com.apple.metadata:kMDItemWhereFroms\u0000\u0000\u0000\u0002j\u0000\u0000\u0000\u0018\u0000\u0000\u0015com.apple.quarantine\u0000\u0000��F�\u001b��B\u0018�����#.^\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000..."
+  },
+  {
+    "evidence_id": "EV-124",
+    "file_name": "._email5.txt",
+    "evidence_type": "Email",
+    "relevance_label": "Low",
+    "linked_allegation_points": [],
+    "status": "Needs Review",
+    "characters": 641,
+    "content_preview": "\u0000\u0005\u0016\u0007\u0000\u0002\u0000\u0000Mac OS X        \u0000\u0002\u0000\u0000\u0000\t\u0000\u0000\u00002\u0000\u0000\u0002O\u0000\u0000\u0000\u0002\u0000\u0000\u0002�\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000ATTR\u0000\u0000\u0000\u0000\u0000\u0000\u0002�\u0000\u0000\u0000�\u0000\u0000\u0001�\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0003\u0000\u0000\u0000�\u0000\u0000\u0000H\u0000\u0000\u000fcom.apple.macl\u0000\u0000\u0000\u0000\u0000\u0001,\u0000\u0000\u0001=\u0000\u0000%com.apple.metadata:kMDItemWhereFroms\u0000\u0000\u0000\u0002i\u0000\u0000\u0000\u0018\u0000\u0000\u0015com.apple.quarantine\u0000\u0000��F�\u001b��B\u0018�����#.^\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000..."
+  },
+  {
+    "evidence_id": "EV-125",
+    "file_name": "._email50.txt",
+    "evidence_type": "Email",
+    "relevance_label": "Low",
+    "linked_allegation_points": [],
+    "status": "Needs Review",
+    "characters": 642,
+    "content_preview": "\u0000\u0005\u0016\u0007\u0000\u0002\u0000\u0000Mac OS X        \u0000\u0002\u0000\u0000\u0000\t\u0000\u0000\u00002\u0000\u0000\u0002P\u0000\u0000\u0000\u0002\u0000\u0000\u0002�\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000ATTR\u0000\u0000\u0000\u0000\u0000\u0000\u0002�\u0000\u0000\u0000�\u0000\u0000\u0001�\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0003\u0000\u0000\u0000�\u0000\u0000\u0000H\u0000\u0000\u000fcom.apple.macl\u0000\u0000\u0000\u0000\u0000\u0001,\u0000\u0000\u0001>\u0000\u0000%com.apple.metadata:kMDItemWhereFroms\u0000\u0000\u0000\u0002j\u0000\u0000\u0000\u0018\u0000\u0000\u0015com.apple.quarantine\u0000\u0000��F�\u001b��B\u0018�����#.^\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000..."
+  },
+  {
+    "evidence_id": "EV-126",
+    "file_name": "._email6.txt",
+    "evidence_type": "Email",
+    "relevance_label": "Low",
+    "linked_allegation_points": [],
+    "status": "Needs Review",
+    "characters": 641,
+    "content_preview": "\u0000\u0005\u0016\u0007\u0000\u0002\u0000\u0000Mac OS X        \u0000\u0002\u0000\u0000\u0000\t\u0000\u0000\u00002\u0000\u0000\u0002O\u0000\u0000\u0000\u0002\u0000\u0000\u0002�\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000ATTR\u0000\u0000\u0000\u0000\u0000\u0000\u0002�\u0000\u0000\u0000�\u0000\u0000\u0001�\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0003\u0000\u0000\u0000�\u0000\u0000\u0000H\u0000\u0000\u000fcom.apple.macl\u0000\u0000\u0000\u0000\u0000\u0001,\u0000\u0000\u0001=\u0000\u0000%com.apple.metadata:kMDItemWhereFroms\u0000\u0000\u0000\u0002i\u0000\u0000\u0000\u0018\u0000\u0000\u0015com.apple.quarantine\u0000\u0000��F�\u001b��B\u0018�����#.^\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000..."
+  },
+  {
+    "evidence_id": "EV-127",
+    "file_name": "._email7.txt",
+    "evidence_type": "Email",
+    "relevance_label": "Low",
+    "linked_allegation_points": [],
+    "status": "Needs Review",
+    "characters": 641,
+    "content_preview": "\u0000\u0005\u0016\u0007\u0000\u0002\u0000\u0000Mac OS X        \u0000\u0002\u0000\u0000\u0000\t\u0000\u0000\u00002\u0000\u0000\u0002O\u0000\u0000\u0000\u0002\u0000\u0000\u0002�\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000ATTR\u0000\u0000\u0000\u0000\u0000\u0000\u0002�\u0000\u0000\u0000�\u0000\u0000\u0001�\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0003\u0000\u0000\u0000�\u0000\u0000\u0000H\u0000\u0000\u000fcom.apple.macl\u0000\u0000\u0000\u0000\u0000\u0001,\u0000\u0000\u0001=\u0000\u0000%com.apple.metadata:kMDItemWhereFroms\u0000\u0000\u0000\u0002i\u0000\u0000\u0000\u0018\u0000\u0000\u0015com.apple.quarantine\u0000\u0000��F�\u001b��B\u0018�����#.^\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000..."
+  },
+  {
+    "evidence_id": "EV-128",
+    "file_name": "._email8.txt",
+    "evidence_type": "Email",
+    "relevance_label": "Low",
+    "linked_allegation_points": [],
+    "status": "Needs Review",
+    "characters": 641,
+    "content_preview": "\u0000\u0005\u0016\u0007\u0000\u0002\u0000\u0000Mac OS X        \u0000\u0002\u0000\u0000\u0000\t\u0000\u0000\u00002\u0000\u0000\u0002O\u0000\u0000\u0000\u0002\u0000\u0000\u0002�\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000ATTR\u0000\u0000\u0000\u0000\u0000\u0000\u0002�\u0000\u0000\u0000�\u0000\u0000\u0001�\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0003\u0000\u0000\u0000�\u0000\u0000\u0000H\u0000\u0000\u000fcom.apple.macl\u0000\u0000\u0000\u0000\u0000\u0001,\u0000\u0000\u0001=\u0000\u0000%com.apple.metadata:kMDItemWhereFroms\u0000\u0000\u0000\u0002i\u0000\u0000\u0000\u0018\u0000\u0000\u0015com.apple.quarantine\u0000\u0000��F�\u001b��B\u0018�����#.^\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000..."
+  },
+  {
+    "evidence_id": "EV-129",
+    "file_name": "._email9.txt",
+    "evidence_type": "Email",
+    "relevance_label": "Low",
+    "linked_allegation_points": [],
+    "status": "Needs Review",
+    "characters": 641,
+    "content_preview": "\u0000\u0005\u0016\u0007\u0000\u0002\u0000\u0000Mac OS X        \u0000\u0002\u0000\u0000\u0000\t\u0000\u0000\u00002\u0000\u0000\u0002O\u0000\u0000\u0000\u0002\u0000\u0000\u0002�\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000ATTR\u0000\u0000\u0000\u0000\u0000\u0000\u0002�\u0000\u0000\u0000�\u0000\u0000\u0001�\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0003\u0000\u0000\u0000�\u0000\u0000\u0000H\u0000\u0000\u000fcom.apple.macl\u0000\u0000\u0000\u0000\u0000\u0001,\u0000\u0000\u0001=\u0000\u0000%com.apple.metadata:kMDItemWhereFroms\u0000\u0000\u0000\u0002i\u0000\u0000\u0000\u0018\u0000\u0000\u0015com.apple.quarantine\u0000\u0000��F�\u001b��B\u0018�����#.^\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000..."
+  },
+  {
+    "evidence_id": "EV-130",
+    "file_name": "._Example_Email_1a.txt",
+    "evidence_type": "Email",
+    "relevance_label": "Low",
+    "linked_allegation_points": [],
+    "status": "Needs Review",
+    "characters": 651,
+    "content_preview": "\u0000\u0005\u0016\u0007\u0000\u0002\u0000\u0000Mac OS X        \u0000\u0002\u0000\u0000\u0000\t\u0000\u0000\u00002\u0000\u0000\u0002Y\u0000\u0000\u0000\u0002\u0000\u0000\u0002�\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000ATTR\u0000\u0000\u0000\u0000\u0000\u0000\u0002�\u0000\u0000\u0000�\u0000\u0000\u0001�\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0003\u0000\u0000\u0000�\u0000\u0000\u0000H\u0000\u0000\u000fcom.apple.macl\u0000\u0000\u0000\u0000\u0000\u0001,\u0000\u0000\u0001G\u0000\u0000%com.apple.metadata:kMDItemWhereFroms\u0000\u0000\u0000\u0002s\u0000\u0000\u0000\u0018\u0000\u0000\u0015com.apple.quarantine\u0000\u0000��F�\u001b��B\u0018�����#.^\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000..."
+  },
+  {
+    "evidence_id": "EV-131",
+    "file_name": "._Example_Email_1b.txt",
+    "evidence_type": "Email",
+    "relevance_label": "Low",
+    "linked_allegation_points": [],
+    "status": "Needs Review",
+    "characters": 651,
+    "content_preview": "\u0000\u0005\u0016\u0007\u0000\u0002\u0000\u0000Mac OS X        \u0000\u0002\u0000\u0000\u0000\t\u0000\u0000\u00002\u0000\u0000\u0002Y\u0000\u0000\u0000\u0002\u0000\u0000\u0002�\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000ATTR\u0000\u0000\u0000\u0000\u0000\u0000\u0002�\u0000\u0000\u0000�\u0000\u0000\u0001�\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0003\u0000\u0000\u0000�\u0000\u0000\u0000H\u0000\u0000\u000fcom.apple.macl\u0000\u0000\u0000\u0000\u0000\u0001,\u0000\u0000\u0001G\u0000\u0000%com.apple.metadata:kMDItemWhereFroms\u0000\u0000\u0000\u0002s\u0000\u0000\u0000\u0018\u0000\u0000\u0015com.apple.quarantine\u0000\u0000��F�\u001b��B\u0018�����#.^\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000..."
+  },
+  {
+    "evidence_id": "EV-132",
+    "file_name": "._Example_Email_2a.txt",
+    "evidence_type": "Email",
+    "relevance_label": "Low",
+    "linked_allegation_points": [],
+    "status": "Needs Review",
+    "characters": 651,
+    "content_preview": "\u0000\u0005\u0016\u0007\u0000\u0002\u0000\u0000Mac OS X        \u0000\u0002\u0000\u0000\u0000\t\u0000\u0000\u00002\u0000\u0000\u0002Y\u0000\u0000\u0000\u0002\u0000\u0000\u0002�\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000ATTR\u0000\u0000\u0000\u0000\u0000\u0000\u0002�\u0000\u0000\u0000�\u0000\u0000\u0001�\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0003\u0000\u0000\u0000�\u0000\u0000\u0000H\u0000\u0000\u000fcom.apple.macl\u0000\u0000\u0000\u0000\u0000\u0001,\u0000\u0000\u0001G\u0000\u0000%com.apple.metadata:kMDItemWhereFroms\u0000\u0000\u0000\u0002s\u0000\u0000\u0000\u0018\u0000\u0000\u0015com.apple.quarantine\u0000\u0000��F�\u001b��B\u0018�����#.^\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000..."
+  },
+  {
+    "evidence_id": "EV-133",
+    "file_name": "._Example_Email_2b.txt",
+    "evidence_type": "Email",
+    "relevance_label": "Low",
+    "linked_allegation_points": [],
+    "status": "Needs Review",
+    "characters": 651,
+    "content_preview": "\u0000\u0005\u0016\u0007\u0000\u0002\u0000\u0000Mac OS X        \u0000\u0002\u0000\u0000\u0000\t\u0000\u0000\u00002\u0000\u0000\u0002Y\u0000\u0000\u0000\u0002\u0000\u0000\u0002�\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000ATTR\u0000\u0000\u0000\u0000\u0000\u0000\u0002�\u0000\u0000\u0000�\u0000\u0000\u0001�\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0003\u0000\u0000\u0000�\u0000\u0000\u0000H\u0000\u0000\u000fcom.apple.macl\u0000\u0000\u0000\u0000\u0000\u0001,\u0000\u0000\u0001G\u0000\u0000%com.apple.metadata:kMDItemWhereFroms\u0000\u0000\u0000\u0002s\u0000\u0000\u0000\u0018\u0000\u0000\u0015com.apple.quarantine\u0000\u0000��F�\u001b��B\u0018�����#.^\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000..."
+  },
+  {
+    "evidence_id": "EV-134",
+    "file_name": "._Example_Email_3a.txt",
+    "evidence_type": "Email",
+    "relevance_label": "Low",
+    "linked_allegation_points": [],
+    "status": "Needs Review",
+    "characters": 651,
+    "content_preview": "\u0000\u0005\u0016\u0007\u0000\u0002\u0000\u0000Mac OS X        \u0000\u0002\u0000\u0000\u0000\t\u0000\u0000\u00002\u0000\u0000\u0002Y\u0000\u0000\u0000\u0002\u0000\u0000\u0002�\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000ATTR\u0000\u0000\u0000\u0000\u0000\u0000\u0002�\u0000\u0000\u0000�\u0000\u0000\u0001�\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0003\u0000\u0000\u0000�\u0000\u0000\u0000H\u0000\u0000\u000fcom.apple.macl\u0000\u0000\u0000\u0000\u0000\u0001,\u0000\u0000\u0001G\u0000\u0000%com.apple.metadata:kMDItemWhereFroms\u0000\u0000\u0000\u0002s\u0000\u0000\u0000\u0018\u0000\u0000\u0015com.apple.quarantine\u0000\u0000��F�\u001b��B\u0018�����#.^\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000..."
+  },
+  {
+    "evidence_id": "EV-135",
+    "file_name": "._Example_Email_3b.txt",
+    "evidence_type": "Email",
+    "relevance_label": "Low",
+    "linked_allegation_points": [],
+    "status": "Needs Review",
+    "characters": 651,
+    "content_preview": "\u0000\u0005\u0016\u0007\u0000\u0002\u0000\u0000Mac OS X        \u0000\u0002\u0000\u0000\u0000\t\u0000\u0000\u00002\u0000\u0000\u0002Y\u0000\u0000\u0000\u0002\u0000\u0000\u0002�\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000ATTR\u0000\u0000\u0000\u0000\u0000\u0000\u0002�\u0000\u0000\u0000�\u0000\u0000\u0001�\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0003\u0000\u0000\u0000�\u0000\u0000\u0000H\u0000\u0000\u000fcom.apple.macl\u0000\u0000\u0000\u0000\u0000\u0001,\u0000\u0000\u0001G\u0000\u0000%com.apple.metadata:kMDItemWhereFroms\u0000\u0000\u0000\u0002s\u0000\u0000\u0000\u0018\u0000\u0000\u0015com.apple.quarantine\u0000\u0000��F�\u001b��B\u0018�����#.^\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000..."
+  },
+  {
+    "evidence_id": "EV-136",
+    "file_name": "._Example_Email_4a.txt",
+    "evidence_type": "Email",
+    "relevance_label": "Low",
+    "linked_allegation_points": [],
+    "status": "Needs Review",
+    "characters": 651,
+    "content_preview": "\u0000\u0005\u0016\u0007\u0000\u0002\u0000\u0000Mac OS X        \u0000\u0002\u0000\u0000\u0000\t\u0000\u0000\u00002\u0000\u0000\u0002Y\u0000\u0000\u0000\u0002\u0000\u0000\u0002�\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000ATTR\u0000\u0000\u0000\u0000\u0000\u0000\u0002�\u0000\u0000\u0000�\u0000\u0000\u0001�\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0003\u0000\u0000\u0000�\u0000\u0000\u0000H\u0000\u0000\u000fcom.apple.macl\u0000\u0000\u0000\u0000\u0000\u0001,\u0000\u0000\u0001G\u0000\u0000%com.apple.metadata:kMDItemWhereFroms\u0000\u0000\u0000\u0002s\u0000\u0000\u0000\u0018\u0000\u0000\u0015com.apple.quarantine\u0000\u0000��F�\u001b��B\u0018�����#.^\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000..."
+  },
+  {
+    "evidence_id": "EV-137",
+    "file_name": "._Example_Email_4b.txt",
+    "evidence_type": "Email",
+    "relevance_label": "Low",
+    "linked_allegation_points": [],
+    "status": "Needs Review",
+    "characters": 651,
+    "content_preview": "\u0000\u0005\u0016\u0007\u0000\u0002\u0000\u0000Mac OS X        \u0000\u0002\u0000\u0000\u0000\t\u0000\u0000\u00002\u0000\u0000\u0002Y\u0000\u0000\u0000\u0002\u0000\u0000\u0002�\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000ATTR\u0000\u0000\u0000\u0000\u0000\u0000\u0002�\u0000\u0000\u0000�\u0000\u0000\u0001�\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0003\u0000\u0000\u0000�\u0000\u0000\u0000H\u0000\u0000\u000fcom.apple.macl\u0000\u0000\u0000\u0000\u0000\u0001,\u0000\u0000\u0001G\u0000\u0000%com.apple.metadata:kMDItemWhereFroms\u0000\u0000\u0000\u0002s\u0000\u0000\u0000\u0018\u0000\u0000\u0015com.apple.quarantine\u0000\u0000��F�\u001b��B\u0018�����#.^\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000..."
+  },
+  {
+    "evidence_id": "EV-138",
+    "file_name": "._Example_Email_5a.txt",
+    "evidence_type": "Email",
+    "relevance_label": "Low",
+    "linked_allegation_points": [],
+    "status": "Needs Review",
+    "characters": 651,
+    "content_preview": "\u0000\u0005\u0016\u0007\u0000\u0002\u0000\u0000Mac OS X        \u0000\u0002\u0000\u0000\u0000\t\u0000\u0000\u00002\u0000\u0000\u0002Y\u0000\u0000\u0000\u0002\u0000\u0000\u0002�\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000ATTR\u0000\u0000\u0000\u0000\u0000\u0000\u0002�\u0000\u0000\u0000�\u0000\u0000\u0001�\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0003\u0000\u0000\u0000�\u0000\u0000\u0000H\u0000\u0000\u000fcom.apple.macl\u0000\u0000\u0000\u0000\u0000\u0001,\u0000\u0000\u0001G\u0000\u0000%com.apple.metadata:kMDItemWhereFroms\u0000\u0000\u0000\u0002s\u0000\u0000\u0000\u0018\u0000\u0000\u0015com.apple.quarantine\u0000\u0000��F�\u001b��B\u0018�����#.^\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000..."
+  },
+  {
+    "evidence_id": "EV-139",
+    "file_name": "._Example_Email_5b.txt",
+    "evidence_type": "Email",
+    "relevance_label": "Low",
+    "linked_allegation_points": [],
+    "status": "Needs Review",
+    "characters": 651,
+    "content_preview": "\u0000\u0005\u0016\u0007\u0000\u0002\u0000\u0000Mac OS X        \u0000\u0002\u0000\u0000\u0000\t\u0000\u0000\u00002\u0000\u0000\u0002Y\u0000\u0000\u0000\u0002\u0000\u0000\u0002�\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000ATTR\u0000\u0000\u0000\u0000\u0000\u0000\u0002�\u0000\u0000\u0000�\u0000\u0000\u0001�\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0003\u0000\u0000\u0000�\u0000\u0000\u0000H\u0000\u0000\u000fcom.apple.macl\u0000\u0000\u0000\u0000\u0000\u0001,\u0000\u0000\u0001G\u0000\u0000%com.apple.metadata:kMDItemWhereFroms\u0000\u0000\u0000\u0002s\u0000\u0000\u0000\u0018\u0000\u0000\u0015com.apple.quarantine\u0000\u0000��F�\u001b��B\u0018�����#.^\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000..."
+  },
+  {
+    "evidence_id": "EV-140",
+    "file_name": "._Example_Email_6a.txt",
+    "evidence_type": "Email",
+    "relevance_label": "Low",
+    "linked_allegation_points": [],
+    "status": "Needs Review",
+    "characters": 651,
+    "content_preview": "\u0000\u0005\u0016\u0007\u0000\u0002\u0000\u0000Mac OS X        \u0000\u0002\u0000\u0000\u0000\t\u0000\u0000\u00002\u0000\u0000\u0002Y\u0000\u0000\u0000\u0002\u0000\u0000\u0002�\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000ATTR\u0000\u0000\u0000\u0000\u0000\u0000\u0002�\u0000\u0000\u0000�\u0000\u0000\u0001�\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0003\u0000\u0000\u0000�\u0000\u0000\u0000H\u0000\u0000\u000fcom.apple.macl\u0000\u0000\u0000\u0000\u0000\u0001,\u0000\u0000\u0001G\u0000\u0000%com.apple.metadata:kMDItemWhereFroms\u0000\u0000\u0000\u0002s\u0000\u0000\u0000\u0018\u0000\u0000\u0015com.apple.quarantine\u0000\u0000��F�\u001b��B\u0018�����#.^\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000..."
+  },
+  {
+    "evidence_id": "EV-141",
+    "file_name": "._Example_Email_6b.txt",
+    "evidence_type": "Email",
+    "relevance_label": "Low",
+    "linked_allegation_points": [],
+    "status": "Needs Review",
+    "characters": 651,
+    "content_preview": "\u0000\u0005\u0016\u0007\u0000\u0002\u0000\u0000Mac OS X        \u0000\u0002\u0000\u0000\u0000\t\u0000\u0000\u00002\u0000\u0000\u0002Y\u0000\u0000\u0000\u0002\u0000\u0000\u0002�\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000ATTR\u0000\u0000\u0000\u0000\u0000\u0000\u0002�\u0000\u0000\u0000�\u0000\u0000\u0001�\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0003\u0000\u0000\u0000�\u0000\u0000\u0000H\u0000\u0000\u000fcom.apple.macl\u0000\u0000\u0000\u0000\u0000\u0001,\u0000\u0000\u0001G\u0000\u0000%com.apple.metadata:kMDItemWhereFroms\u0000\u0000\u0000\u0002s\u0000\u0000\u0000\u0018\u0000\u0000\u0015com.apple.quarantine\u0000\u0000��F�\u001b��B\u0018�����#.^\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000..."
+  },
+  {
+    "evidence_id": "EV-142",
+    "file_name": "._Example_Email_7.txt",
+    "evidence_type": "Email",
+    "relevance_label": "Low",
+    "linked_allegation_points": [],
+    "status": "Needs Review",
+    "characters": 650,
+    "content_preview": "\u0000\u0005\u0016\u0007\u0000\u0002\u0000\u0000Mac OS X        \u0000\u0002\u0000\u0000\u0000\t\u0000\u0000\u00002\u0000\u0000\u0002X\u0000\u0000\u0000\u0002\u0000\u0000\u0002�\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000ATTR\u0000\u0000\u0000\u0000\u0000\u0000\u0002�\u0000\u0000\u0000�\u0000\u0000\u0001�\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0003\u0000\u0000\u0000�\u0000\u0000\u0000H\u0000\u0000\u000fcom.apple.macl\u0000\u0000\u0000\u0000\u0000\u0001,\u0000\u0000\u0001F\u0000\u0000%com.apple.metadata:kMDItemWhereFroms\u0000\u0000\u0000\u0002r\u0000\u0000\u0000\u0018\u0000\u0000\u0015com.apple.quarantine\u0000\u0000��F�\u001b��B\u0018�����#.^\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000..."
+  }
+]

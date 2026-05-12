@@ -1,0 +1,94 @@
+Transcript: Interview between Sarah Miller and Robin Flowers
+Date: June 09, 2025
+Attendees: Sarah Miller (Accounting Manager), Robin Flowers (Head of Finance)
+Robin Flowers: Thanks for coming in, Sarah. I understand you have some concerns regarding our piping
+contractor, Oddity?
+Sarah Miller: Yes, Robin. I've been reviewing invoices from Oddity for the past few weeks, and I've found
+some significant discrepancies.
+Robin Flowers: Discrepancies? Can you elaborate?
+Sarah Miller: The invoices don't seem to match the actual work being done. In many cases, the charges
+are inflated, or they're billing for work that wasn't even authorized or necessary. I think we may have
+been overcharged more than £100k in the last 3 months alone - and we have paid for two of those
+months already.
+Robin Flowers: That's very concerning. Can you give me some specific examples?
+Sarah Miller: Sure. For instance, on invoice number 36583, they billed us a full week's work for Isabelle
+Chen, an engineer, in the last week of May. But when I checked with our team, they confirmed that she
+wasn't on site that week. And the cost for these invoices is significantly higher than what we've paid in
+the past for these works on other sites.
+Robin Flowers: That's concerning. Have you spoken to William Taylor, the Maintenance Manager, about
+this?
+Sarah Miller: I asked him to give me an overview of the checks he is performing to validate these
+invoices, but he got very defensive. I've noticed that he's the one who consistently approves these
+invoices. And he seems to sign off on them without any questions before having them sent to me for
+payment.
+Robin Flowers: Do you suspect something more is going on here?
+Sarah Miller: I do. I'm concerned that William Taylor might be colluding with Oddity to inflate their
+invoices. It's possible he's receiving some kind of kickback for approving these excessive charges.
+Assuming the timesheets are correctly filled out by the engineers, it looks like someone, either Oddity or
+Will, is manually increasing the hours against each name in the cost schedule and invoice. In some cases
+it looks like someone has changed the rates for some of the engineers to that of a senior engineer to
+squeeze even more money out of each invoice. Furthermore, the most recent invoice doesn't even seem
+to add up correctly-resulting in an additional £7k! That is one too many errors to be a mistake.
+Robin Flowers: That's a serious accusation, Sarah. Do you have any evidence to support that? Sarah
+Miller: I don't have concrete proof of a kickback, but the pattern of inflated invoices, combined with
+
+William Taylor's lack of oversight, is highly suspicious. I've compiled a report with detailed comparisons
+of the May invoice, time sheets, and the cost schedule. The value for pipeworks in May alone are
+completely different between the timesheets, cost schedule, and invoice. It clearly shows that someone
+must have deliberately made changes in order to overcharge our company.
+Robin Flowers: I'll need to see that report. This is a very serious matter. We need to investigate this
+thoroughly. Do you think the May invoice could be fabricated further? For example, could there be
+fictious employees or materials being included?
+Sarah Miller: It could be the case-I don't think there is any way of knowing without further investigation.
+But Oddity have clearly been fabricating some elements of these invoices, sol wouldn't be surprised. I
+am also worried that this could be a widespread issue - any of the engineers on the Oddity team could
+be involved. And other maintenance managers might be approving invoices from Oddity without running
+the proper checks - I think we have systemic issues going deeper than we think if Will can just approve
+these invoices with no further checks. Robin Flowers: Do you know who brought Oddity onto the
+project?
+Sarah Miller: No I don't. My role is only to accept these approved invoices and include them in our
+payment run at the end of the month - Will should be reviewing these invoices carefully before
+approving them for payment. We do have some flexibility for cost variations, but this goes way further
+than that.
+Robin Flowers: Did you suspect anything was wrong with the first invoice?
+Sarah Miller: No I didn't- as I said, Will is meant to review these invoices so I assumed that he had done
+the necessary checks and took his approval as assurance. It is only now that I have had a look at all three
+invoices that I can see these small changes are resulting in a huge overcharge. I do keep an eye out for
+irregularities or unusual cost overruns, but Will assured me that these were not suspect cost increases.
+Robin Flowers: Thank you, Sarah. I appreciate you bringing this to my attention. I'll review this
+immediately and launch a formal internal investigation. We need to determine the full extent of this
+potential fraud and take appropriate action.
+Sarah Miller: What do you think the next steps will be? I am worried that Will is going to find out that I
+am the one who raised the issue and got him in trouble.
+Robin Flowers: First, I'll review your report and documentation. Then, I'll initiate an internal
+investigation, which will likely involve interviewing William Taylor and representatives from Oddity. We'll
+also need to consult with our legal counsel to determine the best course of action. Depending on what
+we find, we may need to contact the authorities. We will of course keep your identify completely
+confidential.
+Sarah Miller: Will the police need to be informed? We have money laundering obligations, right?
+Robin Flowers: First, we should look into the matter first to confirm these allegations and assess the
+scale. We could potentially bring in a third party to investigate - but until we know more, we won't
+
+report anything to the police and we don't need to let William know that we suspect any wrongdoing
+from him. Please keep this between us for now.
+Sarah Miller: Should we continue to pay Oddity's invoices in the meantime?
+Robin Flowers: No, I think we should put a temporary freeze on payments to Oddity pending the
+outcome of the investigation. We also need to review our internal controls related to procurement and
+invoice processing to prevent similar incidents in the future.
+Sarah Miller: What about the c. £500k we have already paid to Oddity for March and April?
+Robin Flowers: We can deal with that as the investigation proceeds, but right now the important thing is
+to pause payments out to them.
+Sarah Miller: That sounds like a good plan. I'm happy to assist in any way I can with the investigation. Do
+I need to get a lawyer? I do not want to get dragged in to anything or be implicated either - especially
+since I allowed payment of two of these invoices. I am very worried about being seen as complicit.
+Robin Flowers: I appreciate that, Sarah. Your diligence in uncovering this is commendable. Please remain
+available to answer questions and provide further information as needed. Your support is critical and we
+do have counsel on hand for matters like these - don't worry, you will be taken care of by the company.
+We will likely need to have further meetings like these in the future as the investigation progresses, but
+you can take breaks at any time as soon as you feel uneasy.
+Sarah Miller: Of course.
+Robin Flowers: Okay, Sarah. Thank you again for bringing this to my attention and for assembling your
+report. I'll keep you informed of our progress. And if you feel the need to consult a lawyer personally,
+you are of course able to do so. In the meantime, let's keep this matter quiet - we don't want to spook
+Will or Oddity into doing anything reckless.
+Sarah Miller: Thank you, Robin.

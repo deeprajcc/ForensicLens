@@ -1,0 +1,52 @@
+{
+  "interview_date": "2025-06-09",
+  "main_vendor": "Oddity",
+  "internal_subject": "William Taylor",
+  "key_parties": [
+    {
+      "Name": "Sarah Miller",
+      "Role": "Accounting Manager",
+      "Relevance": "Whistleblower, identified invoice discrepancies and potential fraud."
+    },
+    {
+      "Name": "Robin Flowers",
+      "Role": "Head of Finance",
+      "Relevance": "Interviewer, initiated internal investigation and payment freeze."
+    },
+    {
+      "Name": "William Taylor",
+      "Role": "Maintenance Manager",
+      "Relevance": "Suspected of colluding with Oddity, approving fraudulent invoices, and potentially receiving kickbacks."
+    },
+    {
+      "Name": "Oddity",
+      "Role": "Piping Contractor",
+      "Relevance": "Main vendor accused of overcharging, inflating invoices, and fabricating work."
+    },
+    {
+      "Name": "Isabelle Chen",
+      "Role": "Engineer (Oddity)",
+      "Relevance": "Example of an employee billed for work not performed on invoice 36583."
+    }
+  ],
+  "estimated_overcharge": "More than £107,000",
+  "already_paid": "£500,000 for March and April",
+  "specific_invoice": "36583",
+  "immediate_action_discussed": "Robin Flowers will review Sarah Miller's report, launch a formal internal investigation, put a temporary freeze on payments to Oddity, and review internal controls related to procurement and invoice processing. The matter is to be kept confidential to avoid spooking William Taylor or Oddity.",
+  "allegation_themes": [
+    "Inflated invoices",
+    "Billing for unperformed/unauthorized work",
+    "Collusion",
+    "Kickbacks",
+    "Manual alteration of hours/rates",
+    "Incorrect invoice calculations",
+    "Fabricated invoice elements",
+    "Systemic control failures"
+  ],
+  "warnings": [
+    "Sarah Miller's concern about William Taylor discovering her role as whistleblower",
+    "Sarah Miller's concern about being implicated for processing payments",
+    "Need to keep the investigation confidential to avoid spooking suspects",
+    "Potential need for legal counsel and authorities depending on investigation outcome"
+  ]
+}

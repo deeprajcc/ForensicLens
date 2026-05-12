@@ -1,0 +1,246 @@
+[
+  {
+    "id": "AP-001",
+    "title": "Overcharging by Oddity exceeding £100k",
+    "category": "Invoice Fraud",
+    "party": "Oddity",
+    "period": "March-May 2025",
+    "evidence_needed": [
+      "Oddity invoices (Mar-May 2025)",
+      "Payment records",
+      "Project contracts"
+    ],
+    "initial_status": "Requires Evidence",
+    "keywords": [
+      "overcharge",
+      "Oddity",
+      "invoice",
+      "fraud",
+      "payment",
+      "£100k",
+      "discrepancy"
+    ]
+  },
+  {
+    "id": "AP-002",
+    "title": "Billing for unperformed work by Isabelle Chen on Invoice 36583",
+    "category": "Invoice Fraud",
+    "party": "Oddity",
+    "period": "Last week of May 2025",
+    "evidence_needed": [
+      "Invoice 36583",
+      "Oddity timesheets for Isabelle Chen",
+      "Internal site attendance records"
+    ],
+    "initial_status": "Requires Evidence",
+    "keywords": [
+      "Isabelle Chen",
+      "Invoice 36583",
+      "unperformed work",
+      "May",
+      "Oddity",
+      "timesheet",
+      "billing"
+    ]
+  },
+  {
+    "id": "AP-003",
+    "title": "Inflated charges and billing for unauthorized/unnecessary work",
+    "category": "Invoice Fraud",
+    "party": "Oddity",
+    "period": "March-May 2025",
+    "evidence_needed": [
+      "Oddity invoices",
+      "Project scope documents",
+      "Work orders"
+    ],
+    "initial_status": "Requires Evidence",
+    "keywords": [
+      "inflated charges",
+      "unauthorized work",
+      "unnecessary work",
+      "Oddity",
+      "invoice",
+      "fraud",
+      "billing"
+    ]
+  },
+  {
+    "id": "AP-004",
+    "title": "Oddity invoice costs significantly higher than past similar works",
+    "category": "Invoice Fraud, Pricing Irregularity",
+    "party": "Oddity",
+    "period": "March-May 2025",
+    "evidence_needed": [
+      "Oddity invoices (current)",
+      "Historical project contracts",
+      "Past cost schedules"
+    ],
+    "initial_status": "Requires Evidence",
+    "keywords": [
+      "higher cost",
+      "pricing",
+      "historical data",
+      "Oddity",
+      "invoice",
+      "comparison",
+      "rates"
+    ]
+  },
+  {
+    "id": "AP-005",
+    "title": "William Taylor approving Oddity invoices without proper checks",
+    "category": "Control Failure, Negligence",
+    "party": "William Taylor",
+    "period": "March-May 2025",
+    "evidence_needed": [
+      "Approved Oddity invoices",
+      "Internal invoice approval policies",
+      "William Taylor's approval records"
+    ],
+    "initial_status": "Requires Evidence",
+    "keywords": [
+      "William Taylor",
+      "invoice approval",
+      "control failure",
+      "oversight",
+      "negligence",
+      "Oddity",
+      "checks"
+    ]
+  },
+  {
+    "id": "AP-006",
+    "title": "Potential collusion and kickbacks between William Taylor and Oddity",
+    "category": "Conflict of Interest, Bribery, Fraud",
+    "party": "William Taylor, Oddity",
+    "period": "March-May 2025",
+    "evidence_needed": [
+      "William Taylor's financial records",
+      "Communication records (WT & Oddity)",
+      "Oddity's financial records"
+    ],
+    "initial_status": "Requires Evidence",
+    "keywords": [
+      "collusion",
+      "kickback",
+      "William Taylor",
+      "Oddity",
+      "bribery",
+      "conflict of interest",
+      "fraud"
+    ]
+  },
+  {
+    "id": "AP-007",
+    "title": "Manual increase of hours and/or engineer rates on Oddity invoices",
+    "category": "Invoice Fraud, Data Manipulation",
+    "party": "Oddity, William Taylor",
+    "period": "March-May 2025",
+    "evidence_needed": [
+      "Oddity invoices",
+      "Original timesheets",
+      "Contracted rates"
+    ],
+    "initial_status": "Requires Evidence",
+    "keywords": [
+      "manual change",
+      "hours",
+      "rates",
+      "engineer",
+      "invoice",
+      "timesheet",
+      "cost schedule",
+      "Oddity"
+    ]
+  },
+  {
+    "id": "AP-008",
+    "title": "Arithmetic error resulting in £7k overcharge on most recent Oddity invoice",
+    "category": "Invoice Fraud, Billing Error",
+    "party": "Oddity",
+    "period": "May 2025",
+    "evidence_needed": [
+      "Most recent Oddity invoice",
+      "Contracted rates",
+      "Calculation verification"
+    ],
+    "initial_status": "Requires Evidence",
+    "keywords": [
+      "arithmetic error",
+      "£7k",
+      "invoice",
+      "calculation",
+      "Oddity",
+      "overcharge",
+      "mistake"
+    ]
+  },
+  {
+    "id": "AP-009",
+    "title": "Potential inclusion of fictitious employees or materials on Oddity invoices",
+    "category": "Invoice Fraud, Fictitious Billing",
+    "party": "Oddity",
+    "period": "May 2025",
+    "evidence_needed": [
+      "Oddity invoices",
+      "Project material logs",
+      "Oddity employee lists"
+    ],
+    "initial_status": "Requires Evidence",
+    "keywords": [
+      "fictitious employees",
+      "fictitious materials",
+      "fabrication",
+      "invoice",
+      "Oddity",
+      "fraud",
+      "billing"
+    ]
+  },
+  {
+    "id": "AP-010",
+    "title": "Systemic control failures in invoice approval process",
+    "category": "Control Failure, Governance Issue",
+    "party": "Company (internal processes), Other Maintenance Managers",
+    "period": "Ongoing",
+    "evidence_needed": [
+      "Internal control policies",
+      "Invoice approval workflows",
+      "Audit reports"
+    ],
+    "initial_status": "Requires Evidence",
+    "keywords": [
+      "systemic issues",
+      "control failure",
+      "invoice approval",
+      "governance",
+      "process",
+      "checks",
+      "management"
+    ]
+  },
+  {
+    "id": "AP-011",
+    "title": "Deliberate discrepancies between May timesheets, cost schedule, and Oddity invoice",
+    "category": "Invoice Fraud, Data Manipulation",
+    "party": "Oddity, William Taylor",
+    "period": "May 2025",
+    "evidence_needed": [
+      "May Oddity invoice",
+      "May timesheets",
+      "May cost schedule"
+    ],
+    "initial_status": "Requires Evidence",
+    "keywords": [
+      "May",
+      "timesheet",
+      "cost schedule",
+      "invoice",
+      "discrepancy",
+      "deliberate changes",
+      "Oddity",
+      "William Taylor"
+    ]
+  }
+]

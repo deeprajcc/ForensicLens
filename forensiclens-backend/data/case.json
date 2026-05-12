@@ -1,0 +1,16 @@
+{
+  "case_id": "FI-2026-001",
+  "case_name": "Oddity Vendor Invoice Manipulation Allegation",
+  "client": "Demo Client",
+  "status": "Intake",
+  "risk_level": "Pending",
+  "investigator": "Ravi Chauhan",
+  "reviewer": "Review Pending",
+  "created_at": "2026-05-12T06:25:44.215726+00:00",
+  "jurisdiction": "United Kingdom / Demo",
+  "allegation_source": "Internal escalation / whistleblower interview",
+  "allegation_date": "09 June 2025",
+  "confidentiality_level": "Confidential",
+  "legal_privilege_flag": "To be assessed",
+  "scope_notes": "Preliminary review of alleged contractor invoice manipulation involving Oddity and internal approval controls."
+}

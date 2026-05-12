@@ -1,0 +1,58 @@
+From: William.Taylor@flangecorex.com
+To: Michael@Oddityhubx.com
+Sent: 04 July 2025, 12:05
+Subject: New Invoicing Process
+
+Hi Mike,
+
+We’ve made a few changes to how we process external invoices — starting this month, everything needs to be submitted via the new portal, with line item breakdowns and attached timesheets.
+
+I know we’ve done things more informally up to now, but our finance lead (Gemma) is cracking down and wants everything traceable.
+
+Let me know if you have any issues getting set up.
+
+Will
+
+From: Michael@Oddityhubx.com
+To: William.Taylor@flangecorex.com
+Sent: 04 July 2025, 12:27
+Subject: RE: New Invoicing Process
+
+Hi Will,
+
+Ah, the dreaded portal. I gave it a shot and it threw an error when I uploaded the timesheet. Something about “unsupported date format”?
+
+Also – I’ve always included the breakdowns inside the invoice PDF itself. Are we now duplicating that in the portal fields too? If so, I’ll need to update our internal process (and maybe my caffeine intake).
+
+Would appreciate a steer here.
+
+Cheers,
+Mike
+
+From: Lena.Simpson@Oddityhubx.com
+To: Michael@Oddityhubx.com
+CC: William.Taylor@flangecorex.com
+Sent: 04 July 2025, 13:04
+Subject: RE: New Invoicing Process
+
+Jumping in — we tested the portal in March and hit a similar error with dates. I had to switch the format to DD/MM/YYYY manually on each line, even though our system exports in ISO. Fun.
+
+Mike, if you want me to reformat before submission, just send me the source file. We’ll get faster with it — maybe.
+
+Will, do you know if the portal’s getting patched at any point soon? Or is this just our lives now?
+
+Lena
+
+From: William.Taylor@flangecorex.com
+To: Lena.Simpson@Oddityhubx.com; Michael@Oddityhubx.com
+Sent: 04 July 2025, 13:18
+Subject: RE: New Invoicing Process
+
+Haha, yes — it’s “portal v1” and very much still in beta. I’ve raised the format issue with Gemma, but she just smiled in that way that says “no.”
+
+Honestly, if you just get everything in by the 10th, we’ll make it work. Portal compliance is technically mandatory… but also, so is lunch.
+
+Appreciate you both.
+
+Will
+

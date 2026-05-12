@@ -1,0 +1,1711 @@
+{
+  "meta": {
+    "report_title": "Issue Matrix Export — FI-2026-001",
+    "template": "Issue Matrix Export",
+    "case_id": "FI-2026-001",
+    "case_name": "Oddity Vendor Invoice Manipulation Allegation",
+    "client": "Demo Client",
+    "investigator": "Ravi Chauhan",
+    "generated_at": "2026-05-12T06:45:48.135822+00:00",
+    "version": "v0.1 Draft",
+    "status": "Draft — Requires Investigator Review",
+    "controls_applied": {
+      "human_approved_only": true,
+      "include_unresolved": true,
+      "include_evidence_gaps": true,
+      "include_source_references": true,
+      "include_audit_trail": true
+    }
+  },
+  "sections": {
+    "1_executive_summary": "A preliminary assessment of the provided issue matrix indicates potential indicators of overcharging by the vendor Oddity, significant control failures in the invoice approval process, and suspicious behavior by William Taylor. Allegations include potential overcharges exceeding £100k, inflated billing, and William Taylor approving invoices without adequate checks. While direct evidence of fraud or collusion has not been identified, the reviewed information suggests an environment conducive to such issues. Further comprehensive investigation is required to substantiate these preliminary findings and gather direct evidence.",
+    "2_background": "This assessment was prepared by Ravi Chauhan in relation to Case FI-2026-001. The matter concerns Oddity Vendor Invoice Manipulation Allegation. Client: Demo Client. Jurisdiction: United Kingdom / Demo. Scope: Preliminary review of alleged contractor invoice manipulation involving Oddity and internal approval controls. Confidentiality: Confidential.",
+    "3_allegation_received": "An allegation was received on 09 June 2025 via Internal escalation / whistleblower interview. The primary allegations center on potential overcharging by the vendor Oddity for services rendered during March-May 2025, including claims of inflated hours, billing for unperformed or unauthorized work, and costs significantly higher than projected. A key focus is William Taylor's role in approving these invoices, with concerns raised about his verification processes, dismissive responses to accounting queries, and potential circumvention of standard controls.",
+    "4_scope_and_limitations": "This assessment is based on a review of the allegation document and the evidence corpus provided. It represents a preliminary, AI-assisted assessment only. It does not constitute a finding of fraud or misconduct. Significant evidence gaps remain, and further investigation is required before any conclusions can be drawn. All AI-generated outputs have been subject to investigator review.",
+    "5_allegation_points": [
+      {
+        "id": "AP-001",
+        "issue": "Overcharging by Oddity exceeding £100k",
+        "category": "Invoice Fraud",
+        "party": "Oddity",
+        "status": "Partially Supported",
+        "review_status": "Accepted",
+        "evidence_reviewed": [
+          "EV-071 — Sarah Miller, Accounting Manager, explicitly states a 'potential more than £100k overcharge over the last three months alone' (March-May 2025) and notes 'consistently high' hours on invoices approved by William Taylor that 'doesn't seem to match up with the actual progress.'",
+          "EV-064 — William Taylor instructs Oddity to send all further invoices directly to him first, stating 'safer that way,' before he sends them to the Accounts Manager, establishing a non-standard approval process.",
+          "EV-067 & EV-068 — Sarah Miller raises concerns about Oddity invoices having 'costs that seem higher than initially projected,' to which William Taylor responds dismissively, telling her to 'focus on your own responsibilities.'",
+          "EV-048 & EV-008 — Invoices from Oddity, specifically the April invoice, lacked itemized breakdowns, and the overall invoicing process was described as 'informal' prior to July 2025, making detailed verification challenging."
+        ]
+      },
+      {
+        "id": "AP-002",
+        "issue": "Billing for unperformed work by Isabelle Chen on Invoice 36583",
+        "category": "Invoice Fraud",
+        "party": "Oddity",
+        "status": "Partially Supported",
+        "review_status": "Edited and Approved",
+        "evidence_reviewed": [
+          "EV-071",
+          "EV-070",
+          "EV-068",
+          "EV-067",
+          "EV-064",
+          "EV-008"
+        ]
+      },
+      {
+        "id": "AP-005",
+        "issue": "William Taylor approving Oddity invoices without proper checks",
+        "category": "Control Failure, Negligence",
+        "party": "William Taylor",
+        "status": "Supported",
+        "review_status": "Final — Ready for Report",
+        "evidence_reviewed": [
+          "EV-071: Sarah Miller's email noting consistently high hours, discrepancies, and potential overcharges on invoices approved by William Taylor, and his dismissive response to her query.",
+          "EV-067: Sarah Miller's email directly asking William Taylor about his invoice verification checks and how he verifies hours/materials, indicating a perceived lack of transparency or rigor.",
+          "EV-008: William Taylor's statement that invoicing processes had been 'more informally up to now' prior to July 2025, implying a lack of formal checks during the allegation period.",
+          "EV-064: William Taylor's instruction to Oddity to send invoices directly to him first, stating it's 'safer that way', which could suggest an attempt to control the approval process.",
+          "EV-068: William Taylor's dismissive response to Sarah Miller's query about invoice checks, telling her to 'focus on your own responsibilities'."
+        ]
+      }
+    ],
+    "6_evidence_reviewed": {
+      "total_files": 142,
+      "high_relevance": 25,
+      "medium_relevance": 40,
+      "low_relevance": 77,
+      "summary": [
+        "EV-071: Sarah Miller email re: potential £100k overcharge, high hours",
+        "EV-064: William Taylor email re: Oddity invoices direct to him, 'safer'",
+        "EV-067: Sarah Miller email re: Oddity costs higher than projected",
+        "EV-068: William Taylor email re: dismissive response to Sarah Miller",
+        "EV-048: Oddity April invoice lacked itemized breakdowns",
+        "EV-008: William Taylor re: 'informal' invoicing process pre-July 2025",
+        "EV-070: William Taylor approval of May Oddity invoice"
+      ]
+    },
+    "7_evidence_assessment": [
+      {
+        "id": "AP-001",
+        "issue": "Overcharging by Oddity exceeding £100k",
+        "finding": "The allegation of potential overcharging exceeding £100k during March-May 2025 is raised by the Accounting Manager, Sarah Miller, who provides a specific estimate based on observed discrepancies. Her concerns are reinforced by William Taylor's instruction for invoices to be sent directly to him, his dismissive responses to queries, and the noted lack of detailed breakdowns in invoices during the period. These factors suggest an environment where such overcharging could occur and be difficult to detect. However, William Taylor maintains that the invoices are accurate and within expected ranges. Crucially, the provided evidence does not include the actual invoices, timesheets, or project documentation required for an independent verification of the alleged overcharge amount or the actual work performed. Therefore, while the allegation is strongly indicated by internal concerns and procedural irregularities, it cannot be fully confirmed or denied with the current information.",
+        "proposed_status": "Partially Supported",
+        "support": "EV-071 — Sarah Miller, Accounting Manager, explicitly states a 'potential more than £100k overcharge over the last three months alone' (March-May 2025) and notes 'consistently high' hours on invoices approved by William Taylor that 'doesn't seem to match up with the actual progress.', EV-064 — William Taylor instructs Oddity to send all further invoices directly to him first, stating 'safer that way,' before he sends them to the Accounts Manager, establishing a non-standard approval process., EV-067 & EV-068 — Sarah Miller raises concerns about Oddity invoices having 'costs that seem higher than initially projected,' to which William Taylor responds dismissively, telling her to 'focus on your own responsibilities.', EV-048 & EV-008 — Invoices from Oddity, specifically the April invoice, lacked itemized breakdowns, and the overall invoicing process was described as 'informal' prior to July 2025, making detailed verification challenging.",
+        "contradiction": "EV-068 — William Taylor states he approved the invoices based on his understanding of project requirements and progress, asserting that 'everything seems to be within the expected range' and that he is 'confident in my ability to oversee the budget and ensure we're getting value for money.'",
+        "gap": "Absence of actual Oddity invoices, timesheets, or detailed project progress reports for independent verification.; No independent assessment or audit confirming the alleged overcharge amount or the discrepancy between billed hours and actual work.; Lack of direct evidence from Oddity regarding the alleged overcharging or their intent."
+      },
+      {
+        "id": "AP-002",
+        "issue": "Billing for unperformed work by Isabelle Chen on Invoice 36583",
+        "finding": "The evidence strongly suggests a pattern of potential overbilling by Oddity, particularly for the May 2025 period, with the 'May invoice' being approved by William Taylor despite internal concerns. Sarah Miller's emails (EV-071, EV-067, EV-068) highli£254,310, aligning with the period. However, the evidence does not name 'Isabelle Chen' as the perpetrator nor does it explicitly identify 'Invoice 36583'. While the period aligns with the 'May invoice' mentioned, the specific invoice number and individual are not confirmed.",
+        "proposed_status": "Partially Supported",
+        "support": "EV-071, EV-070, EV-068, EV-067, EV-064, EV-008",
+        "contradiction": "None identified",
+        "gap": "No mention of 'Isabelle Chen' in the evidence.; No specific reference to 'Invoice 36583'.; Lack of direct proof that work was unperformed, only allegations of overbilling."
+      },
+      {
+        "id": "AP-005",
+        "issue": "William Taylor approving Oddity invoices without proper checks",
+        "finding": "The allegation that William Taylor approved Oddity invoices without proper checks is strongly supported by the available evidence. William is confirmed to have approved invoices during the period (EV-064, EV-070, EV-068). Sarah Miller, the Accounting Manager, identified consistent overbilling and significant discrepancies in these invoices (EV-071) and directly questioned William's verification process (EV-067). William responded dismissively to her concerns (EV-068). Crucially, William himself later stated that invoicing processes had been 'more informally up to now' (EV-008), indicating a lack of formal, traceable checks during the period in question. His instruction to Oddity to send invoices directly to him first (EV-064) further suggests a desire to control the approval flow. While William claimed to have performed checks based on his understanding (EV-068), this is undermined by the observed discrepancies and the acknowledged informality of the prior process.",
+        "proposed_status": "Supported",
+        "support": "EV-071: Sarah Miller's email noting consistently high hours, discrepancies, and potential overcharges on invoices approved by William Taylor, and his dismissive response to her query., EV-067: Sarah Miller's email directly asking William Taylor about his invoice verification checks and how he verifies hours/materials, indicating a perceived lack of transparency or rigor., EV-008: William Taylor's statement that invoicing processes had been 'more informally up to now' prior to July 2025, implying a lack of formal checks during the allegation period., EV-064: William Taylor's instruction to Oddity to send invoices directly to him first, stating it's 'safer that way', which could suggest an attempt to control the approval process., EV-068: William Taylor's dismissive response to Sarah Miller's query about invoice checks, telling her to 'focus on your own responsibilities'.",
+        "contradiction": "EV-068: William Taylor's assertion that he approved invoices 'based on my understanding of the project's requirements and progress' and is 'confident in my ability to oversee the budget'.",
+        "gap": "No direct documentation detailing William Taylor's specific invoice verification steps.; The spreadsheet detailing discrepancies mentioned by Sarah Miller is not provided.; No independent audit or project progress reports to verify Sarah's claims of overbilling."
+      }
+    ],
+    "8_preliminary_observations": [
+      {
+        "allegation_point": "AP-001",
+        "finding": "Preliminary assessment indicates potential indicators of overcharging by Oddity, as alleged by the Accounting Manager, with an estimated overcharge exceeding £100k during March-May 2025. This is supported by observed consistently high hours and a non-standard invoice approval process involving William Taylor. Direct evidence of the actual overcharge amount is not yet identified.",
+        "status": "Partially Supported"
+      },
+      {
+        "allegation_point": "AP-002",
+        "finding": "Preliminary assessment suggests potential indicators of overbilling by Oddity for the May 2025 period, with the 'May invoice' approved by William Taylor despite internal concerns. However, direct evidence reviewed to date does not identify 'Isabelle Chen' or 'Invoice 36583' specifically, nor does it directly prove work was unperformed.",
+        "status": "Partially Supported"
+      },
+      {
+        "allegation_point": "AP-003",
+        "finding": "Preliminary assessment identifies potential indicators of inflated charges and billing for unauthorized/unnecessary work by Oddity during March-May 2025, as alleged by the Accounting Manager. This is supported by concerns regarding consistently high hours and an acknowledged 'informal' invoicing process. Direct evidence of specific unauthorized work or inflated charges is not yet identified.",
+        "status": "Partially Supported"
+      },
+      {
+        "allegation_point": "AP-004",
+        "finding": "Preliminary assessment indicates potential indicators that Oddity invoice costs during March-May 2025 may be higher than projected or past similar works, based on concerns raised by the Accounting Manager. However, direct comparative data or detailed project budgets have not been identified to confirm this.",
+        "status": "Partially Supported"
+      },
+      {
+        "allegation_point": "AP-005",
+        "finding": "Preliminary assessment indicates strong indicators that William Taylor approved Oddity invoices during March-May 2025 without sufficient formal checks. This is supported by internal concerns regarding discrepancies, his dismissive responses to queries, and his acknowledgment of an 'informal' invoicing process during the period.",
+        "status": "Supported"
+      },
+      {
+        "allegation_point": "AP-006",
+        "finding": "Preliminary assessment identifies potential indicators of suspicious behavior by William Taylor, including controlling the Oddity invoice approval process and dismissive responses to concerns, which are consistent with an environment where collusion could occur. However, direct evidence of collusion or kickbacks has not been identified.",
+        "status": "Partially Supported"
+      },
+      {
+        "allegation_point": "AP-007",
+        "finding": "Preliminary assessment indicates potential indicators of inflated hours or rates on Oddity invoices during March-May 2025, as alleged by the Accounting Manager. William Taylor's control over the invoice flow and acknowledged 'informal' process could facilitate such actions. Direct evidence of specific manual increases has not been identified.",
+        "status": "Partially Supported"
+      },
+      {
+        "allegation_point": "AP-008",
+        "finding": "Preliminary assessment indicates that the allegation of a specific £7k arithmetic error on the May 2025 Oddity invoice is not supported by the evidence reviewed to date. The evidence suggests a larger potential overvaluation on the May invoice, but not a specific £7k arithmetic error.",
+        "status": "Contradicted"
+      },
+      {
+        "allegation_point": "AP-009",
+        "finding": "Preliminary assessment identifies potential indicators of inflated billing related to hours and materials on Oddity invoices, as alleged by the Accounting Manager. However, direct evidence of specific fictitious employees or materials being included has not been identified.",
+        "status": "Partially Supported"
+      },
+      {
+        "allegation_point": "AP-010",
+        "finding": "Preliminary assessment indicates strong indicators of systemic control failures in the invoice approval process, particularly concerning Oddity invoices. This is supported by William Taylor's actions to control invoice flow, his defensive responses to scrutiny, and his acknowledgment of a previously 'informal' process lacking traceability.",
+        "status": "Supported"
+      },
+      {
+        "allegation_point": "AP-011",
+        "finding": "Preliminary assessment identifies potential indicators of deliberate discrepancies between billed hours and project progress for the May 2025 Oddity invoice, with the Accounting Manager noting a significant overvaluation. William Taylor's control over the invoice process and defensive behavior are consistent with this. Direct evidence of actual timesheets, cost schedules, or detailed project progress reports is not yet identified.",
+        "status": "Partially Supported"
+      }
+    ],
+    "9_unresolved_matters": [],
+    "10_recommended_next_steps": [
+      "Obtain all Oddity invoices, timesheets.",
+      "Review project contracts and budgets.",
+      "Conduct independent project progress review.",
+      "Interview William Taylor and Sarah Miller.",
+      "Examine invoice approval policies/procedures.",
+      "Investigate William Taylor's financial ties.",
+      "Analyze historical vendor billing data."
+    ]
+  },
+  "appendices": {
+    "A_evidence_register": [
+      {
+        "evidence_id": "EV-001",
+        "file_name": "chain1.txt",
+        "evidence_type": "Chain Email",
+        "relevance": "Medium",
+        "linked_aps": [],
+        "status": "Needs Review"
+      },
+      {
+        "evidence_id": "EV-002",
+        "file_name": "chain2.txt",
+        "evidence_type": "Chain Email",
+        "relevance": "Medium",
+        "linked_aps": [],
+        "status": "Needs Review"
+      },
+      {
+        "evidence_id": "EV-003",
+        "file_name": "chain3.txt",
+        "evidence_type": "Chain Email",
+        "relevance": "Medium",
+        "linked_aps": [
+          "AP-002",
+          "AP-011"
+        ],
+        "status": "Needs Review"
+      },
+      {
+        "evidence_id": "EV-004",
+        "file_name": "chain4.txt",
+        "evidence_type": "Chain Email",
+        "relevance": "Medium",
+        "linked_aps": [
+          "AP-002",
+          "AP-004",
+          "AP-011"
+        ],
+        "status": "Needs Review"
+      },
+      {
+        "evidence_id": "EV-005",
+        "file_name": "chain5.txt",
+        "evidence_type": "Chain Email",
+        "relevance": "Medium",
+        "linked_aps": [
+          "AP-002",
+          "AP-011"
+        ],
+        "status": "Needs Review"
+      },
+      {
+        "evidence_id": "EV-006",
+        "file_name": "chain6.txt",
+        "evidence_type": "Chain Email",
+        "relevance": "Medium",
+        "linked_aps": [],
+        "status": "Needs Review"
+      },
+      {
+        "evidence_id": "EV-007",
+        "file_name": "chain7.txt",
+        "evidence_type": "Chain Email",
+        "relevance": "High",
+        "linked_aps": [
+          "AP-002",
+          "AP-007",
+          "AP-011"
+        ],
+        "status": "Needs Review"
+      },
+      {
+        "evidence_id": "EV-008",
+        "file_name": "chain8.txt",
+        "evidence_type": "Chain Email",
+        "relevance": "High",
+        "linked_aps": [
+          "AP-001",
+          "AP-002",
+          "AP-003",
+          "AP-004",
+          "AP-007",
+          "AP-008",
+          "AP-009",
+          "AP-011"
+        ],
+        "status": "Needs Review"
+      },
+      {
+        "evidence_id": "EV-009",
+        "file_name": "email1.txt",
+        "evidence_type": "Email",
+        "relevance": "Medium",
+        "linked_aps": [],
+        "status": "Needs Review"
+      },
+      {
+        "evidence_id": "EV-010",
+        "file_name": "email10.txt",
+        "evidence_type": "Email",
+        "relevance": "Medium",
+        "linked_aps": [
+          "AP-002",
+          "AP-011"
+        ],
+        "status": "Needs Review"
+      },
+      {
+        "evidence_id": "EV-011",
+        "file_name": "email11.txt",
+        "evidence_type": "Email",
+        "relevance": "Low",
+        "linked_aps": [],
+        "status": "Needs Review"
+      },
+      {
+        "evidence_id": "EV-012",
+        "file_name": "email12.txt",
+        "evidence_type": "Email",
+        "relevance": "Medium",
+        "linked_aps": [
+          "AP-002",
+          "AP-011"
+        ],
+        "status": "Needs Review"
+      },
+      {
+        "evidence_id": "EV-013",
+        "file_name": "email13.txt",
+        "evidence_type": "Email",
+        "relevance": "Medium",
+        "linked_aps": [
+          "AP-002",
+          "AP-011"
+        ],
+        "status": "Needs Review"
+      },
+      {
+        "evidence_id": "EV-014",
+        "file_name": "email14.txt",
+        "evidence_type": "Email",
+        "relevance": "Medium",
+        "linked_aps": [
+          "AP-002",
+          "AP-011"
+        ],
+        "status": "Needs Review"
+      },
+      {
+        "evidence_id": "EV-015",
+        "file_name": "email15.txt",
+        "evidence_type": "Email",
+        "relevance": "Low",
+        "linked_aps": [],
+        "status": "Needs Review"
+      },
+      {
+        "evidence_id": "EV-016",
+        "file_name": "email16.txt",
+        "evidence_type": "Email",
+        "relevance": "Low",
+        "linked_aps": [],
+        "status": "Needs Review"
+      },
+      {
+        "evidence_id": "EV-017",
+        "file_name": "email17.txt",
+        "evidence_type": "Email",
+        "relevance": "Medium",
+        "linked_aps": [
+          "AP-002",
+          "AP-011"
+        ],
+        "status": "Needs Review"
+      },
+      {
+        "evidence_id": "EV-018",
+        "file_name": "email18.txt",
+        "evidence_type": "Email",
+        "relevance": "Medium",
+        "linked_aps": [],
+        "status": "Needs Review"
+      },
+      {
+        "evidence_id": "EV-019",
+        "file_name": "email19.txt",
+        "evidence_type": "Email",
+        "relevance": "Medium",
+        "linked_aps": [],
+        "status": "Needs Review"
+      },
+      {
+        "evidence_id": "EV-020",
+        "file_name": "email2.txt",
+        "evidence_type": "Email",
+        "relevance": "Medium",
+        "linked_aps": [],
+        "status": "Needs Review"
+      },
+      {
+        "evidence_id": "EV-021",
+        "file_name": "email20.txt",
+        "evidence_type": "Email",
+        "relevance": "Medium",
+        "linked_aps": [],
+        "status": "Needs Review"
+      },
+      {
+        "evidence_id": "EV-022",
+        "file_name": "email21.txt",
+        "evidence_type": "Email",
+        "relevance": "Medium",
+        "linked_aps": [],
+        "status": "Needs Review"
+      },
+      {
+        "evidence_id": "EV-023",
+        "file_name": "email22.txt",
+        "evidence_type": "Email",
+        "relevance": "Medium",
+        "linked_aps": [
+          "AP-002",
+          "AP-011"
+        ],
+        "status": "Needs Review"
+      },
+      {
+        "evidence_id": "EV-024",
+        "file_name": "email23.txt",
+        "evidence_type": "Email",
+        "relevance": "Medium",
+        "linked_aps": [
+          "AP-002",
+          "AP-011"
+        ],
+        "status": "Needs Review"
+      },
+      {
+        "evidence_id": "EV-025",
+        "file_name": "email24.txt",
+        "evidence_type": "Email",
+        "relevance": "Medium",
+        "linked_aps": [],
+        "status": "Needs Review"
+      },
+      {
+        "evidence_id": "EV-026",
+        "file_name": "email25.txt",
+        "evidence_type": "Email",
+        "relevance": "Medium",
+        "linked_aps": [
+          "AP-002",
+          "AP-011"
+        ],
+        "status": "Needs Review"
+      },
+      {
+        "evidence_id": "EV-027",
+        "file_name": "email26.txt",
+        "evidence_type": "Email",
+        "relevance": "High",
+        "linked_aps": [
+          "AP-002",
+          "AP-011"
+        ],
+        "status": "Needs Review"
+      },
+      {
+        "evidence_id": "EV-028",
+        "file_name": "email27.txt",
+        "evidence_type": "Email",
+        "relevance": "High",
+        "linked_aps": [
+          "AP-002",
+          "AP-011"
+        ],
+        "status": "Needs Review"
+      },
+      {
+        "evidence_id": "EV-029",
+        "file_name": "email28.txt",
+        "evidence_type": "Email",
+        "relevance": "High",
+        "linked_aps": [
+          "AP-002",
+          "AP-011"
+        ],
+        "status": "Needs Review"
+      },
+      {
+        "evidence_id": "EV-030",
+        "file_name": "email29.txt",
+        "evidence_type": "Email",
+        "relevance": "Medium",
+        "linked_aps": [],
+        "status": "Needs Review"
+      },
+      {
+        "evidence_id": "EV-031",
+        "file_name": "email3.txt",
+        "evidence_type": "Email",
+        "relevance": "Medium",
+        "linked_aps": [
+          "AP-004"
+        ],
+        "status": "Needs Review"
+      },
+      {
+        "evidence_id": "EV-032",
+        "file_name": "email30.txt",
+        "evidence_type": "Email",
+        "relevance": "Medium",
+        "linked_aps": [
+          "AP-002",
+          "AP-011"
+        ],
+        "status": "Needs Review"
+      },
+      {
+        "evidence_id": "EV-033",
+        "file_name": "email31.txt",
+        "evidence_type": "Email",
+        "relevance": "Medium",
+        "linked_aps": [
+          "AP-002",
+          "AP-011"
+        ],
+        "status": "Needs Review"
+      },
+      {
+        "evidence_id": "EV-034",
+        "file_name": "email32.txt",
+        "evidence_type": "Email",
+        "relevance": "Medium",
+        "linked_aps": [],
+        "status": "Needs Review"
+      },
+      {
+        "evidence_id": "EV-035",
+        "file_name": "email33.txt",
+        "evidence_type": "Email",
+        "relevance": "Medium",
+        "linked_aps": [
+          "AP-002",
+          "AP-011"
+        ],
+        "status": "Needs Review"
+      },
+      {
+        "evidence_id": "EV-036",
+        "file_name": "email34.txt",
+        "evidence_type": "Email",
+        "relevance": "Medium",
+        "linked_aps": [],
+        "status": "Needs Review"
+      },
+      {
+        "evidence_id": "EV-037",
+        "file_name": "email35.txt",
+        "evidence_type": "Email",
+        "relevance": "Low",
+        "linked_aps": [],
+        "status": "Needs Review"
+      },
+      {
+        "evidence_id": "EV-038",
+        "file_name": "email36.txt",
+        "evidence_type": "Email",
+        "relevance": "Medium",
+        "linked_aps": [],
+        "status": "Needs Review"
+      },
+      {
+        "evidence_id": "EV-039",
+        "file_name": "email37.txt",
+        "evidence_type": "Email",
+        "relevance": "Low",
+        "linked_aps": [],
+        "status": "Needs Review"
+      },
+      {
+        "evidence_id": "EV-040",
+        "file_name": "email38.txt",
+        "evidence_type": "Email",
+        "relevance": "Low",
+        "linked_aps": [],
+        "status": "Needs Review"
+      },
+      {
+        "evidence_id": "EV-041",
+        "file_name": "email39.txt",
+        "evidence_type": "Email",
+        "relevance": "Medium",
+        "linked_aps": [],
+        "status": "Needs Review"
+      },
+      {
+        "evidence_id": "EV-042",
+        "file_name": "email4.txt",
+        "evidence_type": "Email",
+        "relevance": "High",
+        "linked_aps": [
+          "AP-001",
+          "AP-003",
+          "AP-004",
+          "AP-007",
+          "AP-008",
+          "AP-009",
+          "AP-011"
+        ],
+        "status": "Needs Review"
+      },
+      {
+        "evidence_id": "EV-043",
+        "file_name": "email40.txt",
+        "evidence_type": "Email",
+        "relevance": "Medium",
+        "linked_aps": [
+          "AP-007"
+        ],
+        "status": "Needs Review"
+      },
+      {
+        "evidence_id": "EV-044",
+        "file_name": "email41.txt",
+        "evidence_type": "Email",
+        "relevance": "High",
+        "linked_aps": [
+          "AP-001",
+          "AP-003",
+          "AP-004",
+          "AP-007",
+          "AP-008",
+          "AP-009",
+          "AP-011"
+        ],
+        "status": "Needs Review"
+      },
+      {
+        "evidence_id": "EV-045",
+        "file_name": "email42.txt",
+        "evidence_type": "Email",
+        "relevance": "High",
+        "linked_aps": [
+          "AP-001",
+          "AP-003",
+          "AP-004",
+          "AP-007",
+          "AP-008",
+          "AP-009",
+          "AP-011"
+        ],
+        "status": "Needs Review"
+      },
+      {
+        "evidence_id": "EV-046",
+        "file_name": "email43.txt",
+        "evidence_type": "Email",
+        "relevance": "Medium",
+        "linked_aps": [
+          "AP-002",
+          "AP-007",
+          "AP-011"
+        ],
+        "status": "Needs Review"
+      },
+      {
+        "evidence_id": "EV-047",
+        "file_name": "email44.txt",
+        "evidence_type": "Email",
+        "relevance": "Medium",
+        "linked_aps": [],
+        "status": "Needs Review"
+      },
+      {
+        "evidence_id": "EV-048",
+        "file_name": "email45.txt",
+        "evidence_type": "Email",
+        "relevance": "High",
+        "linked_aps": [
+          "AP-001",
+          "AP-003",
+          "AP-004",
+          "AP-007",
+          "AP-008",
+          "AP-009",
+          "AP-011"
+        ],
+        "status": "Needs Review"
+      },
+      {
+        "evidence_id": "EV-049",
+        "file_name": "email46.txt",
+        "evidence_type": "Email",
+        "relevance": "High",
+        "linked_aps": [
+          "AP-001",
+          "AP-003",
+          "AP-004",
+          "AP-007",
+          "AP-008",
+          "AP-009",
+          "AP-011"
+        ],
+        "status": "Needs Review"
+      },
+      {
+        "evidence_id": "EV-050",
+        "file_name": "email47.txt",
+        "evidence_type": "Email",
+        "relevance": "High",
+        "linked_aps": [
+          "AP-001",
+          "AP-003",
+          "AP-004",
+          "AP-007",
+          "AP-008",
+          "AP-009",
+          "AP-011"
+        ],
+        "status": "Needs Review"
+      },
+      {
+        "evidence_id": "EV-051",
+        "file_name": "email48.txt",
+        "evidence_type": "Email",
+        "relevance": "High",
+        "linked_aps": [
+          "AP-001",
+          "AP-003",
+          "AP-004",
+          "AP-007",
+          "AP-008",
+          "AP-009",
+          "AP-011"
+        ],
+        "status": "Needs Review"
+      },
+      {
+        "evidence_id": "EV-052",
+        "file_name": "email49.txt",
+        "evidence_type": "Email",
+        "relevance": "High",
+        "linked_aps": [
+          "AP-001",
+          "AP-003",
+          "AP-004",
+          "AP-007",
+          "AP-008",
+          "AP-009",
+          "AP-011"
+        ],
+        "status": "Needs Review"
+      },
+      {
+        "evidence_id": "EV-053",
+        "file_name": "email5.txt",
+        "evidence_type": "Email",
+        "relevance": "High",
+        "linked_aps": [
+          "AP-001",
+          "AP-002",
+          "AP-003",
+          "AP-004",
+          "AP-007",
+          "AP-008",
+          "AP-009",
+          "AP-011"
+        ],
+        "status": "Needs Review"
+      },
+      {
+        "evidence_id": "EV-054",
+        "file_name": "email50.txt",
+        "evidence_type": "Email",
+        "relevance": "High",
+        "linked_aps": [
+          "AP-001",
+          "AP-003",
+          "AP-004",
+          "AP-007",
+          "AP-008",
+          "AP-009",
+          "AP-011"
+        ],
+        "status": "Needs Review"
+      },
+      {
+        "evidence_id": "EV-055",
+        "file_name": "email6.txt",
+        "evidence_type": "Email",
+        "relevance": "Medium",
+        "linked_aps": [
+          "AP-002",
+          "AP-007",
+          "AP-011"
+        ],
+        "status": "Needs Review"
+      },
+      {
+        "evidence_id": "EV-056",
+        "file_name": "email7.txt",
+        "evidence_type": "Email",
+        "relevance": "Medium",
+        "linked_aps": [],
+        "status": "Needs Review"
+      },
+      {
+        "evidence_id": "EV-057",
+        "file_name": "email8.txt",
+        "evidence_type": "Email",
+        "relevance": "Medium",
+        "linked_aps": [],
+        "status": "Needs Review"
+      },
+      {
+        "evidence_id": "EV-058",
+        "file_name": "email9.txt",
+        "evidence_type": "Email",
+        "relevance": "Medium",
+        "linked_aps": [],
+        "status": "Needs Review"
+      },
+      {
+        "evidence_id": "EV-059",
+        "file_name": "Example_Email_1a.txt",
+        "evidence_type": "Email",
+        "relevance": "Medium",
+        "linked_aps": [],
+        "status": "Needs Review"
+      },
+      {
+        "evidence_id": "EV-060",
+        "file_name": "Example_Email_1b.txt",
+        "evidence_type": "Email",
+        "relevance": "Medium",
+        "linked_aps": [],
+        "status": "Needs Review"
+      },
+      {
+        "evidence_id": "EV-061",
+        "file_name": "Example_Email_2a.txt",
+        "evidence_type": "Email",
+        "relevance": "Medium",
+        "linked_aps": [
+          "AP-004"
+        ],
+        "status": "Needs Review"
+      },
+      {
+        "evidence_id": "EV-062",
+        "file_name": "Example_Email_2b.txt",
+        "evidence_type": "Email",
+        "relevance": "High",
+        "linked_aps": [
+          "AP-001",
+          "AP-003",
+          "AP-004",
+          "AP-007",
+          "AP-008",
+          "AP-009",
+          "AP-011"
+        ],
+        "status": "Needs Review"
+      },
+      {
+        "evidence_id": "EV-063",
+        "file_name": "Example_Email_3a.txt",
+        "evidence_type": "Email",
+        "relevance": "High",
+        "linked_aps": [
+          "AP-001",
+          "AP-003",
+          "AP-004",
+          "AP-007",
+          "AP-008",
+          "AP-009",
+          "AP-011"
+        ],
+        "status": "Needs Review"
+      },
+      {
+        "evidence_id": "EV-064",
+        "file_name": "Example_Email_3b.txt",
+        "evidence_type": "Email",
+        "relevance": "High",
+        "linked_aps": [
+          "AP-001",
+          "AP-003",
+          "AP-004",
+          "AP-007",
+          "AP-008",
+          "AP-009",
+          "AP-011"
+        ],
+        "status": "Needs Review"
+      },
+      {
+        "evidence_id": "EV-065",
+        "file_name": "Example_Email_4a.txt",
+        "evidence_type": "Email",
+        "relevance": "High",
+        "linked_aps": [
+          "AP-001",
+          "AP-002",
+          "AP-003",
+          "AP-004",
+          "AP-007",
+          "AP-008",
+          "AP-009",
+          "AP-011"
+        ],
+        "status": "Needs Review"
+      },
+      {
+        "evidence_id": "EV-066",
+        "file_name": "Example_Email_4b.txt",
+        "evidence_type": "Email",
+        "relevance": "High",
+        "linked_aps": [
+          "AP-001",
+          "AP-002",
+          "AP-003",
+          "AP-004",
+          "AP-007",
+          "AP-008",
+          "AP-009",
+          "AP-011"
+        ],
+        "status": "Needs Review"
+      },
+      {
+        "evidence_id": "EV-067",
+        "file_name": "Example_Email_5a.txt",
+        "evidence_type": "Email",
+        "relevance": "High",
+        "linked_aps": [
+          "AP-001",
+          "AP-002",
+          "AP-003",
+          "AP-004",
+          "AP-005",
+          "AP-007",
+          "AP-008",
+          "AP-009",
+          "AP-011"
+        ],
+        "status": "Needs Review"
+      },
+      {
+        "evidence_id": "EV-068",
+        "file_name": "Example_Email_5b.txt",
+        "evidence_type": "Email",
+        "relevance": "High",
+        "linked_aps": [
+          "AP-001",
+          "AP-002",
+          "AP-003",
+          "AP-004",
+          "AP-005",
+          "AP-007",
+          "AP-008",
+          "AP-009",
+          "AP-011"
+        ],
+        "status": "Needs Review"
+      },
+      {
+        "evidence_id": "EV-069",
+        "file_name": "Example_Email_6a.txt",
+        "evidence_type": "Email",
+        "relevance": "High",
+        "linked_aps": [
+          "AP-001",
+          "AP-002",
+          "AP-003",
+          "AP-004",
+          "AP-007",
+          "AP-008",
+          "AP-009",
+          "AP-011"
+        ],
+        "status": "Needs Review"
+      },
+      {
+        "evidence_id": "EV-070",
+        "file_name": "Example_Email_6b.txt",
+        "evidence_type": "Email",
+        "relevance": "High",
+        "linked_aps": [
+          "AP-001",
+          "AP-002",
+          "AP-003",
+          "AP-004",
+          "AP-007",
+          "AP-008",
+          "AP-009",
+          "AP-011"
+        ],
+        "status": "Needs Review"
+      },
+      {
+        "evidence_id": "EV-071",
+        "file_name": "Example_Email_7.txt",
+        "evidence_type": "Email",
+        "relevance": "High",
+        "linked_aps": [
+          "AP-001",
+          "AP-002",
+          "AP-003",
+          "AP-004",
+          "AP-005",
+          "AP-006",
+          "AP-007",
+          "AP-008",
+          "AP-009",
+          "AP-011"
+        ],
+        "status": "Needs Review"
+      },
+      {
+        "evidence_id": "EV-072",
+        "file_name": "._chain1.txt",
+        "evidence_type": "Chain Email",
+        "relevance": "Low",
+        "linked_aps": [],
+        "status": "Needs Review"
+      },
+      {
+        "evidence_id": "EV-073",
+        "file_name": "._chain2.txt",
+        "evidence_type": "Chain Email",
+        "relevance": "Low",
+        "linked_aps": [],
+        "status": "Needs Review"
+      },
+      {
+        "evidence_id": "EV-074",
+        "file_name": "._chain3.txt",
+        "evidence_type": "Chain Email",
+        "relevance": "Low",
+        "linked_aps": [],
+        "status": "Needs Review"
+      },
+      {
+        "evidence_id": "EV-075",
+        "file_name": "._chain4.txt",
+        "evidence_type": "Chain Email",
+        "relevance": "Low",
+        "linked_aps": [],
+        "status": "Needs Review"
+      },
+      {
+        "evidence_id": "EV-076",
+        "file_name": "._chain5.txt",
+        "evidence_type": "Chain Email",
+        "relevance": "Low",
+        "linked_aps": [],
+        "status": "Needs Review"
+      },
+      {
+        "evidence_id": "EV-077",
+        "file_name": "._chain6.txt",
+        "evidence_type": "Chain Email",
+        "relevance": "Low",
+        "linked_aps": [],
+        "status": "Needs Review"
+      },
+      {
+        "evidence_id": "EV-078",
+        "file_name": "._chain7.txt",
+        "evidence_type": "Chain Email",
+        "relevance": "Low",
+        "linked_aps": [],
+        "status": "Needs Review"
+      },
+      {
+        "evidence_id": "EV-079",
+        "file_name": "._chain8.txt",
+        "evidence_type": "Chain Email",
+        "relevance": "Low",
+        "linked_aps": [],
+        "status": "Needs Review"
+      },
+      {
+        "evidence_id": "EV-080",
+        "file_name": "._email1.txt",
+        "evidence_type": "Email",
+        "relevance": "Low",
+        "linked_aps": [],
+        "status": "Needs Review"
+      },
+      {
+        "evidence_id": "EV-081",
+        "file_name": "._email10.txt",
+        "evidence_type": "Email",
+        "relevance": "Low",
+        "linked_aps": [],
+        "status": "Needs Review"
+      },
+      {
+        "evidence_id": "EV-082",
+        "file_name": "._email11.txt",
+        "evidence_type": "Email",
+        "relevance": "Low",
+        "linked_aps": [],
+        "status": "Needs Review"
+      },
+      {
+        "evidence_id": "EV-083",
+        "file_name": "._email12.txt",
+        "evidence_type": "Email",
+        "relevance": "Low",
+        "linked_aps": [],
+        "status": "Needs Review"
+      },
+      {
+        "evidence_id": "EV-084",
+        "file_name": "._email13.txt",
+        "evidence_type": "Email",
+        "relevance": "Low",
+        "linked_aps": [],
+        "status": "Needs Review"
+      },
+      {
+        "evidence_id": "EV-085",
+        "file_name": "._email14.txt",
+        "evidence_type": "Email",
+        "relevance": "Low",
+        "linked_aps": [],
+        "status": "Needs Review"
+      },
+      {
+        "evidence_id": "EV-086",
+        "file_name": "._email15.txt",
+        "evidence_type": "Email",
+        "relevance": "Low",
+        "linked_aps": [],
+        "status": "Needs Review"
+      },
+      {
+        "evidence_id": "EV-087",
+        "file_name": "._email16.txt",
+        "evidence_type": "Email",
+        "relevance": "Low",
+        "linked_aps": [],
+        "status": "Needs Review"
+      },
+      {
+        "evidence_id": "EV-088",
+        "file_name": "._email17.txt",
+        "evidence_type": "Email",
+        "relevance": "Low",
+        "linked_aps": [],
+        "status": "Needs Review"
+      },
+      {
+        "evidence_id": "EV-089",
+        "file_name": "._email18.txt",
+        "evidence_type": "Email",
+        "relevance": "Low",
+        "linked_aps": [],
+        "status": "Needs Review"
+      },
+      {
+        "evidence_id": "EV-090",
+        "file_name": "._email19.txt",
+        "evidence_type": "Email",
+        "relevance": "Low",
+        "linked_aps": [],
+        "status": "Needs Review"
+      },
+      {
+        "evidence_id": "EV-091",
+        "file_name": "._email2.txt",
+        "evidence_type": "Email",
+        "relevance": "Low",
+        "linked_aps": [],
+        "status": "Needs Review"
+      },
+      {
+        "evidence_id": "EV-092",
+        "file_name": "._email20.txt",
+        "evidence_type": "Email",
+        "relevance": "Low",
+        "linked_aps": [],
+        "status": "Needs Review"
+      },
+      {
+        "evidence_id": "EV-093",
+        "file_name": "._email21.txt",
+        "evidence_type": "Email",
+        "relevance": "Low",
+        "linked_aps": [],
+        "status": "Needs Review"
+      },
+      {
+        "evidence_id": "EV-094",
+        "file_name": "._email22.txt",
+        "evidence_type": "Email",
+        "relevance": "Low",
+        "linked_aps": [],
+        "status": "Needs Review"
+      },
+      {
+        "evidence_id": "EV-095",
+        "file_name": "._email23.txt",
+        "evidence_type": "Email",
+        "relevance": "Low",
+        "linked_aps": [],
+        "status": "Needs Review"
+      },
+      {
+        "evidence_id": "EV-096",
+        "file_name": "._email24.txt",
+        "evidence_type": "Email",
+        "relevance": "Low",
+        "linked_aps": [],
+        "status": "Needs Review"
+      },
+      {
+        "evidence_id": "EV-097",
+        "file_name": "._email25.txt",
+        "evidence_type": "Email",
+        "relevance": "Low",
+        "linked_aps": [],
+        "status": "Needs Review"
+      },
+      {
+        "evidence_id": "EV-098",
+        "file_name": "._email26.txt",
+        "evidence_type": "Email",
+        "relevance": "Low",
+        "linked_aps": [],
+        "status": "Needs Review"
+      },
+      {
+        "evidence_id": "EV-099",
+        "file_name": "._email27.txt",
+        "evidence_type": "Email",
+        "relevance": "Low",
+        "linked_aps": [],
+        "status": "Needs Review"
+      },
+      {
+        "evidence_id": "EV-100",
+        "file_name": "._email28.txt",
+        "evidence_type": "Email",
+        "relevance": "Low",
+        "linked_aps": [],
+        "status": "Needs Review"
+      },
+      {
+        "evidence_id": "EV-101",
+        "file_name": "._email29.txt",
+        "evidence_type": "Email",
+        "relevance": "Low",
+        "linked_aps": [],
+        "status": "Needs Review"
+      },
+      {
+        "evidence_id": "EV-102",
+        "file_name": "._email3.txt",
+        "evidence_type": "Email",
+        "relevance": "Low",
+        "linked_aps": [],
+        "status": "Needs Review"
+      },
+      {
+        "evidence_id": "EV-103",
+        "file_name": "._email30.txt",
+        "evidence_type": "Email",
+        "relevance": "Low",
+        "linked_aps": [],
+        "status": "Needs Review"
+      },
+      {
+        "evidence_id": "EV-104",
+        "file_name": "._email31.txt",
+        "evidence_type": "Email",
+        "relevance": "Low",
+        "linked_aps": [],
+        "status": "Needs Review"
+      },
+      {
+        "evidence_id": "EV-105",
+        "file_name": "._email32.txt",
+        "evidence_type": "Email",
+        "relevance": "Low",
+        "linked_aps": [],
+        "status": "Needs Review"
+      },
+      {
+        "evidence_id": "EV-106",
+        "file_name": "._email33.txt",
+        "evidence_type": "Email",
+        "relevance": "Low",
+        "linked_aps": [],
+        "status": "Needs Review"
+      },
+      {
+        "evidence_id": "EV-107",
+        "file_name": "._email34.txt",
+        "evidence_type": "Email",
+        "relevance": "Low",
+        "linked_aps": [],
+        "status": "Needs Review"
+      },
+      {
+        "evidence_id": "EV-108",
+        "file_name": "._email35.txt",
+        "evidence_type": "Email",
+        "relevance": "Low",
+        "linked_aps": [],
+        "status": "Needs Review"
+      },
+      {
+        "evidence_id": "EV-109",
+        "file_name": "._email36.txt",
+        "evidence_type": "Email",
+        "relevance": "Low",
+        "linked_aps": [],
+        "status": "Needs Review"
+      },
+      {
+        "evidence_id": "EV-110",
+        "file_name": "._email37.txt",
+        "evidence_type": "Email",
+        "relevance": "Low",
+        "linked_aps": [],
+        "status": "Needs Review"
+      },
+      {
+        "evidence_id": "EV-111",
+        "file_name": "._email38.txt",
+        "evidence_type": "Email",
+        "relevance": "Low",
+        "linked_aps": [],
+        "status": "Needs Review"
+      },
+      {
+        "evidence_id": "EV-112",
+        "file_name": "._email39.txt",
+        "evidence_type": "Email",
+        "relevance": "Low",
+        "linked_aps": [],
+        "status": "Needs Review"
+      },
+      {
+        "evidence_id": "EV-113",
+        "file_name": "._email4.txt",
+        "evidence_type": "Email",
+        "relevance": "Low",
+        "linked_aps": [],
+        "status": "Needs Review"
+      },
+      {
+        "evidence_id": "EV-114",
+        "file_name": "._email40.txt",
+        "evidence_type": "Email",
+        "relevance": "Low",
+        "linked_aps": [],
+        "status": "Needs Review"
+      },
+      {
+        "evidence_id": "EV-115",
+        "file_name": "._email41.txt",
+        "evidence_type": "Email",
+        "relevance": "Low",
+        "linked_aps": [],
+        "status": "Needs Review"
+      },
+      {
+        "evidence_id": "EV-116",
+        "file_name": "._email42.txt",
+        "evidence_type": "Email",
+        "relevance": "Low",
+        "linked_aps": [],
+        "status": "Needs Review"
+      },
+      {
+        "evidence_id": "EV-117",
+        "file_name": "._email43.txt",
+        "evidence_type": "Email",
+        "relevance": "Low",
+        "linked_aps": [],
+        "status": "Needs Review"
+      },
+      {
+        "evidence_id": "EV-118",
+        "file_name": "._email44.txt",
+        "evidence_type": "Email",
+        "relevance": "Low",
+        "linked_aps": [],
+        "status": "Needs Review"
+      },
+      {
+        "evidence_id": "EV-119",
+        "file_name": "._email45.txt",
+        "evidence_type": "Email",
+        "relevance": "Low",
+        "linked_aps": [],
+        "status": "Needs Review"
+      },
+      {
+        "evidence_id": "EV-120",
+        "file_name": "._email46.txt",
+        "evidence_type": "Email",
+        "relevance": "Low",
+        "linked_aps": [],
+        "status": "Needs Review"
+      },
+      {
+        "evidence_id": "EV-121",
+        "file_name": "._email47.txt",
+        "evidence_type": "Email",
+        "relevance": "Low",
+        "linked_aps": [],
+        "status": "Needs Review"
+      },
+      {
+        "evidence_id": "EV-122",
+        "file_name": "._email48.txt",
+        "evidence_type": "Email",
+        "relevance": "Low",
+        "linked_aps": [],
+        "status": "Needs Review"
+      },
+      {
+        "evidence_id": "EV-123",
+        "file_name": "._email49.txt",
+        "evidence_type": "Email",
+        "relevance": "Low",
+        "linked_aps": [],
+        "status": "Needs Review"
+      },
+      {
+        "evidence_id": "EV-124",
+        "file_name": "._email5.txt",
+        "evidence_type": "Email",
+        "relevance": "Low",
+        "linked_aps": [],
+        "status": "Needs Review"
+      },
+      {
+        "evidence_id": "EV-125",
+        "file_name": "._email50.txt",
+        "evidence_type": "Email",
+        "relevance": "Low",
+        "linked_aps": [],
+        "status": "Needs Review"
+      },
+      {
+        "evidence_id": "EV-126",
+        "file_name": "._email6.txt",
+        "evidence_type": "Email",
+        "relevance": "Low",
+        "linked_aps": [],
+        "status": "Needs Review"
+      },
+      {
+        "evidence_id": "EV-127",
+        "file_name": "._email7.txt",
+        "evidence_type": "Email",
+        "relevance": "Low",
+        "linked_aps": [],
+        "status": "Needs Review"
+      },
+      {
+        "evidence_id": "EV-128",
+        "file_name": "._email8.txt",
+        "evidence_type": "Email",
+        "relevance": "Low",
+        "linked_aps": [],
+        "status": "Needs Review"
+      },
+      {
+        "evidence_id": "EV-129",
+        "file_name": "._email9.txt",
+        "evidence_type": "Email",
+        "relevance": "Low",
+        "linked_aps": [],
+        "status": "Needs Review"
+      },
+      {
+        "evidence_id": "EV-130",
+        "file_name": "._Example_Email_1a.txt",
+        "evidence_type": "Email",
+        "relevance": "Low",
+        "linked_aps": [],
+        "status": "Needs Review"
+      },
+      {
+        "evidence_id": "EV-131",
+        "file_name": "._Example_Email_1b.txt",
+        "evidence_type": "Email",
+        "relevance": "Low",
+        "linked_aps": [],
+        "status": "Needs Review"
+      },
+      {
+        "evidence_id": "EV-132",
+        "file_name": "._Example_Email_2a.txt",
+        "evidence_type": "Email",
+        "relevance": "Low",
+        "linked_aps": [],
+        "status": "Needs Review"
+      },
+      {
+        "evidence_id": "EV-133",
+        "file_name": "._Example_Email_2b.txt",
+        "evidence_type": "Email",
+        "relevance": "Low",
+        "linked_aps": [],
+        "status": "Needs Review"
+      },
+      {
+        "evidence_id": "EV-134",
+        "file_name": "._Example_Email_3a.txt",
+        "evidence_type": "Email",
+        "relevance": "Low",
+        "linked_aps": [],
+        "status": "Needs Review"
+      },
+      {
+        "evidence_id": "EV-135",
+        "file_name": "._Example_Email_3b.txt",
+        "evidence_type": "Email",
+        "relevance": "Low",
+        "linked_aps": [],
+        "status": "Needs Review"
+      },
+      {
+        "evidence_id": "EV-136",
+        "file_name": "._Example_Email_4a.txt",
+        "evidence_type": "Email",
+        "relevance": "Low",
+        "linked_aps": [],
+        "status": "Needs Review"
+      },
+      {
+        "evidence_id": "EV-137",
+        "file_name": "._Example_Email_4b.txt",
+        "evidence_type": "Email",
+        "relevance": "Low",
+        "linked_aps": [],
+        "status": "Needs Review"
+      },
+      {
+        "evidence_id": "EV-138",
+        "file_name": "._Example_Email_5a.txt",
+        "evidence_type": "Email",
+        "relevance": "Low",
+        "linked_aps": [],
+        "status": "Needs Review"
+      },
+      {
+        "evidence_id": "EV-139",
+        "file_name": "._Example_Email_5b.txt",
+        "evidence_type": "Email",
+        "relevance": "Low",
+        "linked_aps": [],
+        "status": "Needs Review"
+      },
+      {
+        "evidence_id": "EV-140",
+        "file_name": "._Example_Email_6a.txt",
+        "evidence_type": "Email",
+        "relevance": "Low",
+        "linked_aps": [],
+        "status": "Needs Review"
+      },
+      {
+        "evidence_id": "EV-141",
+        "file_name": "._Example_Email_6b.txt",
+        "evidence_type": "Email",
+        "relevance": "Low",
+        "linked_aps": [],
+        "status": "Needs Review"
+      },
+      {
+        "evidence_id": "EV-142",
+        "file_name": "._Example_Email_7.txt",
+        "evidence_type": "Email",
+        "relevance": "Low",
+        "linked_aps": [],
+        "status": "Needs Review"
+      }
+    ],
+    "B_audit_trail": [
+      {
+        "timestamp": "2026-05-12T06:25:44.217859+00:00",
+        "user": "Ravi Chauhan",
+        "action": "Case created",
+        "object": "Oddity Vendor Invoice Manipulation Allegation",
+        "details": "Created by Ravi Chauhan"
+      },
+      {
+        "timestamp": "2026-05-12T06:26:06.807605+00:00",
+        "user": "Ravi",
+        "action": "Allegation uploaded",
+        "object": "allegtion.pdf",
+        "details": "Extracted 7704 characters from 3 pages"
+      },
+      {
+        "timestamp": "2026-05-12T06:26:22.604536+00:00",
+        "user": "Ravi",
+        "action": "Allegation analyzed",
+        "object": "allegation_summary.json",
+        "details": "LLM extraction complete"
+      },
+      {
+        "timestamp": "2026-05-12T06:27:05.505142+00:00",
+        "user": "Ravi",
+        "action": "LLM question asked",
+        "object": "Allegation Q&A",
+        "details": "Who are the key parties?"
+      },
+      {
+        "timestamp": "2026-05-12T06:28:39.646483+00:00",
+        "user": "Ravi",
+        "action": "Investigation plan generated",
+        "object": "Investigation Plan",
+        "details": "Generated via LLM"
+      },
+      {
+        "timestamp": "2026-05-12T06:29:17.933152+00:00",
+        "user": "Ravi",
+        "action": "Allegation points generated",
+        "object": "Allegation Points",
+        "details": "Generated 9 points via LLM"
+      },
+      {
+        "timestamp": "2026-05-12T06:29:37.603954+00:00",
+        "user": "Ravi",
+        "action": "Allegation points generated",
+        "object": "Allegation Points",
+        "details": "Generated 11 points via LLM"
+      },
+      {
+        "timestamp": "2026-05-12T06:30:19.205805+00:00",
+        "user": "Ravi",
+        "action": "Evidence uploaded",
+        "object": "UpdatedDomainsDemo.zip",
+        "details": "142 files extracted"
+      },
+      {
+        "timestamp": "2026-05-12T06:38:46.545854+00:00",
+        "user": "Ravi",
+        "action": "Evidence scan generated",
+        "object": "AP-001 to AP-007",
+        "details": "Draft statuses generated for 11 points"
+      },
+      {
+        "timestamp": "2026-05-12T06:40:18.771156+00:00",
+        "user": "Ravi Chauhan",
+        "action": "Human review: Edited by Investigator",
+        "object": "AP-002",
+        "details": ""
+      },
+      {
+        "timestamp": "2026-05-12T06:40:57.029042+00:00",
+        "user": "Ravi Chauhan",
+        "action": "Human review: Accepted AI Draft",
+        "object": "AP-001",
+        "details": ""
+      },
+      {
+        "timestamp": "2026-05-12T06:41:03.031868+00:00",
+        "user": "Ravi Chauhan",
+        "action": "Human review: Rejected AI Draft",
+        "object": "AP-003",
+        "details": ""
+      },
+      {
+        "timestamp": "2026-05-12T06:41:06.681758+00:00",
+        "user": "Ravi Chauhan",
+        "action": "Human review: Additional Evidence Requested",
+        "object": "AP-004",
+        "details": ""
+      },
+      {
+        "timestamp": "2026-05-12T06:41:10.293312+00:00",
+        "user": "Ravi Chauhan",
+        "action": "Human review: Escalated to Manager",
+        "object": "AP-005",
+        "details": ""
+      },
+      {
+        "timestamp": "2026-05-12T06:41:17.925817+00:00",
+        "user": "Ravi Chauhan",
+        "action": "Human review: Accepted AI Draft",
+        "object": "AP-005",
+        "details": "xvgf"
+      },
+      {
+        "timestamp": "2026-05-12T06:41:19.029994+00:00",
+        "user": "Ravi Chauhan",
+        "action": "Human review: Marked Final for Report",
+        "object": "AP-005",
+        "details": "xvgf"
+      },
+      {
+        "timestamp": "2026-05-12T06:42:41.511152+00:00",
+        "user": "Ravi",
+        "action": "Conclusion generated",
+        "object": "Pre-Investigation Conclusion",
+        "details": "Draft generated from issue matrix"
+      },
+      {
+        "timestamp": "2026-05-12T06:43:28.537259+00:00",
+        "user": "Ravi Chauhan",
+        "action": "Report generated",
+        "object": "Preliminary Allegation Assessment Memo — FI-2026-001",
+        "details": "Template: Preliminary Allegation Assessment Memo"
+      },
+      {
+        "timestamp": "2026-05-12T06:45:40.723454+00:00",
+        "user": "Ravi Chauhan",
+        "action": "Report generated",
+        "object": "Evidence Review Summary — FI-2026-001",
+        "details": "Template: Evidence Review Summary"
+      }
+    ]
+  },
+  "disclaimer": "This preliminary assessment is based solely on the evidence reviewed to date from the provided issue matrix. It does not constitute a finding of fraud, collusion, or any definitive wrongdoing. Further comprehensive investigation is required to substantiate any allegations and gather direct evidence."
+}

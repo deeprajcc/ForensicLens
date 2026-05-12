@@ -1,0 +1,18 @@
+From: Michael@Oddityhubx.com
+To: Danielle.Chan@qintrex.com
+CC:
+BCC:
+Sent: 22 January 2025, 09:03
+Subject: Integration Follow-Up
+
+Message:
+Hi Danielle,
+
+Just following up on the integration call last week. William and I had a chance to review the API documentation you sent through, and it looks solid overall. There are just a couple of points around authentication flow that we’d like to clarify before proceeding.
+
+Would you be free tomorrow or Thursday for a short call with our lead dev, Joel? He’s mapped out most of the dependencies already, so I think a 20-minute chat should do it.
+
+Thanks again – we’re really looking forward to getting this rolled out.
+
+Best,
+Mike

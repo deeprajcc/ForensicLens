@@ -1,0 +1,191 @@
+[
+  {
+    "timestamp": "2026-05-12T06:25:44.217859+00:00",
+    "user": "Ravi Chauhan",
+    "action": "Case created",
+    "object": "Oddity Vendor Invoice Manipulation Allegation",
+    "details": "Created by Ravi Chauhan"
+  },
+  {
+    "timestamp": "2026-05-12T06:26:06.807605+00:00",
+    "user": "Ravi",
+    "action": "Allegation uploaded",
+    "object": "allegtion.pdf",
+    "details": "Extracted 7704 characters from 3 pages"
+  },
+  {
+    "timestamp": "2026-05-12T06:26:22.604536+00:00",
+    "user": "Ravi",
+    "action": "Allegation analyzed",
+    "object": "allegation_summary.json",
+    "details": "LLM extraction complete"
+  },
+  {
+    "timestamp": "2026-05-12T06:27:05.505142+00:00",
+    "user": "Ravi",
+    "action": "LLM question asked",
+    "object": "Allegation Q&A",
+    "details": "Who are the key parties?"
+  },
+  {
+    "timestamp": "2026-05-12T06:28:39.646483+00:00",
+    "user": "Ravi",
+    "action": "Investigation plan generated",
+    "object": "Investigation Plan",
+    "details": "Generated via LLM"
+  },
+  {
+    "timestamp": "2026-05-12T06:29:17.933152+00:00",
+    "user": "Ravi",
+    "action": "Allegation points generated",
+    "object": "Allegation Points",
+    "details": "Generated 9 points via LLM"
+  },
+  {
+    "timestamp": "2026-05-12T06:29:37.603954+00:00",
+    "user": "Ravi",
+    "action": "Allegation points generated",
+    "object": "Allegation Points",
+    "details": "Generated 11 points via LLM"
+  },
+  {
+    "timestamp": "2026-05-12T06:30:19.205805+00:00",
+    "user": "Ravi",
+    "action": "Evidence uploaded",
+    "object": "UpdatedDomainsDemo.zip",
+    "details": "142 files extracted"
+  },
+  {
+    "timestamp": "2026-05-12T06:38:46.545854+00:00",
+    "user": "Ravi",
+    "action": "Evidence scan generated",
+    "object": "AP-001 to AP-007",
+    "details": "Draft statuses generated for 11 points"
+  },
+  {
+    "timestamp": "2026-05-12T06:40:18.771156+00:00",
+    "user": "Ravi Chauhan",
+    "action": "Human review: Edited by Investigator",
+    "object": "AP-002",
+    "details": ""
+  },
+  {
+    "timestamp": "2026-05-12T06:40:57.029042+00:00",
+    "user": "Ravi Chauhan",
+    "action": "Human review: Accepted AI Draft",
+    "object": "AP-001",
+    "details": ""
+  },
+  {
+    "timestamp": "2026-05-12T06:41:03.031868+00:00",
+    "user": "Ravi Chauhan",
+    "action": "Human review: Rejected AI Draft",
+    "object": "AP-003",
+    "details": ""
+  },
+  {
+    "timestamp": "2026-05-12T06:41:06.681758+00:00",
+    "user": "Ravi Chauhan",
+    "action": "Human review: Additional Evidence Requested",
+    "object": "AP-004",
+    "details": ""
+  },
+  {
+    "timestamp": "2026-05-12T06:41:10.293312+00:00",
+    "user": "Ravi Chauhan",
+    "action": "Human review: Escalated to Manager",
+    "object": "AP-005",
+    "details": ""
+  },
+  {
+    "timestamp": "2026-05-12T06:41:17.925817+00:00",
+    "user": "Ravi Chauhan",
+    "action": "Human review: Accepted AI Draft",
+    "object": "AP-005",
+    "details": "xvgf"
+  },
+  {
+    "timestamp": "2026-05-12T06:41:19.029994+00:00",
+    "user": "Ravi Chauhan",
+    "action": "Human review: Marked Final for Report",
+    "object": "AP-005",
+    "details": "xvgf"
+  },
+  {
+    "timestamp": "2026-05-12T06:42:41.511152+00:00",
+    "user": "Ravi",
+    "action": "Conclusion generated",
+    "object": "Pre-Investigation Conclusion",
+    "details": "Draft generated from issue matrix"
+  },
+  {
+    "timestamp": "2026-05-12T06:43:28.537259+00:00",
+    "user": "Ravi Chauhan",
+    "action": "Report generated",
+    "object": "Preliminary Allegation Assessment Memo — FI-2026-001",
+    "details": "Template: Preliminary Allegation Assessment Memo"
+  },
+  {
+    "timestamp": "2026-05-12T06:45:40.723454+00:00",
+    "user": "Ravi Chauhan",
+    "action": "Report generated",
+    "object": "Evidence Review Summary — FI-2026-001",
+    "details": "Template: Evidence Review Summary"
+  },
+  {
+    "timestamp": "2026-05-12T06:45:48.146094+00:00",
+    "user": "Ravi Chauhan",
+    "action": "Report generated",
+    "object": "Issue Matrix Export — FI-2026-001",
+    "details": "Template: Issue Matrix Export"
+  },
+  {
+    "timestamp": "2026-05-12T06:48:30.891031+00:00",
+    "user": "Ravi",
+    "action": "Evidence uploaded",
+    "object": "UpdatedDomainsDemo.zip",
+    "details": "142 files extracted"
+  },
+  {
+    "timestamp": "2026-05-12T06:59:13.592747+00:00",
+    "user": "Ravi",
+    "action": "LLM question asked",
+    "object": "Allegation Q&A",
+    "details": "Who are the key parties?"
+  },
+  {
+    "timestamp": "2026-05-12T06:59:36.634321+00:00",
+    "user": "Ravi",
+    "action": "LLM question asked",
+    "object": "Allegation Q&A",
+    "details": "What is the potential fraud type?"
+  },
+  {
+    "timestamp": "2026-05-12T07:00:10.061759+00:00",
+    "user": "Ravi",
+    "action": "LLM question asked",
+    "object": "Allegation Q&A",
+    "details": "What is the potential fraud type?"
+  },
+  {
+    "timestamp": "2026-05-12T07:00:18.972894+00:00",
+    "user": "Ravi",
+    "action": "Evidence uploaded",
+    "object": "UpdatedDomainsDemo.zip",
+    "details": "142 files extracted"
+  },
+  {
+    "timestamp": "2026-05-12T07:03:53.237209+00:00",
+    "user": "Ravi",
+    "action": "Evidence uploaded",
+    "object": "UpdatedDomainsDemo.zip",
+    "details": "142 files extracted"
+  },
+  {
+    "timestamp": "2026-05-12T07:07:47.214555+00:00",
+    "user": "Ravi",
+    "action": "Evidence uploaded",
+    "object": "UpdatedDomainsDemo.zip",
+    "details": "142 files extracted"
+  }
+]

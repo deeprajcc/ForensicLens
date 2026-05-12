@@ -1,0 +1,57 @@
+From: Sarah.Miller@flangecorex.com
+To: Jack.Reynolds@flangecorex.com
+Sent: 03 July 2025, 09:16
+Subject: Timesheet Template – Which One??
+
+Hi Jack,
+
+Quick one – has the timesheet format changed again? I opened the version in the shared drive this morning and it's asking for codes I’ve literally never seen before. I checked the old instructions doc (v3.2?) but it doesn’t mention “T5 grouping” anywhere.
+
+Do you know what we’re supposed to be using now? Or who even owns this process at this point? I just want to log my hours and move on with my life.
+
+Thanks,
+Sarah
+
+From: Jack.Reynolds@flangecorex.com
+To: Sarah.Miller@flangecorex.com
+CC: Dinesh.Kapur@flangecorex.com
+Sent: 03 July 2025, 09:48
+Subject: RE: Timesheet Template – Which One??
+
+Hi Sarah,
+
+Yep, I ran into the same thing Monday. I tried using the old sheet and it bounced back with a red warning box (which felt unnecessarily aggressive). I think Dinesh is the new point of contact for this? Tagging him in.
+
+Side note: I’m 90% sure there was no email about the change. It just appeared like a ghost in the shared folder.
+
+Cheers,
+Jack
+
+From: Dinesh.Kapur@flangecorex.com
+To: Sarah.Miller@flangecorex.com; Jack.Reynolds@flange.com
+Sent: 03 July 2025, 10:04
+Subject: RE: Timesheet Template – Which One??
+
+Hi both,
+
+Yes, the new template (v5.1) went live last week. Sorry if that wasn’t clearly communicated – there was a bulletin in last Friday’s internal newsletter, but I realise now that may have flown under the radar.
+
+The T5 codes relate to the new phase-based billing model for external partners. If you’re only logging internal hours, just use “T5-INT” and leave the grouping column blank.
+
+I’ll update the instructions doc this morning and move it to the top of the shared folder. If anything’s still unclear, happy to jump on a quick call.
+
+Thanks,
+Dinesh
+
+From: Sarah.Miller@flangecorex.com
+To: Dinesh.Kapur@flangecorex.com
+CC: Jack.Reynolds@flangecorex.com
+Sent: 03 July 2025, 10:27
+Subject: RE: Timesheet Template – Which One??
+
+Thanks Dinesh — that makes sense now. I think most of us missed that newsletter entirely (I went looking for cake photos and bounced).
+
+Appreciate the clarification. Could you also maybe put a note next to the template in the shared drive? Something like “use this – we promise it’s real”?
+
+Best,
+Sarah

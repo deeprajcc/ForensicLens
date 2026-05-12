@@ -1,0 +1,94 @@
+{
+  "conclusion_version": "v0.1",
+  "status": "Draft",
+  "generated_by": "AI (Gemini) — Requires investigator review",
+  "requires_review": true,
+  "disclaimer": "This preliminary assessment is based solely on the evidence reviewed to date from the provided issue matrix. It does not constitute a finding of fraud, collusion, or any definitive wrongdoing. Further comprehensive investigation is required to substantiate any allegations and gather direct evidence.",
+  "executive_summary": "A preliminary assessment of the provided issue matrix indicates potential indicators of overcharging by the vendor Oddity, significant control failures in the invoice approval process, and suspicious behavior by William Taylor. Allegations include potential overcharges exceeding £100k, inflated billing, and William Taylor approving invoices without adequate checks. While direct evidence of fraud or collusion has not been identified, the reviewed information suggests an environment conducive to such issues. Further comprehensive investigation is required to substantiate these preliminary findings and gather direct evidence.",
+  "allegation_overview": "The primary allegations center on potential overcharging by the vendor Oddity for services rendered during March-May 2025, including claims of inflated hours, billing for unperformed or unauthorized work, and costs significantly higher than projected. A key focus is William Taylor's role in approving these invoices, with concerns raised about his verification processes, dismissive responses to accounting queries, and potential circumvention of standard controls.",
+  "evidence_reviewed": [
+    "EV-071: Sarah Miller email re: potential £100k overcharge, high hours",
+    "EV-064: William Taylor email re: Oddity invoices direct to him, 'safer'",
+    "EV-067: Sarah Miller email re: Oddity costs higher than projected",
+    "EV-068: William Taylor email re: dismissive response to Sarah Miller",
+    "EV-048: Oddity April invoice lacked itemized breakdowns",
+    "EV-008: William Taylor re: 'informal' invoicing process pre-July 2025",
+    "EV-070: William Taylor approval of May Oddity invoice"
+  ],
+  "preliminary_findings": [
+    {
+      "allegation_point": "AP-001",
+      "finding": "Preliminary assessment indicates potential indicators of overcharging by Oddity, as alleged by the Accounting Manager, with an estimated overcharge exceeding £100k during March-May 2025. This is supported by observed consistently high hours and a non-standard invoice approval process involving William Taylor. Direct evidence of the actual overcharge amount is not yet identified.",
+      "status": "Partially Supported"
+    },
+    {
+      "allegation_point": "AP-002",
+      "finding": "Preliminary assessment suggests potential indicators of overbilling by Oddity for the May 2025 period, with the 'May invoice' approved by William Taylor despite internal concerns. However, direct evidence reviewed to date does not identify 'Isabelle Chen' or 'Invoice 36583' specifically, nor does it directly prove work was unperformed.",
+      "status": "Partially Supported"
+    },
+    {
+      "allegation_point": "AP-003",
+      "finding": "Preliminary assessment identifies potential indicators of inflated charges and billing for unauthorized/unnecessary work by Oddity during March-May 2025, as alleged by the Accounting Manager. This is supported by concerns regarding consistently high hours and an acknowledged 'informal' invoicing process. Direct evidence of specific unauthorized work or inflated charges is not yet identified.",
+      "status": "Partially Supported"
+    },
+    {
+      "allegation_point": "AP-004",
+      "finding": "Preliminary assessment indicates potential indicators that Oddity invoice costs during March-May 2025 may be higher than projected or past similar works, based on concerns raised by the Accounting Manager. However, direct comparative data or detailed project budgets have not been identified to confirm this.",
+      "status": "Partially Supported"
+    },
+    {
+      "allegation_point": "AP-005",
+      "finding": "Preliminary assessment indicates strong indicators that William Taylor approved Oddity invoices during March-May 2025 without sufficient formal checks. This is supported by internal concerns regarding discrepancies, his dismissive responses to queries, and his acknowledgment of an 'informal' invoicing process during the period.",
+      "status": "Supported"
+    },
+    {
+      "allegation_point": "AP-006",
+      "finding": "Preliminary assessment identifies potential indicators of suspicious behavior by William Taylor, including controlling the Oddity invoice approval process and dismissive responses to concerns, which are consistent with an environment where collusion could occur. However, direct evidence of collusion or kickbacks has not been identified.",
+      "status": "Partially Supported"
+    },
+    {
+      "allegation_point": "AP-007",
+      "finding": "Preliminary assessment indicates potential indicators of inflated hours or rates on Oddity invoices during March-May 2025, as alleged by the Accounting Manager. William Taylor's control over the invoice flow and acknowledged 'informal' process could facilitate such actions. Direct evidence of specific manual increases has not been identified.",
+      "status": "Partially Supported"
+    },
+    {
+      "allegation_point": "AP-008",
+      "finding": "Preliminary assessment indicates that the allegation of a specific £7k arithmetic error on the May 2025 Oddity invoice is not supported by the evidence reviewed to date. The evidence suggests a larger potential overvaluation on the May invoice, but not a specific £7k arithmetic error.",
+      "status": "Contradicted"
+    },
+    {
+      "allegation_point": "AP-009",
+      "finding": "Preliminary assessment identifies potential indicators of inflated billing related to hours and materials on Oddity invoices, as alleged by the Accounting Manager. However, direct evidence of specific fictitious employees or materials being included has not been identified.",
+      "status": "Partially Supported"
+    },
+    {
+      "allegation_point": "AP-010",
+      "finding": "Preliminary assessment indicates strong indicators of systemic control failures in the invoice approval process, particularly concerning Oddity invoices. This is supported by William Taylor's actions to control invoice flow, his defensive responses to scrutiny, and his acknowledgment of a previously 'informal' process lacking traceability.",
+      "status": "Supported"
+    },
+    {
+      "allegation_point": "AP-011",
+      "finding": "Preliminary assessment identifies potential indicators of deliberate discrepancies between billed hours and project progress for the May 2025 Oddity invoice, with the Accounting Manager noting a significant overvaluation. William Taylor's control over the invoice process and defensive behavior are consistent with this. Direct evidence of actual timesheets, cost schedules, or detailed project progress reports is not yet identified.",
+      "status": "Partially Supported"
+    }
+  ],
+  "evidence_gaps": [
+    "Missing Oddity invoices, timesheets, reports",
+    "No independent audit",
+    "No direct kickback evidence",
+    "Missing project contracts",
+    "No comparative cost data",
+    "No William's verification steps",
+    "Missing approval process details",
+    "No fictitious billing proof"
+  ],
+  "recommended_next_steps": [
+    "Obtain all Oddity invoices, timesheets.",
+    "Review project contracts and budgets.",
+    "Conduct independent project progress review.",
+    "Interview William Taylor and Sarah Miller.",
+    "Examine invoice approval policies/procedures.",
+    "Investigate William Taylor's financial ties.",
+    "Analyze historical vendor billing data."
+  ]
+}
